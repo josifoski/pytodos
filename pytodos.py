@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# https://github.com/josifoski/pytodos.git
 # Program for dealing with todos, nutrition
 # Author: Aleksandar Josifoski https://about.me/josifsk
 # 2018 June; 2019 February; March; 2023 July+;
