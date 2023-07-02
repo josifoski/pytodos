@@ -16,14 +16,14 @@ alias t='python3 /home/josifoski/Dropbox/pytodos/pytodos.py '
 but change path according to your dirin  
   
 Examples:  
-t r t
-t rf tod
-t a t - doing something
-t a tom % let continue with doing something
-t + t 12
-t - y 0
-
-
-
-Good luck
+t r t  
+t rf tod  
+t a t - doing something  
+t a tom % let continue with doing something  
+t + t 12  
+t - y 0  
+  
+  
+  
+Good luck  
 Aleksandar Josifoski about.me/josifsk
