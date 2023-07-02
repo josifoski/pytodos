@@ -4,10 +4,12 @@
 
 First y' need to change dir_in in code after else
 
+<code>
 elif username == 'mfp':  
     dir_in = '/home/' + username + '/Dropbox/pytodos/'  
 else:  
     dir_in = ''  
+</code>
 
 then in ~/.bashrc add alias  
 alias t='python3 /home/josifoski/Dropbox/pytodos/pytodos.py '  
