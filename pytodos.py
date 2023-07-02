@@ -20,6 +20,8 @@ if username == 'josifoski':
     dir_in = '/home/josifoski/Dropbox/pytodos/pytodos/'
 elif username == 'mfp':
     dir_in = '/home/' + username + '/Dropbox/pytodos/'
+else:
+    dir_in = ''
 dir_backup = dir_in + 'pytodos_backup/'
 
 
@@ -1492,41 +1494,6 @@ def main():
                 d['recurrent']['dayinmonth'][sys.argv[4]][int(sys.argv[5])] = d['recurrent']['dayinmonth'][sys.argv[4]][int(sys.argv[5])].replace(replacewith, replaceto, 1)
         dump_json()
 
-    # --------------------------------------------------------------------------
-    if sys.argv[1].lower() in ('h', 'help'):
-        print('examples:')
-        print('append recurrent weekly every monday')
-        print('t a rec w mo do something')
-        print('append recurrent every 5.th in month')
-        print('t a rec dim 5 do something')
-        print('append today')
-        print('t a tod do something')
-        print('append tomorrow')
-        print('t a tom do something')
-        print('append in specified date')
-        print('t a d 0623 do something')
-        print('read today')
-        print('t r t')
-        print('read tomorrow')
-        print('t r tom')
-        print('read by date june 23')
-        print('t r d 0623')
-        print('t r d 20180623')
-        print('read by daterange may 30 till june 15')
-        print('t r dr 0530 0615')
-        print('t r dr 20180530 20180615')
-        print('read recurrents')
-        print('t r rec')
-        print('delete in json by date june 23 item with index 1 (starts with 0)')
-        print('t del d 0623 1')
-        print('delete in json recurrent weekly sunday with index 1 (starts with 0)')
-        print('t del rec w su 1')
-        print('delete in json recurrent by dayinmonth 5 with index 1 (starts with 0)')
-        print('t del rec dim 5 1')
-        print('change in recurrent weekly for sunday at index 0')
-        print('t c rec weekly su 0 this is change')
-        print('change june 23 on index 0')
-        print('t c day 0623 0 another change')
 
 
 if __name__ == '__main__':
