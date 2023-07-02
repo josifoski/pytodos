@@ -11,6 +11,7 @@ else:
     dir_in = ''  
 </code>
   
+  
 then in ~/.bashrc add alias  
 alias t='python3 /home/josifoski/Dropbox/pytodos/pytodos.py '  
 but change path according to your dirin  
