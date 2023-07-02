@@ -24,6 +24,10 @@ t a tom % let continue with doing something
 t + t 12  
 t - y 0  
   
+t del rec ed 0  
+  
+For more examples (fetching all sys.argv lines)  
+cat pytodos.py | grep sys.argv > zexamples.txt  
   
   
 Good luck  
