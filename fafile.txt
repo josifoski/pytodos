@@ -1,0 +1,203 @@
+
+# vegan choline https://vegfaqs.com/vegan-food-sources-choline/
+
+#spices:
+# redpepper, basil, garlic, turmeric, salt, rosemary, thyme
+# kelp, spirulina, chlorela, blackpepper
+
+#legumes:
+# beansred, beansnavy, lentilsred, lentilsgreen, peasfrozen, peascanned
+# chickpeas, edamame, greenbeans, soybeansma
+
+#animal_products:
+# mackerel, sardines, yogurt, geggs
+
+#fruits:
+# kiwi, oranges, tangerines, lemons, lemjuice, strawberries, raspberriesfrozen, apricots
+# bananas, apples, persimmons, peaches, nectarines, watermelons, melons
+# dates, carob, raisins, grapes, figsfresh, figsdried, cherries, plumsfresh, pears, pomegranates
+# chestnuts, mulberries, mango, papaya, cocoa, stevia, chicory
+
+#grains:
+# buckwheat, quinoa, millet, breadintegral, oats, ricebrown, pastarice
+# breadcorn, 
+
+#veggies:
+# potoatoes, batats
+# carrots, beets, onionsmature, onionsspring, eggplant, mushrooms
+# lettuce, chard, spinach, parsfresh, parsdried
+# tomatoes, tomatello, cucumber, zucchini, pepgreen, pepred, leeks, radishes
+# broccoli, cauliflower, cabbagegreen, cabbagered, pumpkinflesh
+
+#nuts & seeds:
+# olives, oilolives, avocado, flax, oilflax, chia, sunflower, pumpkinseeds, sesame, tahini
+# walnuts, peanutbutter, almonds, cashews, pistachios, hazelnuts
+
+>
+# weekly 0001
+redpepper 42, basil 28, garlic 56, turmeric 42, ginger 17.5, salt 35
+kelp 2, spirulina 5
+beansred 700
+mackerel 500, yogurt 2000, geggs 385
+kiwi 150, oranges 700, strawberries 1000, apricots 2000, lemjuice 250
+dates 120, bananas 500, cocoa 24
+olives 300
+buckwheat 700, breadintegral 350, oats 500
+lettuce 500, carrots 500
+flax 37.5, chia 37.5, walnuts 12.5, sunflower 30, pumpkinseeds 30, peanutbutter 100
+brazilnuts 30
+<
+
+>
+# daily 0001
+basi 4, redpep 6, rosem 4, garlic 8
+flax 20, almon 20
+banan 320, kiwi 55, orange 400,
+gegg 100,
+mack 80,
+yog 330,
+oat 50, breadint 50, pastarice 100, beansred 100,
+lettu 250, lemju 40
+<
+
+>
+# daily 0002 (interesting)
+bana 100, apric 200, strawb 200, lettuce 200, onion 30, tomato 70
+turm 6, basil 4, redp 6, musta 15, tahi 20, onionpo 5, garlic 4, lemju 60
+oats 50, dates 20, chia 10, pumpk 10, yogurt 300, gegg 50, sardi 65
+beansred 70, breadint 75, oliv 60, buckw 100
+<
+
+>
+# daily 0003
+yogurt 500, chia 20, pumpk 20, sunfl 30, basil 8, redpep 6, turm 6, ging 5
+gegg 110, sardi 70
+lettuce 200
+bana 200, apric 400, strawb 100, peach 200
+beansred 35, beansnavy 40, buckwh 60, redpep 2.5, garlic 2.5, tomatello 15, mushr 75, oiloli 7
+mush 100, broc 50, caulif 100
+<
+
+>
+# daily 004
+lemju 40
+brazilnut 4, kiwi 80, orange 100
+yogurt 500, chia 20, pumpk 20, sunfl 30, basil 8, redpep 6, turm 6, ginger 5
+breadrye 40, olive 40
+gegg 110, sardines 90
+lettuce 200, lemju 40
+bana 100, apric 400, strawb 100, peach 200
+oats 50, bana 100, peanu 20
+mush 50, broc 50
+<
+
+>
+# daily 006 fishy days [no need for D3 supplement] (Sunday - Friday)?
+# breakfast
+lemju 40
+brazilnut 4, kiwi 80, orange 100
+yogurt 500, chia 20, sunfl 30, basil 8, redpep 6, turm 6, blackpep 1, ginger 5
+gegg 55
+breadrye 40, olive 80
+# lunch 1/3 of mackerel fish
+mackerel 60
+potato 500
+lettuce 200, lemju 40, tahini 25, garlicpow 5, salt 1.5, onionspr 15, mustard 17
+# dinner
+strawb 100, peach 200, bana 200
+mushr 50, broc 50
+<
+
+>
+supomega3 6
+salt 4
+broc 27, broc 47
+brazilnut 4, kiwi 80, orange 90
+gegg 110
+yogurt 333, chia 20, pumpk 20, basil 8, redpep 6, turm 6, blackpep 1, ginger 5
+breadrye 40, mayoregular 23 
+spina 130, cabbage 175, tomato 130, pepgr 38, onionsp 10, oilol 5, salt 2, lemju 20
+cherries 500, apric 200, bana 200, peach 190
+breadrye 40, oliv 40, hotsauce 3
+lentilsred 50
+<
+
+>
+# daily 007 no eggs, yogurt, fish (Saturday) frutarian!?
+brazilnuts 4,
+apricot 200, peaches 1500, bananas 200, strawberries 100,
+
+walnuts 30, sunflower 10, pumpkinseeds 30
+leavesgrape 120, supcalcium 100,
+cauliflower 800, lemjuice 40, carrots 50, salt 5
+peascan 260, potatoes 400
+<
+
+>
+# frutarian based on cucumber version 01
+cucumber 9000
+peaches 1500
+salt 3
+brazilnut 4
+carrot 50
+walnuts 45
+# suplements
+# 6 pills omega-3 180mg EPA, 120mg DHA per pill (or similar)
+# B12
+# sunshine od D3
+<
+
+>
+# frutarian based on cucumber version 02
+cucumber 6000
+lemons 600
+peaches 2000
+salt 3
+brazilnut 4
+carrot 60
+walnuts 45
+# suplements
+# 6 pills omega-3 180mg EPA, 120mg DHA per pill (or similar)
+# B12
+# sunshine od D3
+<
+
+>
+# Based on cucumber version 03
+cucumber 2000
+lemju 40
+peaches 1300
+apricots 1100
+gegg 55
+yogurt 1000
+basil 12
+salt 3
+brazilnut 4
+walnuts 45
+# suplements
+# 6 pills omega-3 180mg EPA, 120mg DHA per pill (or similar)
+# B12
+# sunshine od D3
+<
+
+>
+salt 2, mushr 50, broc 60, lemju 20, blackpep 0.3
+kiwi 80
+macke 32
+bana 240, dates 40, stevia 4, turm 6, basil 8, ginger 5, flax 10, sunfl 10, blackpep 0.3
+geggs 114, breadrye 40, olive 40, hotsauce 3, braziln 4
+#cucumb 1000
+#carrots 100
+<
+
+>>>
+salt 4, lemju 40, broc 40, mushr 50
+supcalc 1, supd3 2, supomega3 2
+geggs 165
+braziln 4
+yog 333, flax 20, sunfl 50, basil 8
+bana 400, carrot 100, appl 200
+millet 100
+pepred 30
+lentilsred 100
+<<<

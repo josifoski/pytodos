@@ -1,0 +1,175 @@
+NDB_No                   15046
+FdGrp_Cd                  1500
+Long_Desc      Fish, mackerel, Atlantic, raw (Scomber scombrus L.)
+Shrt_Desc      Fish, mackerel, atlantic, raw (scomber scombrus l.)
+Ref_desc                      
+Refuse                       0
+Pro_Factor                4.27
+Fat_Factor                9.02
+CHO_Factor                3.87
+PROCNT                    18.6
+FAT                      13.89
+CHOCDF                     0.0
+ASH                       1.35
+ENERC_KCAL               205.0
+STARCH                        
+SUCS                          
+GLUS                          
+FRUS                          
+LACS                          
+MALS                          
+ALC                        0.0
+WATER                    63.55
+ADPROT                        
+CAFFN                      0.0
+THEBRN                     0.0
+ENERC_KJ                 858.0
+SUGAR                      0.0
+GALS                          
+FIBTG                      0.0
+CA                        12.0
+FE                        1.63
+MG                        76.0
+P                        217.0
+K                        314.0
+NA                        90.0
+ZN                        0.63
+CU                       0.073
+FLD                           
+MN                       0.015
+SE                        44.1
+VITA_IU                  167.0
+RETOL                     50.0
+VITA_RAE                  50.0
+CARTB                      0.0
+CARTA                      0.0
+TOCPHA                    1.52
+VITD                     643.0
+ERGCAL                        
+CHOCAL                    16.1
+VITD_BOTH                 16.1
+CRYPX                      0.0
+LYCPN                      0.0
+LUT_ZEA                    0.0
+TOCPHB                        
+TOCPHG                        
+TOCPHD                        
+TOCTRA                        
+TOCTRB                        
+TOCTRG                        
+TOCTRD                        
+VITC                       0.4
+THIA                     0.176
+RIBF                     0.312
+NIA                       9.08
+PANTAC                   0.856
+VITB6A                   0.399
+FOL                        1.0
+VITB12                    8.71
+CHOLN                     65.0
+MK4                           
+VITK1D                        
+VITK1                      5.0
+FOLAC                      0.0
+FOLFD                      1.0
+FOLDFE                     1.0
+BETN                          
+TRP_G                    0.208
+THR_G                    0.815
+ILE_G                    0.857
+LEU_G                    1.512
+LYS_G                    1.708
+MET_G                    0.551
+CYS_G                    0.199
+PHE_G                    0.726
+TYR_G                    0.628
+VAL_G                    0.958
+ARG_G                    1.113
+HISTN_G                  0.548
+ALA_G                    1.125
+ASP_G                    1.905
+GLU_G                    2.777
+GLY_G                    0.893
+PRO_G                    0.658
+SER_G                    0.759
+HYP                           
+VITE_ADDED                 0.0
+VITB12_ADDED               0.0
+CHOLE                     70.0
+FATRN                         
+FASAT                    3.257
+F4D0                       0.0
+F6D0                       0.0
+F8D0                       0.0
+F10D0                      0.0
+F12D0                    0.017
+F14D0                    0.674
+F16D0                    2.125
+F18D0                    0.423
+F20D0                         
+F18D1                    2.283
+F18D2                    0.219
+F18D3                    0.159
+F20D4                    0.183
+F22D6                    1.401
+F22D0                         
+F14D1                         
+F16D1                    0.727
+F18D4                    0.278
+F20D1                    1.039
+F20D5                    0.898
+F22D1                    1.407
+F22D5                    0.212
+PHYSTR                        
+STID7                         
+CAMD5                         
+SITSTR                        
+FAMS                     5.456
+FAPU                      3.35
+F15D0                         
+F17D0                         
+F24D0                         
+F16D1T                        
+F18D1T                        
+F22D1T                        
+F18D2T                        
+F18D2I                        
+F18D2TT                       
+F18D2CLA                      
+F24D1C                        
+F20D2CN6                      
+F16D1C                        
+F18D1C                        
+F18D2CN6                      
+F22D1C                        
+F18D3CN6                      
+F17D1                         
+F20D3                         
+FATRNM                        
+FATRNP                        
+F13D0                         
+F15D1                         
+F18D3CN3                      
+F20D3N3                       
+F20D3N6                       
+F20D4N6                       
+F18D3I                        
+F21D5                         
+F22D4                         
+F18D1TN7                      
+PROT_KCAL      79.5345899414684
+FAT_KCAL       125.465410058532
+CHO_KCAL                   0.0
+CHO_NONFIB                 0.0
+LA                       0.219
+AA                       0.183
+ALA                      0.159
+EPA                      0.898
+DHA                      1.401
+OMEGA6                   0.402
+SHORT6                   0.219
+LONG6                    0.183
+OMEGA3                   2.948
+SHORT3                   0.437
+LONG3                    2.511
+VITE                      2.28

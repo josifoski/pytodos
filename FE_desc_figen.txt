@@ -1,0 +1,2200 @@
+Ferum/Iron values are in mg per 100g
+Daily needed value is 18mg
+
+      NDB_No  FdGrp_Cd                                          Long_Desc      FE
+290     2042       200             Spices, thyme, dried (Thymus vulgaris)  123.60
+252     2003       200            Spices, basil, dried (Ocimum basilicum)   89.80
+307     2066       200                                   Spearmint, dried   87.47
+272     2023       200        Spices, marjoram, dried (Origanum majorana)   82.71
+1983    8504       800  Cereals ready-to-eat, RALSTON Enriched Wheat B...   67.67
+8215   31019      1100  Seaweed, Canadian Cultivated EMI-TSUNOMATA, dr...   66.38
+263     2014       200               Spices, cumin seed (Cuminum cyminum)   66.36
+1790    8028       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-B...   62.10
+1821    8077       800  Cereals ready-to-eat, GENERAL MILLS, Whole Gra...   60.00
+1808    8058       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODU...   60.00
+291     2043       200        Spices, turmeric, ground (Curcuma longa L.)   55.00
+3282   11625      1100                              Parsley, freeze-dried   53.90
+1962    8451       800         Cereals, QUAKER, Quick Oats with Iron, Dry   49.45
+266     2017       200      Spices, dill weed, dried (Anethum graveolens)   48.78
+256     2007       200             Spices, celery seed (Apium graveolens)   44.90
+253     2004       200                  Spices, bay leaf (Laurus nobilis)   43.00
+1875    8177       800               Cereals, MALT-O-MEAL, chocolate, dry   42.88
+261     2012       200  Spices, coriander leaf, dried (Coriandrum sati...   42.46
+1959    8444       800  Cereals, QUAKER, Instant Grits, Redeye Gravy &...   42.03
+2082    8675       800  Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDER...   41.38
+1975    8488       800  Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal,...   40.93
+1832    8092       800   Cereals, QUAKER, corn grits, instant, plain, dry   38.75
+1984    8505       800        Cereals ready-to-eat, RALSTON Corn Biscuits   38.37
+2057    8643       800     Cereals ready-to-eat, GENERAL MILLS, Honey KIX   38.20
+1961    8450       800  Cereals, QUAKER, Instant Grits, Ham 'n' Cheese...   38.20
+288     2039       200        Spices, savory, ground (Satureja hortensis)   37.88
+251     2002       200             Spices, anise seed (Pimpinella anisum)   36.96
+276     2027       200          Spices, oregano, dried (Origanum vulgare)   36.80
+6199   19171      1900  Cocoa, dry powder, unsweetened, HERSHEY'S Euro...   36.00
+1927    8318       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART...   36.00
+283     2034       200                          Spices, poultry seasoning   35.30
+8763   43570       800  Cereals ready-to-eat, POST, HONEY BUNCHES OF O...   34.82
+1974    8487       800  Cereals ready-to-eat, MALT-O-MEAL, Blueberry M...   34.29
+1987    8508       800  Cereals ready-to-eat, USDA Commodity Corn and ...   34.06
+1904    8247       800  Cereals ready-to-eat, GENERAL MILLS, TOTAL Rai...   34.00
+1972    8481       800  Cereals ready-to-eat, MALT-O-MEAL, HONEY GRAHA...   33.81
+8608   42240       800  Cereals ready-to-eat, POST, HONEY BUNCHES OF O...   33.80
+268     2019       200  Spices, fenugreek seed (Trigonella foenum-grae...   33.53
+1840    8104       800  Cereals, farina, enriched, assorted brands inc...   33.39
+1829    8089       800      Cereals ready-to-eat, GENERAL MILLS, WHEATIES   33.30
+2078    8671       800  Cereals ready-to-eat, GENERAL MILLS, Dulce De ...   33.29
+1812    8064       800     Cereals ready-to-eat, GENERAL MILLS, Rice CHEX   33.29
+1781    8013       800      Cereals ready-to-eat, GENERAL MILLS, CHEERIOS   33.17
+1789    8025       800           Cereals ready-to-eat, RALSTON CRISP RICE   32.73
+289     2041       200    Spices, tarragon, dried (Artemisia dracunculus)   32.30
+1820    8074       800             Cereals ready-to-eat, RALSTON TASTEEOS   32.14
+2092    8685       800  Cereals ready-to-eat, QUAKER WHOLE HEARTS oat ...   32.11
+2012    8573       800  Cereals, CREAM OF WHEAT, 2 1/2 minute cook tim...   32.02
+1803    8048       800           Cereals ready-to-eat, GENERAL MILLS, KIX   32.00
+257     2008       200     Spices, chervil, dried (Anthriscus cerefolium)   31.95
+1865    8157       800     Cereals ready-to-eat, wheat, puffed, fortified   31.70
+1864    8156       800      Cereals ready-to-eat, rice, puffed, fortified   31.70
+1976    8489       800  Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot ...   31.29
+2034    8598       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...   31.20
+1970    8476       800   Cereals ready-to-eat, MALT-O-MEAL, Honey BUZZERS   31.03
+1785    8018       800  Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN   30.98
+1845    8116       800         Cereals, MALT-O-MEAL, original, plain, dry   30.86
+1824    8082       800    Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX   30.60
+1813    8065       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE ...   30.42
+1960    8449       800  Cereals, QUAKER, Instant Grits Product with Am...   30.38
+1835    8096       800  Cereals, QUAKER, Instant Grits, Country Bacon ...   30.38
+1834    8094       800  Cereals, QUAKER, corn grits, instant, cheddar ...   30.38
+1856    8138       800  Cereals ready-to-eat, MALT-O-MEAL, MARSHMALLOW...   30.00
+2020    8582       800  Cereals ready-to-eat, GENERAL MILLS, DORA THE ...   30.00
+2063    8653       800  Cereals ready-to-eat, KELLOGG'S RICE KRISPIES,...   30.00
+1894    8221       800  Cereals, QUAKER, Instant Grits, Butter flavor,...   30.00
+2083    8676       800  Cereals ready-to-eat, MALT-O-MEAL, Honey Nut S...   30.00
+1979    8494       800  Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TO...   30.00
+1928    8319       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S FROST...   30.00
+1929    8346       800  Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CR...   30.00
+1775    8002       800             Cereals ready-to-eat, POST, ALPHA-BITS   30.00
+1930    8347       800  Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOS...   30.00
+1886    8206       800       Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS   30.00
+1891    8216       800  Cereals ready-to-eat, QUAKER, Toasted Multigra...   29.90
+2015    8576       800   Cereals, CREAM OF WHEAT, 1 minute cook time, dry   29.75
+2001    8549       800  Cereals ready-to-eat, QUAKER, QUAKER Honey Gra...   29.73
+1890    8215       800  Cereals ready-to-eat, QUAKER, Oatmeal Squares,...   29.50
+1945    8384       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S MINI-...   29.50
+2114    8708       800  Cereals ready-to-eat, KELLOGG's FROSTED MINI-W...   29.50
+1997    8542       800  Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-...   29.50
+1965    8459       800  Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-...   29.50
+2042    8617       800  Cereals ready-to-eat, KELLOGG's FROSTED MINI-W...   29.50
+2084    8677       800  Cereals ready-to-eat, KELLOGG'S FROSTED MINI-W...   29.50
+1981    8500       800  Cereals ready-to-eat, MALT-O-MEAL, Frosted Min...   29.45
+2080    8673       800  Cereals, ready-to-eat, MALT-O-MEAL, Blueberry ...   29.45
+1804    8049       800  Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE,...   29.33
+1889    8214       800      Cereals ready-to-eat, QUAKER, Oatmeal Squares   29.30
+285     2036       200   Spices, rosemary, dried (Rosmarinus officinalis)   29.25
+1802    8047       800         Cereals ready-to-eat, QUAKER, KING VITAMAN   29.00
+2085    8678       800  Cereals ready-to-eat, GENERAL MILLS, Apple Cin...   29.00
+2048    8632       800  Cereals ready-to-eat, QUAKER Oatmeal Squares, ...   29.00
+2107    8701       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   29.00
+2049    8633       800  Cereals ready-to-eat, POST, HONEY BUNCHES OF O...   28.90
+1787    8020       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn ...   28.90
+2047    8631       800  Cereals ready-to-eat, KELLOGG'S FROSTED MINI-W...   28.89
+2089    8682       800  Cereals ready-to-eat, GENERAL MILLS, Multi Gra...   28.89
+2102    8695       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S FROST...   28.89
+2033    8596       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...   28.79
+2045    8628       800  Cereals ready-to-eat, QUAKER, Maple Brown Suga...   28.69
+1842    8106       800              Cereals, CREAM OF WHEAT, instant, dry   28.60
+1838    8102       800  Cereals, CREAM OF WHEAT, regular, 10 minute co...   28.60
+3305   11667      1100                          Seaweed, spirulina, dried   28.50
+1836    8100       800                        Cereals, CREAM OF RICE, dry   28.44
+287     2038       200          Spices, sage, ground (Salvia officinalis)   28.12
+1932    8349       800  Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUI...   28.12
+2112    8706       800   Cereals ready-to-eat, KELLOGG SCOOBY-DOO! cereal   28.10
+1823    8081       800  Cereals ready-to-eat, POST, Honey Nut Shredded...   28.00
+1793    8031       800  Cereals ready-to-eat, KELLOGG'S FROSTED MINI-W...   28.00
+1791    8029       800             Cereals ready-to-eat, POST Bran Flakes   28.00
+8629   42297       800  Cereals ready-to-eat, POST GREAT GRAINS Banana...   28.00
+1798    8038       800      Cereals ready-to-eat, POST, GRAPE-NUTS Cereal   28.00
+1815    8067       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   28.00
+2073    8665       800  Cereals ready-to-eat, POST HONEY BUNCHES OF OA...   28.00
+1907    8259       800   Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX   28.00
+1986    8507       800      Cereals ready-to-eat, RALSTON Crispy Hexagons   27.93
+2040    8613       800  Cereals ready-to-eat, KELLOGG'S SPECIAL K Mult...   27.90
+1799    8039       800      Cereals ready-to-eat, POST, GRAPE-NUTS Flakes   27.90
+1964    8453       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   27.89
+1828    8087       800  Cereals ready-to-eat, GENERAL MILLS, Multi-Gra...   27.89
+1978    8493       800     Cereals ready-to-eat, MALT-O-MEAL, Apple ZINGS   27.27
+1931    8348       800     Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice   27.27
+2037    8603       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   27.00
+2032    8595       800  Cereals ready-to-eat, GENERAL MILLS, Cinnamon ...   27.00
+2081    8674       800  Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDER...   27.00
+1998    8543       800  Cereals ready-to-eat, KELLOGG'S, SPECIAL K Van...   27.00
+2036    8602       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   27.00
+1817    8069       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S FROST...   26.70
+1786    8019       800     Cereals ready-to-eat, GENERAL MILLS, Corn CHEX   26.10
+1944    8383       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECI...   26.10
+2071    8662       800  Cereals ready-to-eat, POST, HONEY BUNCHES OF O...   26.10
+2022    8584       800  Cereals ready-to-eat, KELLOGG'S SPECIAL K Choc...   26.10
+2117    8711       800  Cereals ready-to-eat, KELLOGG'S, SPECIAL K pro...   26.10
+2113    8707       800  Cereals ready-to-eat, KELLOGG'S SPECIAL K Choc...   25.70
+2031    8594       800  Cereals ready-to-eat, GENERAL MILLS, Chocolate...   25.70
+1969    8471       800  Cereals ready-to-eat, KELLOGG'S, SPECIAL K Pro...   25.30
+1993    8531       800  Cereals ready-to-eat, KELLOGG, SPECIAL K, Frui...   25.30
+2074    8666       800  Cereals ready-to-eat, GENERAL MILLS, Cinnamon ...   25.29
+4160   14055      1400  Beverages, UNILEVER, SLIMFAST Shake Mix, high ...   24.84
+1848    8122       800      Cereals, oats, instant, fortified, plain, dry   24.72
+2008    8567       800  Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets   24.00
+2079    8672       800  Cereals ready-to-eat, MALT-O-MEAL, CHOCOLATE M...   24.00
+1917    8274       800  Cereals ready-to-eat, GENERAL MILLS, BERRY BER...   23.70
+1887    8210       800  Cereals ready-to-eat, QUAKER, QUAKER OAT CINNA...   23.22
+4481   14654      1400  Beverages, nutritional shake mix, high protein...   22.50
+1805    8050       800  Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS   22.27
+278     2029       200      Spices, parsley, dried (Petroselinum crispum)   22.04
+2019    8580       800  Incaparina, dry mix (corn and soy flours), unp...   22.00
+2046    8629       800  Cereals ready-to-eat, QUAKER, Cap'n Crunch's O...   21.57
+3303   11663      1100                               Seaweed, agar, dried   21.40
+277     2028       200                  Spices, paprika (Capsicum annuum)   21.14
+1800    8045       800  Cereals ready-to-eat, GENERAL MILLS, HONEY NUT...   20.58
+1915    8272       800  Cereals ready-to-eat, GENERAL MILLS, CINNAMON ...   20.48
+3273   11615      1100                               Chives, freeze-dried   20.00
+5024   16507      1600         LOMA LINDA Redi-Burger, canned, unprepared   20.00
+1779    8011       800  Cereals ready-to-eat, QUAKER, CAP'N CRUNCH wit...   19.80
+270     2021       200       Spices, ginger, ground (Zingiber officinale)   19.80
+2002    8550       800     Cereals ready-to-eat, QUAKER, Christmas Crunch   19.78
+284     2035       200                          Spices, pumpkin pie spice   19.71
+2043    8625       800  Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S H...   19.60
+1888    8211       800    Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S   19.52
+1778    8010       800         Cereals ready-to-eat, QUAKER, CAP'N CRUNCH   19.42
+1985    8506       800          Cereals ready-to-eat, RALSTON Corn Flakes   19.40
+2023    8586       800  Cereals ready-to-eat, GENERAL MILLS, 25% Less ...   19.29
+3697   12169      1200                        Seeds, sesame butter, paste   19.20
+264     2015       200                               Spices, curry powder   19.10
+6523   20060      2000                                   Rice bran, crude   18.54
+267     2018       200           Spices, fennel seed (Foeniculum vulgare)   18.54
+2116    8710       800  Cereals ready-to-eat, KELLOGG'S, SPECIAL K glu...   18.39
+1780    8012       800  Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S P...   18.36
+1809    8059       800   Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP   18.35
+1811    8061       800      Cereals ready-to-eat, POST Raisin Bran Cereal   18.30
+7705   25008      2500  Formulated bar, MARS SNACKFOOD US, SNICKERS MA...   18.15
+1794    8032       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S FROST...   18.00
+7703   25006      2500  Formulated bar, MARS SNACKFOOD US, SNICKERS MA...   17.95
+1774    8001       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-B...   17.60
+4882   16156      1600  Peanut butter, chunky, vitamin and mineral for...   17.50
+297     2049       200                     Thyme, fresh (Thymus vulgaris)   17.45
+6111   19078      1900             Baking chocolate, unsweetened, squares   17.40
+258     2009       200                               Spices, chili powder   17.30
+1784    8017       800  Cereals ready-to-eat, GENERAL MILLS, COOKIE CRISP   17.30
+8612   42261       800  Cereals ready-to-eat, POST, GREAT GRAINS Crunc...   17.30
+1822    8078       800          Cereals ready-to-eat, GENERAL MILLS, TRIX   16.89
+1911    8267       800  Cereals ready-to-eat, GENERAL MILLS, FROSTED C...   16.70
+2021    8583       800  Cereals ready-to-eat, GENERAL MILLS, Fruity CH...   16.70
+2030    8593       800  Cereals ready-to-eat, GENERAL MILLS, CHEERIOS,...   16.70
+1899    8239       800  Cereals ready-to-eat, GENERAL MILLS, Berry Bur...   16.70
+1913    8270       800  Cereals ready-to-eat, GENERAL MILLS, COUNT CHO...   16.70
+1914    8271       800   Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS   16.70
+2052    8637       800  Cereals ready-to-eat, GENERAL MILLS, Oat Clust...   16.70
+4881   16155      1600  Peanut butter, smooth, vitamin and mineral for...   16.60
+8613   42265       800  Cereals ready-to-eat, POST, GREAT GRAINS, Rais...   16.40
+4350   14315      1400         Beverages, OVALTINE, chocolate malt powder   16.36
+4346   14309      1400           Beverages, OVALTINE, Classic Malt powder   16.36
+4179   14080      1400                  Beverages, rich chocolate, powder   16.36
+265     2016       200             Spices, dill seed (Anethum graveolens)   16.33
+262     2013       200        Spices, coriander seed (Coriandrum sativum)   16.32
+7712   25016      2500  Formulated bar, MARS SNACKFOOD US, SNICKERS MA...   16.31
+254     2005       200                 Spices, caraway seed (Carum carvi)   16.23
+2070    8661       800     Cereals ready-to-eat, KELLOGG'S CINNAMON JACKS   16.10
+2069    8660       800  Cereals ready-to-eat, KELLOGG'S APPLE JACKS wi...   16.10
+1992    8513       800  Cereals ready-to-eat, GENERAL MILLS, CHOCOLATE...   16.10
+2029    8592       800  Cereals ready-to-eat, GENERAL MILLS, CHEERIOS,...   16.10
+1776    8003       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S APPLE...   16.10
+1885    8204       800  Cereals ready-to-eat, chocolate-flavored frost...   15.87
+4844   16108      1600                        Soybeans, mature seeds, raw   15.70
+2025    8588       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S CINNA...   15.69
+6195   19166      1900  Cocoa, dry powder, unsweetened, processed with...   15.52
+1882    8194       800  Cereals ready-to-eat, GENERAL MILLS, REESE'S P...   15.50
+1792    8030       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT...   15.50
+2064    8655       800  Cereals ready-to-eat, POST, HONEY BUNCHES OF O...   15.50
+1942    8376       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSH...   15.50
+1973    8484       800  Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran...   15.25
+3698   12170      1200                      Seeds, sesame flour, high-fat   15.17
+2076    8669       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...   15.00
+1968    8469       800  Cereals ready-to-eat, KELLOGG'S, Reduced Sugar...   15.00
+2086    8679       800  Cereals ready-to-eat, GENERAL MILLS, FROSTED T...   15.00
+2068    8659       800  Cereals ready-to-eat, KELLOGG'S FROSTED FLAKES...   15.00
+2003    8553       800  Cereals ready-to-eat, GENERAL MILLS, CHEERIOS,...   15.00
+2067    8658       800  Cereals ready-to-eat, KELLOGG'S KRAVE double c...   15.00
+1884    8202       800  Cereals ready-to-eat, GENERAL MILLS, OATMEAL C...   15.00
+1902    8244       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...   15.00
+1910    8263       800  Cereals ready-to-eat, GENERAL MILLS, APPLE CIN...   15.00
+2061    8651       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...   15.00
+2051    8635       800  Cereals ready-to-eat, GENERAL MILLS, COCOA PUF...   15.00
+1777    8005       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-B...   15.00
+8606   42236       800  Cereals ready-to-eat, frosted oat cereal with ...   15.00
+3620   12024      1200    Seeds, sesame seeds, whole, roasted and toasted   14.76
+7702   25005      2500  Formulated bar, MARS SNACKFOOD US, SNICKERS MA...   14.67
+3619   12023      1200  Seeds, sesame seeds, whole, dried (Sesamum ind...   14.55
+3624   12034      1200             Seeds, sesame meal, partially defatted   14.55
+2077    8670       800  Cereals ready-to-eat, GENERAL MILLS, HONEY NUT...   14.50
+1903    8245       800  Cereals ready-to-eat, GENERAL MILLS, OATMEAL C...   14.50
+6420   19859      1900      Cocoa, dry powder, hi-fat or breakfast, plain   14.50
+6421   19860      1900  Cocoa, dry powder, hi-fat or breakfast, proces...   14.50
+2041    8615       800  Cereals ready-to-eat, KELLOGG'S CRUNCHY NUT Go...   14.50
+2050    8634       800  Cereals ready-to-eat, GENERAL MILLS, PEANUT BU...   14.50
+5009   16422      1600                Soy protein isolate, potassium type   14.50
+2062    8652       800  Cereals ready-to-eat, KELLOGG'S KRAVE chocolat...   14.50
+1796    8035       800  Cereals ready-to-eat, GENERAL MILLS, GOLDEN GR...   14.50
+2105    8699       800       Cereals ready-to-eat, KELLOGG'S KRAVE Smores   14.50
+4858   16122      1600                                Soy protein isolate   14.50
+1782    8014       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA...   14.50
+281     2032       200               Spices, pepper, white (Piper nigrum)   14.31
+3622   12032      1200            Seeds, sesame flour, partially defatted   14.30
+3623   12033      1200                       Seeds, sesame flour, low-fat   14.22
+7716   25021      2500      Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE   14.20
+1807    8057       800  Cereals ready-to-eat, GENERAL MILLS, Honey Nut...   14.10
+255     2006       200            Spices, cardamom (Elettaria cardamomum)   13.97
+4636   15158      1500  Mollusks, clam, mixed species, cooked, breaded...   13.91
+271     2022       200          Spices, mace, ground (Myristica fragrans)   13.90
+1938    8363       800  Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER ...   13.88
+6194   19165      1900                     Cocoa, dry powder, unsweetened   13.86
+4855   16119      1600                            Soy meal, defatted, raw   13.70
+1912    8268       800  Cereals ready-to-eat, GENERAL MILLS, FRANKENBERRY   13.60
+1916    8273       800     Cereals ready-to-eat, GENERAL MILLS, BOO BERRY   13.60
+4870   16135      1600  Winged beans, mature seeds, raw (Psophocarpus ...   13.44
+3612   12011      1200  Seeds, cottonseed meal, partially defatted (gl...   13.35
+7966   28162      1800                      KELLOGG'S, Corn Flakes Crumbs   13.30
+2018    8579       800  Cereals ready-to-eat, GENERAL MILLS, 25% Less ...   12.89
+8607   42237       800  Cereals ready-to-eat, WEETABIX whole grain cereal   12.86
+2056    8642       800  Cereals, QUAKER, Instant Oatmeal, Apple and Ci...   12.77
+3610   12007      1200  Seeds, cottonseed flour, partially defatted (g...   12.66
+3611   12008      1200       Seeds, cottonseed flour, low fat (glandless)   12.58
+5952   18562      1800  ARCHWAY Home Style Cookies, Reduced Fat Ginger...   12.57
+1810    8060       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISI...   12.33
+2989   11240      1100             Mushrooms, morel, raw (Morchella spp.)   12.18
+5679   18166      1800  Cookies, chocolate sandwich, with creme fillin...   12.14
+2055    8641       800  Cereals, QUAKER, Instant Oatmeal, fruit and cr...   12.13
+4172   14067      1400                Beverages, Protein powder soy based   12.00
+2053    8639       800  Cereals, QUAKER, Instant Oatmeal, Cinnamon Spi...   12.00
+4842   16106      1600                                      Meat extender   11.99
+6452   19904      1900               Chocolate, dark, 70-85% cacao solids   11.90
+4493   15012      1500              Fish, caviar, black and red, granular   11.88
+306     2065       200                  Spearmint, fresh (Mentha spicata)   11.87
+260     2011       200       Spices, cloves, ground (Syzygium aromaticum)   11.83
+7713   25017      2500               Formulated bar, POWER BAR, chocolate   11.70
+1953    8409       800  Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes   11.60
+1895    8225       800  Cereals, QUAKER, Instant Oatmeal, fruit and cr...   11.30
+5855   18370      1800  Leavening agents, baking powder, double-acting...   11.27
+286     2037       200                   Spices, saffron (Crocus sativus)   11.10
+5854   18369      1800  Leavening agents, baking powder, double-acting...   11.02
+3585   11978      1100                              Peppers, ancho, dried   10.93
+7755   25068      2500                       Snack, BALANCE, original bar   10.90
+4815   16078      1600  Mothbeans, mature seeds, raw (Vigna aconitifolia)   10.85
+4706   15229      1500  Mollusks, cuttlefish, mixed species, cooked, m...   10.84
+4857   16121      1600  Soy protein concentrate, produced by alcohol e...   10.78
+5008   16420      1600     Soy protein concentrate, produced by acid wash   10.78
+1896    8228       800  Cereals, QUAKER, Instant Oatmeal, raisins, dat...   10.70
+6540   20077      2000                                  Wheat bran, crude   10.57
+1988    8509       800  Cereals ready-to-eat, USDA Commodity Rice Cris...   10.53
+4787   16049      1600  Beans, white, mature seeds, raw (Phaseolus vul...   10.44
+3285   11634      1100                Peppers, sweet, green, freeze-dried   10.40
+3541   11931      1100                  Peppers, sweet, red, freeze-dried   10.40
+2110    8704       800  Cereals, KELLOGG'S SPECIAL K NOURISH, Maple Br...   10.39
+2109    8703       800  Cereals, KELLOGG'S SPECIAL K NOURISH, Cranberr...   10.39
+2108    8702       800  Cereals, KELLOGG'S SPECIAL K NOURISH, Cinnamon...   10.39
+2087    8680       800  Cereals, oats, instant, fortified, maple and b...   10.36
+6048   19000      1900                            SCHIFF,TIGER'S MILK BAR   10.28
+2093    8686       800  Cereals, QUAKER, Weight Control Instant Oatmea...   10.13
+7711   25015      2500  Formulated bar, MARS SNACKFOOD US, SNICKERS MA...   10.13
+1956    8417       800  Cereals, QUAKER, Instant Oatmeal, Banana Bread...   10.07
+4655   15178      1500   Mollusks, whelk, unspecified, cooked, moist heat   10.06
+4798   16060      1600  Cowpeas, catjang, mature seeds, raw (Vigna ung...    9.95
+3589   11982      1100                            Peppers, pasilla, dried    9.83
+8684   43245       800  Cereals ready-to-eat, wheat and bran, presweet...    9.82
+282     2033       200            Spices, poppy seed (Papaver somniferum)    9.76
+5014   16428      1600  Tofu, dried-frozen (koyadofu), prepared with c...    9.73
+4864   16128      1600                      Tofu, dried-frozen (koyadofu)    9.73
+279     2030       200               Spices, pepper, black (Piper nigrum)    9.71
+1582    6959       600                         Gravy, instant turkey, dry    9.57
+4707   15230      1500      Mollusks, octopus, common, cooked, moist heat    9.54
+1854    8132       800  Cereals, oats, instant, fortified, with raisin...    9.43
+2095    8688       800  Cereals, QUAKER, Instant Oatmeal, Cinnamon Swi...    9.41
+7988   28185      1800  KELLOGG'S, POP-TARTS MINI CRISPS, Frosted Stra...    9.40
+4768   16030      1600  Beans, kidney, california red, mature seeds, r...    9.35
+1272    6115       600                                 Gravy, au jus, dry    9.30
+4853   16117      1600                                Soy flour, defatted    9.24
+273     2024       200  Spices, mustard seed, ground (Sinapis alba and...    9.21
+4646   15169      1500  Mollusks, oyster, eastern, wild, cooked, moist...    9.21
+4708   15231      1500      Mollusks, oyster, Pacific, cooked, moist heat    9.20
+1908    8261       800  Cereals ready-to-eat, GENERAL MILLS, RAISIN NU...    9.19
+1958    8436       800  Cereals, QUAKER, Instant Oatmeal, Raisin and S...    9.10
+3564   11955      1100                                Tomatoes, sun-dried    9.09
+1826    8084       800   Cereals ready-to-eat, wheat germ, toasted, plain    9.09
+1923    8305       800           Cereals ready-to-eat, Post, Waffle Crisp    9.00
+3695   12166      1200  Seeds, sesame butter, tahini, from roasted and...    8.95
+3156   11444      1100         Seaweed, irishmoss, raw (Chondrus crispus)    8.90
+4371   14375      1400  Beverages, tea, instant, sweetened with sodium...    8.87
+4364   14356      1400  Beverages, tea, instant, decaffeinated, lemon,...    8.87
+2101    8694       800  Cereals, QUAKER, Instant Oatmeal, weight contr...    8.84
+3615   12014      1200      Seeds, pumpkin and squash seed kernels, dried    8.82
+1850    8124       800  Cereals, QUAKER, Instant Oatmeal, apples and c...    8.78
+2094    8687       800  Cereals, QUAKER, Weight Control Instant Oatmea...    8.78
+7745   25055      2500  Snacks, granola bar, GENERAL MILLS, NATURE VAL...    8.71
+4754   16016      1600  Beans, black turtle, mature seeds, raw (Phaseo...    8.70
+4773   16035      1600  Beans, kidney, royal red, mature seeds, raw (P...    8.70
+4868   16133      1600  Yardlong beans, mature seeds, raw (Vigna unigu...    8.61
+4849   16113      1600                                              Natto    8.60
+6380   19439      2500  Snacks, KELLOGG, KELLOGG'S Low Fat Granola Bar...    8.60
+2106    8700       800  Cereals ready-to-eat, KELLOGG RAISIN BRAN with...    8.50
+1943    8380       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAIS...    8.50
+6487   20017      2000                  Corn flour, masa, enriched, white    8.50
+6597   20317      2000                 Corn flour, yellow, masa, enriched    8.50
+1851    8128       800  Cereals, oats, instant, fortified, with cinnam...    8.46
+1801    8046       800       Cereals ready-to-eat, POST, Honeycomb Cereal    8.44
+7972   28169      1800  KELLOGG'S, POP-TARTS, Frosted Cookies & Creme ...    8.40
+8186   28385      1800       PEPPERIDGE FARM, Jewish Rye Bread (Seedless)    8.40
+1940    8366       800  Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER ...    8.34
+259     2010       200   Spices, cinnamon, ground (Cinnamomum aromaticum)    8.32
+1954    8410       800  Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spi...    8.31
+4800   16062      1600  Cowpeas, common (blackeyes, crowder, southern)...    8.27
+1853    8130       800  Cereals, QUAKER, Instant Oatmeal, maple and br...    8.22
+7833   28025      1800  KELLOGG'S, EGGO, Thick & Fluffy, Waffles, Brow...    8.20
+4854   16118      1600                                 Soy flour, low-fat    8.20
+4765   16027      1600  Beans, kidney, all types, mature seeds, raw (P...    8.20
+7834   28026      1800  KELLOGG'S, EGGO, Thick & Fluffy, Waffles, Orig...    8.20
+1909    8262       800       Cereals ready-to-eat, GENERAL MILLS, BASIC 4    8.19
+1920    8286       800   Cereals ready-to-eat, KELLOGG, KELLOGG'S MUESLIX    8.19
+2035    8599       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...    8.19
+2075    8668       800  Cereals ready-to-eat, GENERAL MILLS, FIBER ONE...    8.19
+3579   11972      1100  Lemon grass (citronella), raw (Collinsonia can...    8.17
+5856   18371      1800        Leavening agents, baking powder, low-sodium    8.17
+6453   19905      1900  Candies, chocolate, dark, NFS (45-59% cacao so...    8.13
+1897    8231       800  Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat...    8.07
+3616   12016      1200  Seeds, pumpkin and squash seed kernels, roaste...    8.07
+3716   12516      1200  Seeds, pumpkin and squash seed kernels, roaste...    8.07
+8216   31020      1100  Seaweed, Canadian Cultivated EMI-TSUNOMATA, re...    8.07
+1827    8085       800  Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER ...    8.05
+6450   19902      1900              Chocolate, dark, 45- 59% cacao solids    8.02
+7822   28014      1800             KELLOGG'S, EGGO, Waffles, French Toast    8.00
+3613   12012      1200      Seeds, hemp seed, hulled (Cannabis sativa L.)    7.95
+1971    8478       800    Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS    7.92
+1955    8411       800  Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGG...    7.91
+1901    8243       800  Cereals ready-to-eat, GENERAL MILLS, HONEY NUT...    7.90
+5796   18299      1800         Pancakes, whole-wheat, dry mix, incomplete    7.84
+8773   44055      1100                               Celery flakes, dried    7.83
+7986   28183      1800  KELLOGG'S, POP-TARTS MINI CRISPS, Cinnamon Bro...    7.80
+7987   28184      1800  KELLOGG'S, POP-TARTS MINI CRISPS, Frosted Choc...    7.80
+5681   18168      1800  Cookies, chocolate sandwich, with extra creme ...    7.80
+8599   42200      1600                                              Papad    7.80
+280     2031       200  Spices, pepper, red or cayenne (Capsicum frute...    7.80
+2103    8696       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISI...    7.80
+3621   12029      1200  Seeds, sesame seed kernels, toasted, without s...    7.78
+3717   12529      1200  Seeds, sesame seed kernels, toasted, with salt...    7.78
+4723   15246      1500  Mollusks, oyster, eastern, farmed, cooked, dry...    7.77
+4783   16045      1600  Beans, small white, mature seeds, raw (Phaseol...    7.73
+5916   18457      1800           Crackers, saltines, fat-free, low-sodium    7.72
+3609   12006      1200        Seeds, chia seeds, dried (Salvia hispanica)    7.72
+4389   14422      1400  Beverages, Dairy drink mix, chocolate, reduced...    7.70
+6591   20142      2000  Teff, uncooked (Eragrostis tef (Zuccagni) Trot...    7.63
+1982    8501       800  Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO...    7.62
+6472   20001      2000         Amaranth grain, uncooked (Amaranthus spp.)    7.61
+3281   11624      1100  Leeks, (bulb and lower-leaf portion), freeze-d...    7.60
+2118    8712       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISI...    7.59
+4820   16083      1600       Mungo beans, mature seeds, raw (Vigna mungo)    7.57
+4808   16071      1600  Lima beans, large, mature seeds, raw (Phaseolu...    7.51
+1580    6957       600                          Gravy, brown instant, dry    7.40
+4875   16144      1600                          Lentils, pink or red, raw    7.39
+6009   18961      1800                   Crackers, cream, GAMESA SABROSAS    7.38
+6546   20084      2000                 Wheat flour, white, cake, enriched    7.32
+3700   12174      1200  Seeds, watermelon seed kernels, dried (Citrull...    7.28
+312     2075       200                 Seasoning mix, dry, taco, original    7.20
+4721   15244      1500  Mollusks, oyster, eastern, wild, cooked, dry heat    7.16
+8126   28324      1800         Pancakes, whole wheat, dry mix, incomplete    7.11
+6241   19225      1900             Desserts, rennin, tablets, unsweetened    7.07
+250     2001       200          Spices, allspice, ground (Pimenta dioica)    7.06
+6547   20086      2000         Wheat flour, white, tortilla mix, enriched    7.05
+3091   11364      1100                Potatoes, baked, skin, without salt    7.04
+3446   11830      1100              Potatoes, baked, skin only, with salt    7.04
+4785   16047      1600  Beans, yellow, mature seeds, raw (Phaseolus vu...    7.01
+4645   15168      1500  Mollusks, oyster, eastern, cooked, breaded and...    6.95
+5875   18403      1800    Waffles, plain, frozen, ready -to-heat, toasted    6.91
+3628   12039      1200  Seeds, sunflower seed kernels, toasted, withou...    6.81
+3721   12539      1200  Seeds, sunflower seed kernels, toasted, with s...    6.81
+7819   28011      1800           KELLOGG'S, EGGO, Waffles, Cinnamon Toast    6.80
+2220    9110       900           Goji berries, dried (Lycium barbarum L.)    6.80
+4778   16040      1600  Beans, pink, mature seeds, raw (Phaseolus vulg...    6.77
+310     2073       200                       PACE, Dry Taco Seasoning Mix    6.75
+4817   16080      1600      Mung beans, mature seeds, raw (Vigna radiata)    6.74
+3149   11432      1100                          Radishes, oriental, dried    6.73
+4642   15165      1500         Mollusks, mussel, blue, cooked, moist heat    6.72
+1833    8093       800  Cereals, QUAKER, corn grits, instant, plain, p...    6.71
+4790   16052      1600  Broadbeans (fava beans), mature seeds, raw (Vi...    6.70
+4647   15170      1500                  Mollusks, oyster, eastern, canned    6.70
+1819    8073       800           Cereals ready-to-eat, POST, GOLDEN CRISP    6.70
+4770   16032      1600  Beans, kidney, red, mature seeds, raw (Phaseol...    6.69
+3644   12087      1200    Nuts, cashew nuts, raw (Anacardium occidentale)    6.68
+1795    8034       800         Cereals ready-to-eat, POST, FRUITY PEBBLES    6.67
+304     2063       200           Rosemary, fresh (Rosmarinus officinalis)    6.65
+6010   18962      1800   Crackers, cream, LA MODERNA RIKIS CREAM CRACKERS    6.64
+7741   25051      2500                    Snacks, CLIF BAR, mixed flavors    6.62
+3630   12041      1200    Seeds, sunflower seed flour, partially defatted    6.62
+7823   28015      1800                KELLOGG'S, EGGO, Waffles, Homestyle    6.60
+293     2045       200              Dill weed, fresh (Anethum graveolens)    6.59
+5983   18933      1800  Waffle, buttermilk, frozen, ready-to-heat, toa...    6.59
+5984   18934      1800  Waffle, buttermilk, frozen, ready-to-heat, mic...    6.53
+4806   16069      1600                      Lentils, raw (Lens culinaris)    6.51
+8106   28304      1800  Waffles, whole wheat, lowfat, frozen, ready-to...    6.43
+4146   14035      1400          Beverages, ABBOTT, EAS soy protein powder    6.43
+5689   18177      1800                                  Cookies, molasses    6.43
+7818   28010      1800               KELLOGG'S, EGGO, Waffles, Buttermilk    6.40
+5934   18506      1800     KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Low Fat    6.40
+7829   28021      1800    KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Original    6.40
+5999   18951      1800     Waffles, chocolate chip, frozen, ready-to-heat    6.40
+5684   18172      1800                               Cookies, gingersnaps    6.40
+7820   28012      1800     KELLOGG'S, EGGO, FIBERPLUS Waffles, Buttermilk    6.40
+7821   28013      1800  KELLOGG'S, EGGO, FIBERPLUS Waffles, Chocolate ...    6.40
+7824   28016      1800        KELLOGG'S, EGGO Protein, Waffles, Homestyle    6.40
+7827   28019      1800   KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Honey Oat    6.40
+7826   28018      1800   KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Blueberry    6.40
+7830   28022      1800    KELLOGG'S, EGGO Seasons, Waffles, Pumpkin Spice    6.40
+5933   18505      1800       KELLOGG'S, EGGO, Waffles, Homestyle, Low Fat    6.40
+7831   28023      1800                   KELLOGG'S, SIMPLY EGGO, Original    6.40
+7832   28024      1800               KELLOGG'S, EGGO, Waffles, Strawberry    6.40
+8062   28260      1800           KELLOGG'S, EGGO, Waffles, Chocolate Chip    6.40
+7817   28009      1800                KELLOGG'S, EGGO, Waffles, Blueberry    6.40
+4851   16115      1600                           Soy flour, full-fat, raw    6.37
+3709   12201      1200   Seeds, sesame seed kernels, dried (decorticated)    6.36
+6353   19403      2500                   Snacks, crisped rice bar, almond    6.35
+3699   12171      1200  Seeds, sesame butter, tahini, from unroasted k...    6.35
+6451   19903      1900               Chocolate, dark, 60-69% cacao solids    6.32
+2148    9030       900  Apricots, dehydrated (low-moisture), sulfured,...    6.31
+6514   20048      2000  Rice, white, long-grain, precooked or instant,...    6.30
+6057   19010      2500           Snacks, crisped rice bar, chocolate chip    6.30
+1581    6958       600                           Gravy, instant beef, dry    6.27
+6541   20078      2000                                  Wheat germ, crude    6.26
+1980    8495       800  Cereals ready-to-eat, MALT-O-MEAL, Cocoa DYNO-...    6.21
+1783    8015       800          Cereals ready-to-eat, POST, COCOA PEBBLES    6.20
+3044   11297      1100              Parsley, fresh (Petroselinum crispum)    6.20
+1924    8309       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY...    6.20
+4811   16074      1600  Lima beans, thin seeded (baby), mature seeds, ...    6.19
+2979   11230      1100                                      Pepeao, dried    6.14
+6382   19441      2500  Snacks, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit    6.14
+1951    8393       800                 Cereals ready-to-eat, KASHI GOLEAN    6.09
+3448   11832      1100  Potatoes, boiled, cooked in skin, skin, with salt    6.07
+3093   11366      1100  Potatoes, boiled, cooked in skin, skin, withou...    6.07
+3727   12586      1200    Nuts, cashew nuts, oil roasted, with salt added    6.05
+3643   12086      1200  Nuts, cashew nuts, oil roasted, without salt a...    6.05
+3571   11962      1100                      Peppers, hot chile, sun-dried    6.04
+5982   18932      1800         Waffles, buttermilk, frozen, ready-to-heat    6.04
+4640   15163      1500  Mollusks, cuttlefish, mixed species, raw (Sepi...    6.02
+6030   18982      1800     KASHI, H2H Woven Wheat Cracker, Roasted Garlic    6.00
+3642   12085      1200  Nuts, cashew nuts, dry roasted, without salt a...    6.00
+6027   18979      1800           KASHI, H2H Woven Wheat Cracker, Original    6.00
+1921    8288       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE ...    6.00
+3726   12585      1200    Nuts, cashew nuts, dry roasted, with salt added    6.00
+7733   25039      2500  Snacks, granola bars, QUAKER OATMEAL TO GO, al...    6.00
+3287   11640      1100                             Shallots, freeze-dried    6.00
+1816    8068       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN ...    6.00
+1989    8510      2500                                Milk and cereal bar    5.99
+1849    8123       800  Cereals, oats, instant, fortified, plain, prep...    5.96
+3096   11369      1100  Potatoes, microwaved, cooked in skin, skin, wi...    5.94
+3452   11836      1100  Potatoes, microwaved, cooked, in skin, skin wi...    5.94
+5732   18226      1800                       Crackers, rye, wafers, plain    5.94
+7815   28007      1800  KELLOGG'S, EGGO, Wafflers, Brown Sugar Cinnamo...    5.90
+7816   28008      1800      KELLOGG'S, EGGO, Wafflers, Strawberry Strudel    5.90
+6047   18999      1800       KELLOGG'S, EGGO, Mini Muffin Tops, Blueberry    5.90
+5054   16546      1600  MORNINGSTAR FARMS Breakfast Sausage Links, fro...    5.90
+2065    8656       800  Cereals ready-to-eat, NATURE'S PATH, Organic F...    5.89
+3595   11988      1100                           Fungi, Cloud ears, dried    5.88
+4852   16116      1600                       Soy flour, full-fat, roasted    5.82
+5985   18935      1800    Waffle, plain, frozen, ready-to-heat, microwave    5.81
+1825    8083       800     Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS    5.80
+4463   14631      1400  Beverages, Horchata, dry mix, unprepared, vari...    5.80
+4722   15245      1500  Mollusks, oyster, eastern, farmed, raw (Crasso...    5.78
+6492   20023      2000  Cornmeal, yellow, self-rising, bolted, plain, ...    5.76
+6601   20323      2000  Cornmeal, white, self-rising, bolted, plain, e...    5.76
+3715   12220      1200              Seeds, flaxseed (Linum usitatissimum)    5.73
+5787   18288      1800  Pancakes plain, frozen, ready-to-heat (include...    5.67
+6008   18960      1800                     Crackers, snack, GOYA CRACKERS    5.66
+7739   25048      2500              Snacks, NUTRI-GRAIN FRUIT AND NUT BAR    5.65
+269     2020       200             Spices, garlic powder (Allium sativum)    5.65
+5847   18361      1800             Toaster pastries, brown-sugar-cinnamon    5.62
+5851   18365      1800              Waffles, plain, frozen, ready-to-heat    5.61
+8699   43299      1600                               Soybean, curd cheese    5.60
+1991    8512       800  Cereals, MALT-O-MEAL, chocolate, prepared with...    5.59
+5673   18159      1800  Cookies, chocolate chip, commercially prepared...    5.58
+5734   18228      1800   Crackers, saltines (includes oyster, soda, soup)    5.57
+3684   12147      1200                Nuts, pine nuts, dried (Pinus spp.)    5.53
+5848   18362      1800  Toaster pastries, fruit (includes apple, blueb...    5.51
+2318    9244       900  Peaches, dehydrated (low-moisture), sulfured, ...    5.51
+5066   16565      1600  MORNINGSTAR FARMS Sausage Style Recipe Crumble...    5.50
+7919   28115      1800  KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE...    5.50
+4775   16037      1600  Beans, navy, mature seeds, raw (Phaseolus vulg...    5.49
+4762   16024      1600  Beans, great northern, mature seeds, raw (Phas...    5.47
+6050   19002      2500             Snacks, beef jerky, chopped and formed    5.42
+6501   20033      2000                                      Oat bran, raw    5.41
+7754   25067      2500            Formulated Bar, SOUTH BEACH protein bar    5.40
+3693   12160      1200  Seeds, cottonseed kernels, roasted (glandless)...    5.40
+2267    9173       900                                     Longans, dried    5.40
+5921   18479      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    5.40
+5892   18426      1800  Crackers, saltines, unsalted tops (includes oy...    5.40
+6538   20075      2000           Wheat, soft white (Triticum aestivum L.)    5.37
+5013   16427      1600  Tofu, raw, regular, prepared with calcium sulfate    5.36
+1844    8113       800  Cereals, farina, enriched, cooked with water, ...    5.33
+1841    8105       800  Cereals, farina, enriched, assorted brands inc...    5.33
+1874    8173       800  Cereals, farina, enriched, cooked with water, ...    5.33
+1594    6971       600                              Sauce, worcestershire    5.30
+2111    8705       800  Cereals ready-to-eat, KASHI GOLEAN Vanilla Gra...    5.30
+4643   15166      1500  Mollusks, octopus, common, raw (Octopus vulgar...    5.30
+3625   12036      1200  Seeds, sunflower seed kernels, dried (Helianth...    5.25
+4838   16101      1600  Pigeon peas (red gram), mature seeds, raw (Caj...    5.23
+8782   48052      2000                                 Vital wheat gluten    5.20
+7720   25025      2500                Snacks, soy chips or crisps, salted    5.20
+7728   25034      2500  Snacks, granola bar, KASHI GOLEAN, crunchy, mi...    5.20
+1990    8511       800  Cereals, MALT-O-MEAL, original, plain, prepare...    5.19
+3741   12738      1200  Nuts, mixed nuts, oil roasted, without peanuts...    5.18
+5006   16409      1600  Soybeans, mature seeds, cooked, boiled, with salt    5.14
+1941    8370       800  Cereals ready-to-eat, GENERAL MILLS, RICE CRUN...    5.14
+4845   16109      1600      Soybeans, mature cooked, boiled, without salt    5.14
+6014   18966      1800  Crackers, saltines, whole wheat (includes mult...    5.14
+5891   18425      1800  Crackers, saltines, low salt (includes oyster,...    5.13
+2986   11237      1100                       Kanpyo, (dried gourd strips)    5.12
+4648   15171      1500  Mollusks, oyster, Pacific, raw (Crassostrea gi...    5.11
+4804   16067      1600  Hyacinth beans, mature seeds, raw (Dolichos pu...    5.10
+7811   28003      1800               KELLOGG'S, EGGO, Pancakes, Blueberry    5.10
+7971   28168      1800  KELLOGG'S, POP-TARTS, Frosted Confetti Cake To...    5.10
+2251    9147       900                      Jujube, Chinese, fresh, dried    5.09
+305     2064       200  Peppermint, fresh (Mentha x piperita L. nothos...    5.08
+4780   16042      1600  Beans, pinto, mature seeds, raw (Phaseolus vul...    5.07
+6637   20640      2000  Wheat flour, white (industrial), 13% protein, ...    5.06
+6639   20645      2000  Wheat flour, white (industrial), 15% protein, ...    5.06
+6634   20634      2000  Wheat flour, white (industrial), 11.5% protein...    5.06
+6633   20630      2000  Wheat flour, white (industrial), 10% protein, ...    5.06
+6629   20623      2000  Wheat flour, white (industrial), 9% protein, b...    5.06
+6631   20628      2000  Wheat flour, white (industrial), 10% protein, ...    5.06
+6636   20636      2000  Wheat flour, white (industrial), 11.5% protein...    5.06
+7738   25046      2500                         Snacks, bagel chips, plain    5.05
+4654   15177      1500     Mollusks, whelk, unspecified, raw (Buccinidae)    5.03
+3645   12088      1200     Nuts, cashew butter, plain, without salt added    5.03
+4752   16014      1600  Beans, black, mature seeds, raw (Phaseolus vul...    5.02
+5998   18950      1800                       Crackers, wheat, reduced fat    5.02
+4757   16019      1600  Beans, cranberry (roman), mature seeds, raw (P...    5.00
+6045   18997      1800   KELLOGG'S, EGGO, French Toaster Sticks, Cinnamon    5.00
+6046   18998      1800   KELLOGG'S, EGGO, French Toaster Sticks, Original    5.00
+5947   18539      1800  ARCHWAY Home Style Cookies, Old Fashioned Mola...    4.99
+4741   16001      1600  Beans, adzuki, mature seeds, raw (Vigna angula...    4.98
+2014    8575       800  Cereals, CREAM OF WHEAT, 2 1/2 minute cook tim...    4.98
+7715   25020      2500  Formulated bar, SLIM-FAST OPTIMA meal bar, mil...    4.98
+6526   20063      2000                                    Rye flour, dark    4.97
+1843    8107       800  Cereals, CREAM OF WHEAT, instant, prepared wit...    4.96
+4420   14538      1400  Beverages, Cocoa mix, low calorie, powder, wit...    4.96
+4267   14196      1400       Beverages, Cocoa mix, no sugar added, powder    4.96
+6493   20024      2000  Cornmeal, yellow, self-rising, bolted, with wh...    4.95
+6602   20324      2000  Cornmeal, white, self-rising, bolted, with whe...    4.95
+5861   18376      1800                Bread crumbs, dry, grated, seasoned    4.92
+3728   12588      1200        Nuts, cashew butter, plain, with salt added    4.91
+6399   19804      2500  Snacks, corn-based, extruded, chips, barbecue-...    4.90
+5048   16533      1600  WORTHINGTON Smoked Turkey Roll, frozen, unprep...    4.90
+8084   28282      1800   SUNSHINE, KRISPY, Soup & Oyster Crackers (large)    4.90
+3617   12021      1200  Seeds, safflower seed kernels, dried (Carthamu...    4.90
+5932   18501      1800  KELLOGG, KELLOG'S NUTRI-GRAIN CEREAL BARS, Mix...    4.90
+5964   18619      1800  NABISCO, NABISCO OREO CRUNCHIES, Cookie Crumb ...    4.90
+5080   16596      1600  MORNINGSTAR FARMS Grillers Quarter Pound Veggi...    4.90
+5766   18263      1800  English muffins, raisin-cinnamon, toasted (inc...    4.90
+7967   28163      1800  KELLOGG'S, POP-TARTS, Frosted Apple Strudel To...    4.90
+6015   18967      1800                                 Bread, white wheat    4.89
+2017    8578       800  Cereals, CREAM OF WHEAT, 1 minute cook time, c...    4.88
+5720   18214      1800                          Crackers, cheese, regular    4.88
+8166   28365      1800  PEPPERIDGE FARM, Goldfish, Baked Snack Cracker...    4.87
+4865   16129      1600                                        Tofu, fried    4.87
+5015   16429      1600         Tofu, fried, prepared with calcium sulfate    4.87
+3618   12022      1200     Seeds, safflower seed meal, partially defatted    4.86
+8767   43595      2500         Breakfast bar, corn flake crust with fruit    4.86
+4883   16157      1600                             Chickpea flour (besan)    4.86
+5621   18079      1800                   Bread crumbs, dry, grated, plain    4.83
+4822   16085      1600  Peas, green, split, mature seeds, raw (Pisum s...    4.82
+6383   19444      2500  Snacks, tortilla chips, low fat, made with ole...    4.80
+7979   28176      1800  KELLOGG'S, POP-TARTS, Frosted Wild Grape Toast...    4.80
+6013   18965      1800                      Crackers, cheese, reduced fat    4.80
+7015   22120      1600  MORNINGSTAR FARMS Grillers Burger Style Recipe...    4.80
+5927   18489      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    4.80
+7891   28085      1800  KEEBLER, FUDGE SHOPPE, Fudge Grahams, 1/2 Dipp...    4.80
+5900   18434      1800                       Crackers, cheese, low sodium    4.77
+4287   14222      1400           Beverages, coffee, instant, with chicory    4.76
+2980   11231      1100           Jute, potherb, raw (Corchorus olitorius)    4.76
+4837   16100      1600                              Peanut flour, low fat    4.74
+6603   20325      2000   Cornmeal, white, self-rising, degermed, enriched    4.73
+6566   20113      2000                        Noodles, chinese, chow mein    4.73
+6494   20025      2000  Cornmeal, yellow, self-rising, degermed, enriched    4.73
+8164   28363      1800  PEPPERIDGE FARM, Goldfish, Baked Snack Cracker...    4.73
+5794   18295      1800           Pancakes, buckwheat, dry mix, incomplete    4.73
+6506   20038      2000                             Oats (Avena sativa L.)    4.72
+6292   19304      1900                                           Molasses    4.72
+5707   18199      1800  Cookies, chocolate sandwich, with creme fillin...    4.72
+6580   20131      2000                                  Barley malt flour    4.71
+2016    8577       800  Cereals, CREAM OF WHEAT, 1 minute cook time, c...    4.70
+7871   28065      1800             KEEBLER, CLUB, Minis Original Crackers    4.70
+3665   12120      1200         Nuts, hazelnuts or filberts (Corylus spp.)    4.70
+5645   18114      1800                         Cake, gingerbread, dry mix    4.70
+8051   28249      1800  SUNSHINE, CHEEZ-IT, White Cheddar, Reduced Fat...    4.70
+6040   18992      1800       KELLOGG'S, BEANATURAL, Original 3-Bean Chips    4.70
+5944   18535      1800               ARCHWAY Home Style Cookies, Molasses    4.68
+6544   20082      2000  Wheat flour, white, all-purpose, self-rising, ...    4.67
+5725   18219      1800                       Crackers, matzo, whole-wheat    4.65
+5762   18259      1800  English muffins, plain, toasted, enriched, wit...    4.65
+6627   20581      2000  Wheat flour, white, all-purpose, enriched, unb...    4.64
+5742   18236      1800                                       Cracker meal    4.64
+6543   20081      2000  Wheat flour, white, all-purpose, enriched, ble...    4.64
+1952    8402       800                   Cereals, QUAKER, Quick Oats, Dry    4.64
+6606   20381      2000  Wheat flour, white, all-purpose, enriched, cal...    4.64
+4483   15002      1500  Fish, anchovy, european, canned in oil, draine...    4.63
+5935   18507      1800  KELLOGG'S EGGO Lowfat Blueberry Nutri-Grain Wa...    4.62
+4644   15167      1500  Mollusks, oyster, eastern, wild, raw (Crassost...    4.61
+4296   14236      1400  Beverages, coffee substitute, cereal grain bev...    4.60
+8054   28252      1800          SUNSHINE, CHEEZ-IT, Scrabble Jr. Crackers    4.60
+4247   14168      1400       Beverages, Carob-flavor beverage mix, powder    4.60
+7973   28170      1800  KELLOGG'S, POP-TARTS, Frosted Orange Cream Toa...    4.60
+3608   12005      1200                  Seeds, breadnut tree seeds, dried    4.60
+7963   28159      1800  KEEBLER, WHEATABLES, Nut Crisp Crackers, Toast...    4.60
+7731   25037      2500                         Snacks, pita chips, salted    4.59
+2060    8649       800  Cereals ready-to-eat, KASHI GOLEAN CRISP Cinna...    4.59
+4987   16368      1600  Hyacinth beans, mature seeds, cooked, boiled, ...    4.58
+4805   16068      1600  Hyacinth beans, mature seeds, cooked, boiled, ...    4.58
+4824   16087      1600                            Peanuts, all types, raw    4.58
+8133   28331      1800                    Crackers, flavored, fish-shaped    4.58
+6086   19047      2500              Snacks, pretzels, hard, plain, salted    4.58
+6503   20035      2000       Quinoa, uncooked (Chenopodium quinoa Willd.)    4.57
+3230   11548      1100                                      Tomato powder    4.56
+5864   18383      1800         Bread, protein, (includes gluten), toasted    4.56
+6537   20074      2000           Wheat, hard white (Triticum aestivum L.)    4.56
+6149   19117      1900                            Candies, halavah, plain    4.53
+7780   27035       600  Soup, ramen noodle, dry, any flavor, reduced f...    4.52
+7017   22122      1600  MORNINGSTAR FARMS Breakfast Sausage Patties, f...    4.50
+5563   18002      1800  Bagels, plain, enriched, with calcium propiona...    4.50
+7872   28066      1800           KEEBLER, CLUB, Minis Multigrain Crackers    4.50
+5728   18222      1800                       Crackers, melba toast, wheat    4.50
+5765   18262      1800  English muffins, raisin-cinnamon (includes app...    4.50
+5965   18621      1800                     NABISCO, NABISCO RITZ Crackers    4.47
+8165   28364      1800  PEPPERIDGE FARM, Goldfish, Baked Snack Cracker...    4.45
+6589   20140      2000  Spelt, uncooked (Triticum aestivum L. subsp. s...    4.44
+8163   28362      1800  PEPPERIDGE FARM, Goldfish, Baked Snack Cracker...    4.43
+5775   18272      1800                Ice cream cones, sugar, rolled-type    4.43
+1925    8314       800   Cereals, QUAKER, hominy grits, white, quick, dry    4.42
+3739   12698      1200  Seeds, sesame butter, tahini, type of kernels ...    4.42
+1926    8316       800  Cereals, QUAKER, hominy grits, white, regular,...    4.42
+1861    8146       800  Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat    4.41
+6545   20083      2000                Wheat flour, white, bread, enriched    4.41
+4272   14203      1400  Beverages, coffee, instant, regular, half the ...    4.41
+4279   14214      1400        Beverages, coffee, instant, regular, powder    4.41
+6074   19033      2500  Snacks, GENERAL MILLS, CHEX MIX, traditional f...    4.40
+8053   28251      1800  SUNSHINE, CHEEZ-IT, 100 Calorie Right Bites, R...    4.40
+8083   28281      1800           SUNSHINE, CHEEZ-IT, Reduced Fat Crackers    4.40
+5894   18428      1800                          Crackers, wheat, low salt    4.40
+6157   19125      1900                 Chocolate-flavored hazelnut spread    4.38
+3667   12122      1200  Nuts, hazelnuts or filberts, dry roasted, with...    4.38
+5872   18400      1800                     Crackers, matzo, egg and onion    4.37
+6516   20050      2000           Rice, white, medium-grain, raw, enriched    4.36
+6529   20066      2000                                 Semolina, enriched    4.36
+4813   16076      1600          Lupins, mature seeds, raw (Lupinus albus)    4.36
+6491   20022      2000               Cornmeal, degermed, enriched, yellow    4.36
+6600   20322      2000                Cornmeal, degermed, enriched, white    4.36
+5987   18938      1800  Toaster Pastries, fruit, frosted (include appl...    4.35
+4871   16136      1600  Winged beans, mature seeds, cooked, boiled, wi...    4.33
+5018   16436      1600  Winged beans, mature seeds, cooked, boiled, wi...    4.33
+6407   19814      2500  Snacks, pretzels, hard, plain, made with enric...    4.32
+5954   18567      1800       KRAFT, STOVE TOP Stuffing Mix Chicken Flavor    4.32
+4794   16056      1600  Chickpeas (garbanzo beans, bengal gram), matur...    4.31
+6510   20044      2000    Rice, white, long-grain, regular, raw, enriched    4.31
+5991   18943      1800     Pie Crust, Cookie-type, Chocolate, Ready Crust    4.30
+5073   16587      1600  MORNINGSTAR FARMS Breakfast Sausage Patties Ma...    4.30
+5036   16519      1600        WORTHINGTON Super Links, canned, unprepared    4.30
+7814   28006      1800            KELLOGG'S, CINNABON, Pancakes, Original    4.30
+7948   28144      1800  KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Cracke...    4.30
+7813   28005      1800             KELLOGG'S, CINNABON, Pancakes, Caramel    4.30
+7812   28004      1800          KELLOGG'S, EGGO, Pancakes, Chocolate Chip    4.30
+8044   28242      1800  SUNSHINE, GRIPZ, Cheez-It Mixx and Cheesy Pizz...    4.30
+8057   28255      1800              KEEBLER, ZESTA, Export Sodas Crackers    4.30
+3720   12538      1200  Seeds, sunflower seed kernels, oil roasted, wi...    4.28
+5622   18080      1800                                Bread sticks, plain    4.28
+3627   12038      1200  Seeds, sunflower seed kernels, oil roasted, wi...    4.28
+6560   20105      2000                 Macaroni, vegetable, enriched, dry    4.28
+6184   19154      1900                             Candies, sesame crunch    4.27
+8162   28361      1800  PEPPERIDGE FARM, Goldfish, Baked Snack Cracker...    4.26
+8045   28243      1800           SUNSHINE, CHEEZ-IT, Hot & Spicy Crackers    4.26
+1846    8120       800  Cereals, oats, regular and quick, not fortifie...    4.25
+6518   20052      2000       Rice, white, short-grain, enriched, uncooked    4.23
+1603    6983       600            Soup, ramen noodle, chicken flavor, dry    4.21
+6564   20111      2000               Noodles, egg, spinach, enriched, dry    4.20
+7870   28064      1800               KEEBLER, CLUB, Dash of Salt Crackers    4.20
+5785   18283      1800                                  Muffins, oat bran    4.20
+5055   16548      1600  MORNINGSTAR FARMS Grillers Original, frozen, u...    4.20
+7941   28137      1800                  KEEBLER, TOASTEDS, Wheat Crackers    4.20
+2054    8640       800  Cereals, QUAKER, Instant Oatmeal Organic, Regular    4.20
+8043   28241      1800                 SUNSHINE, GRIPZ, Cheez-It Crackers    4.20
+8121   28319      1800                          Bagels, whole grain white    4.19
+5596   18043      1800                   Bread, protein (includes gluten)    4.15
+6110   19077      1900              Baking chocolate, unsweetened, liquid    4.15
+6628   20622      2000  Spaghetti, protein-fortified, dry, enriched (n...    4.15
+5832   18345      1800                            Rolls, dinner, oat bran    4.14
+5963   18617      1800                  NABISCO, NABISCO GRAHAMS Crackers    4.13
+3722   12540      1200      Seeds, sunflower seed butter, with salt added    4.12
+3629   12040      1200         Seeds, sunflower seed butter, without salt    4.12
+1517    6583       600                Soup, ramen noodle, any flavor, dry    4.11
+5980   18930      1800                  USDA Commodity, Bakery, Flour Mix    4.11
+5981   18931      1800          USDA Commodity, Bakery, Flour Mix Low-fat    4.11
+8061   28259      1800        KELLOGG'S, EGGO Minis, Pancakes, Buttermilk    4.10
+5093   16615      1600  MORNINGSTAR FARMS Chipotle Black Bean Crumbles...    4.10
+8037   28235      1800            SUNSHINE, CHEEZ-IT, Baby Swiss Crackers    4.10
+8036   28234      1800                SUNSHINE, CHEEZ-IT, Asiago Crackers    4.10
+8046   28244      1800   SUNSHINE, CHEEZ-IT, Italian Four Cheese Crackers    4.10
+8187   28386      1800                PEPPERIDGE FARM, Pumpernickel Bread    4.10
+8048   28246      1800            SUNSHINE, CHEEZ-IT, Mozzarella Crackers    4.10
+8050   28248      1800           SUNSHINE, CHEEZ-IT, Pepper Jack Crackers    4.10
+5942   18532      1800          ARCHWAY Home Style Cookies, Iced Molasses    4.10
+1950    8390       800           Cereals ready-to-eat, KASHI GOOD FRIENDS    4.10
+5566   18006      1800                   Bagels, cinnamon-raisin, toasted    4.09
+5611   18065      1800                              Bread, wheat, toasted    4.09
+2013    8574       800  Cereals, CREAM OF WHEAT, 2 1/2 minute cook tim...    4.09
+5747   18242      1800                                    Croutons, plain    4.08
+1934    8352       800  Cereals ready-to-eat, QUAKER, MOTHER'S Toasted...    4.07
+5708   18200      1800  Cookies, oatmeal, commercially prepared, speci...    4.07
+5674   18160      1800  Cookies, chocolate chip, commercially prepared...    4.07
+2320    9246       900                 Peaches, dried, sulfured, uncooked    4.06
+5961   18615      1800  MARTHA WHITE FOODS, Martha White's Buttermilk ...    4.06
+6481   20011      2000                       Buckwheat flour, whole-groat    4.06
+8733   43406      1100                               Yeast extract spread    4.04
+2011    8571       800  Cereals ready-to-eat, NATURE'S PATH, Organic F...    4.04
+5735   18229      1800             Crackers, standard snack-type, regular    4.03
+1957    8435       800             Cereals ready-to-eat, UNCLE SAM CEREAL    4.03
+3735   12652      1200  Nuts, pistachio nuts, dry roasted, with salt a...    4.03
+3687   12152      1200  Nuts, pistachio nuts, dry roasted, without sal...    4.03
+3641   12084      1200          Nuts, butternuts, dried (Juglans cinerea)    4.02
+6562   20109      2000                        Noodles, egg, dry, enriched    4.01
+8098   28296      1800  Cake, snack cakes, creme-filled, chocolate wit...    4.01
+5671   18157      1800                          Cookies, chocolate wafers    4.01
+6376   19435      2500          Snacks, granola bar, fruit-filled, nonfat    4.00
+2973   11222      1100           Drumstick leaves, raw (Moringa oleifera)    4.00
+7944   28140      1800  KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Cracke...    4.00
+8042   28240      1800  SUNSHINE, CHEEZ-IT, Duoz Smoked Cheddar Monter...    4.00
+8049   28247      1800       SUNSHINE, CHEEZ-IT, Parmesan Garlic Crackers    4.00
+5754   18249      1800  Doughnuts, cake-type, plain, chocolate-coated ...    4.00
+5761   18258      1800  English muffins, plain, enriched, with ca prop...    4.00
+8085   28283      1800                 KEEBLER, ZESTA, Saltines, Original    4.00
+3263   11597      1100  Winged bean leaves, raw (Psophocarpus tetragon...    4.00
+8041   28239      1800  SUNSHINE, CHEEZ-IT, Duoz Sharp Cheddar Parmesa...    4.00
+6581   20132      2000                     Oat flour, partially debranned    4.00
+1872    8169       800  Cereals, CREAM OF WHEAT, regular (10 minute), ...    3.99
+5564   18003      1800                                        Bagels, egg    3.98
+1837    8101       800  Cereals, CREAM OF RICE, cooked with water, wit...    3.96
+1871    8168       800  Cereals, CREAM OF RICE, cooked with water, wit...    3.96
+1797    8037       800            Cereals ready-to-eat, granola, homemade    3.95
+5838   18351      1800            Rolls, hamburger or hotdog, mixed-grain    3.95
+4641   15164      1500    Mollusks, mussel, blue, raw (Mytilus edulis L.)    3.95
+4847   16111      1600                Soybeans, mature seeds, dry roasted    3.95
+4319   14262      1400  Beverages, citrus fruit juice drink, frozen co...    3.94
+1281    6124       600                           Gravy, pork, dry, powder    3.94
+6641   20647      2000                                       Millet flour    3.94
+3314   11683      1100                                 Carrot, dehydrated    3.93
+1602    6982       600               Soup, ramen noodle, beef flavor, dry    3.93
+5988   18939      1800  Toaster pastries, fruit, toasted (include appl...    3.92
+5865   18384      1800                          Bread, rice bran, toasted    3.92
+3686   12151      1200          Nuts, pistachio nuts, raw (Pistacia vera)    3.92
+8658   43109      2500                                     Pretzels, soft    3.92
+7719   25024      2500                           Pretzels, soft, unsalted    3.92
+6078   19038      2500      Snacks, popcorn, caramel-coated, with peanuts    3.91
+4828   16091      1600           Peanuts, spanish, raw (Arachis hypogaea)    3.91
+5585   18029      1800       Bread, french or vienna (includes sourdough)    3.91
+8039   28237      1800          SUNSHINE, CHEEZ-IT, Cheddar Jack Crackers    3.90
+8047   28245      1800  SUNSHINE, CHEEZ-IT, Crackers (made with Whole ...    3.90
+8038   28236      1800                   SUNSHINE, CHEEZ-IT, BIG Crackers    3.90
+5931   18499      1800        KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake    3.90
+8040   28238      1800                 SUNSHINE, CHEEZ-IT, Colby Crackers    3.90
+7945   28141      1800  KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Cracke...    3.90
+7994   28191      1800         KELLOGG'S, SPECIAL K, Savory Herb Crackers    3.90
+275     2026       200                 Spices, onion powder (Allium cepa)    3.90
+5007   16410      1600     Soybeans, mature seeds, roasted, no salt added    3.90
+4846   16110      1600            Soybeans, mature seeds, roasted, salted    3.90
+8082   28280      1800              SUNSHINE, CHEEZ-IT, Original Crackers    3.90
+313     2076       200                Seasoning mix, dry, chili, original    3.90
+7808   28000      1800  KELLOGG'S, EGGO, Mini Muffin Tops, Chocolate Chip    3.90
+8090   28288      1800                      Bread, roll, Mexican, bollilo    3.90
+8086   28284      1800          KEEBLER, ZESTA, Saltines with Whole Wheat    3.89
+5866   18385      1800                         Bread, wheat germ, toasted    3.88
+8727   43393       800  Cereals ready-to-eat, POST, Shredded Wheat n' ...    3.87
+5586   18030      1800  Bread, french or vienna, toasted (includes sou...    3.87
+8779   44258      1900  Puddings, chocolate flavor, low calorie, regul...    3.87
+3725   12567      1200  Nuts, almonds, oil roasted, with salt added, s...    3.86
+8231   31035      1100     Vegetable juice, BOLTHOUSE FARMS, DAILY GREENS    3.85
+8055   28253      1800                      SUNSHINE, CHEEZ-IT, Snack Mix    3.84
+8735   43410      1600                  Chicken, meatless, breaded, fried    3.83
+5960   18614      1800  MARTHA WHITE FOODS, Martha White's Chewy Fudge...    3.81
+5955   18603      1800  GEORGE WESTON BAKERIES, Brownberry Sage and On...    3.81
+5623   18081      1800                     Bread stuffing, bread, dry mix    3.81
+4634   15156      1500    Mollusks, abalone, mixed species, cooked, fried    3.80
+5078   16593      1600  MORNINGSTAR FARMS Hot and Spicy Veggie Sausage...    3.80
+7982   28179      1800  KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted...    3.80
+6023   18975      1800              KASHI, TLC, Original 7-Grain Crackers    3.80
+5038   16522      1600   WORTHINGTON Vegetable Steaks, canned, unprepared    3.80
+7951   28147      1800    KEEBLER, TOWN HOUSE, TOPPERS, Original Crackers    3.80
+3719   12537      1200  Seeds, sunflower seed kernels, dry roasted, wi...    3.80
+5042   16526      1600  WORTHINGTON Meatless Chicken Roll, frozen, unp...    3.80
+6329   19355      1900                                    Syrups, sorghum    3.80
+7753   25066      2500             Snacks, peas, roasted, wasabi-flavored    3.80
+1999    8544       800  Cereals ready-to-eat, POST GREAT GRAINS Cranbe...    3.80
+7909   28105      1800        KEEBLER, GRIPZ, Cinnamon Grahams, bite-size    3.80
+7984   28181      1800  KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted...    3.80
+7985   28182      1800  KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted...    3.80
+8001   28198      1800      MOTHER'S, Double Fudge Creme Sandwich Cookies    3.80
+3626   12037      1200  Seeds, sunflower seed kernels, dry roasted, wi...    3.80
+8076   28274      1800                               MURRAY, Honey Graham    3.80
+4283   14218      1400  Beverages, coffee, instant, decaffeinated, powder    3.80
+8052   28250      1800  SUNSHINE, CHEEZ-IT, 100 Calorie RIGHT BITES, E...    3.80
+5565   18005      1800                            Bagels, cinnamon-raisin    3.80
+5063   16558      1600  MORNINGSTAR FARMS Italian Herb Chik'n Pattie, ...    3.80
+3718   12536      1200  Seeds, sunflower seed kernels from shell, dry ...    3.80
+5685   18173      1800  Cookies, graham crackers, plain or honey (incl...    3.78
+6587   20138      2000  Wheat, KAMUT khorasan, uncooked (Triticum turg...    3.77
+5602   18050      1800          Bread, reduced-calorie, oat bran, toasted    3.75
+2925   11158      1100  Chrysanthemum, garland, cooked, boiled, draine...    3.74
+3384   11767      1100  Chrysanthemum, garland, cooked, boiled, draine...    3.74
+1839    8103       800  Cereals, CREAM OF WHEAT, regular (10 minute), ...    3.74
+5715   18209      1800  Cookies, sugar wafers with creme filling, regular    3.73
+3636   12063      1200     Nuts, almonds, dry roasted, without salt added    3.73
+3674   12135      1200  Nuts, mixed nuts, dry roasted, with peanuts, w...    3.73
+3723   12563      1200        Nuts, almonds, dry roasted, with salt added    3.73
+6054   19007      2500         Snacks, corn-based, extruded, onion-flavor    3.72
+5830   18342      1800  Rolls, dinner, plain, commercially prepared (i...    3.72
+4843   16107      1600                                  Sausage, meatless    3.72
+5858   18373      1800                  Leavening agents, cream of tartar    3.72
+3634   12061      1200                      Nuts, almonds (Prunus dulcis)    3.71
+6643   20649      2000               Wheat flour, whole-grain, soft wheat    3.71
+3730   12635      1200  Nuts, mixed nuts, dry roasted, with peanuts, w...    3.70
+5726   18220      1800                       Crackers, melba toast, plain    3.70
+6418   19857      2500  Snacks, tortilla chips, nacho-flavor, made wit...    3.70
+4788   16050      1600  Beans, white, mature seeds, cooked, boiled, wi...    3.70
+8056   28254      1800       SUNSHINE, CHEEZ-IT, Snack Mix, White Cheddar    3.70
+6041   18993      1800               BEAR NAKED, Double Chocolate Cookies    3.70
+7906   28102      1800  KEEBLER, GRIPZ, CHIPS DELUXE, Chocolate Chip C...    3.70
+7908   28104      1800  KEEBLER, GRIPZ, Chocolate Chip Grahams, bite-size    3.70
+7943   28139      1800  KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Cracke...    3.70
+1788    8023       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACK...    3.70
+5890   18424      1800         Crackers, melba toast, plain, without salt    3.70
+1879    8189       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S Low F...    3.70
+4979   16350      1600  Beans, white, mature seeds, cooked, boiled, wi...    3.70
+2006    8561       800  Cereals, KASHI GO LEAN Hot Cereal, Hearty Hone...    3.70
+3672   12131      1200  Nuts, macadamia nuts, raw (Macadamia integrifo...    3.69
+3737   12665      1200         Nuts, almonds, oil roasted, lightly salted    3.68
+3724   12565      1200        Nuts, almonds, oil roasted, with salt added    3.68
+5727   18221      1800  Crackers, melba toast, rye (includes pumpernic...    3.68
+3637   12065      1200     Nuts, almonds, oil roasted, without salt added    3.68
+3605   12001      1200  Seeds, breadfruit seeds, raw (Artocarpus altilis)    3.67
+8160   28359      1800        GLUTINO, Gluten Free Wafers, Milk Chocolate    3.67
+8135   28333      1800              Cookies, gluten-free, chocolate wafer    3.67
+8110   28308      1800    Crackers, standard snack-type, with whole wheat    3.65
+3272   11614      1100      Borage, cooked, boiled, drained, without salt    3.64
+3354   11737      1100         Borage, cooked, boiled, drained, with salt    3.64
+5850   18364      1800  Tortillas, ready-to-bake or -fry, flour, refri...    3.63
+6574   20124      2000                            Pasta, whole-wheat, dry    3.62
+5613   18069      1800  Bread, white, commercially prepared (includes ...    3.61
+5607   18059      1800                                   Bread, rice bran    3.61
+7978   28175      1800  KELLOGG'S, POP-TARTS, Frosted Wild Fruit Fusio...    3.60
+8190   28389      1800                       PEPPERIDGE FARM, White Bread    3.60
+8786   90480      1900                                        Syrup, Cane    3.60
+8025   28223      1800      MURRAY, SUGAR FREE, Fudge Dipped Mint Cookies    3.60
+7996   28193      1800  KELLOGG'S, POP-TARTS, Yum-azing Vanilla Milksh...    3.60
+7995   28192      1800  KELLOGG'S, POP-TARTS, Gingerbread Toaster Past...    3.60
+7983   28180      1800  KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted...    3.60
+7981   28178      1800  KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted...    3.60
+7980   28177      1800  KELLOGG'S, POP-TARTS, Frosted Wild Strawberry ...    3.60
+7977   28174      1800  KELLOGG'S, POP-TARTS, Frosted Waffle Cone Toas...    3.60
+7725   25031      2500  Formulated bar, ZONE PERFECT CLASSIC CRUNCH BA...    3.60
+7976   28173      1800  KELLOGG'S, POP-TARTS, Frosted Sugar Cookie Toa...    3.60
+7974   28171      1800  KELLOGG'S, POP-TARTS, Frosted Pumpkin Pie Toas...    3.60
+7970   28167      1800  KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll To...    3.60
+7969   28165      1800  KELLOGG'S, POP-TARTS, Chocolate Chip Cookie Do...    3.60
+7950   28146      1800  KEEBLER, TOWN HOUSE, TOPPERS, Multigrain Crackers    3.60
+7865   28058      1800  KEEBLER, CHIPS DELUXE, Original Chocolate Chip...    3.60
+7863   28056      1800  KEEBLER, CHIPS DELUXE, Mini Chocolate Chip Coo...    3.60
+7859   28052      1800    KEEBLER, CHIPS DELUXE, Chocolate Lovers Cookies    3.60
+7968   28164      1800  KELLOGG'S, POP-TARTS, Frosted Blueberry Muffin...    3.60
+5930   18497      1800  Toaster Pastries, KELLOGG, KELLOGG'S LOW FAT P...    3.60
+5050   16535      1600          WORTHINGTON Stripples, frozen, unprepared    3.60
+5929   18494      1800  Toaster Pastries, KELLOGG, KELLOGG'S LOW FAT P...    3.60
+5053   16542      1600  MORNINGSTAR FARMS Breakfast Bacon Strips, froz...    3.60
+5920   18478      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.60
+6542   20080      2000                           Wheat flour, whole-grain    3.60
+6534   20071      2000      Wheat, hard red spring (Triticum aestivum L.)    3.60
+5774   18271      1800                Ice cream cones, cake or wafer-type    3.60
+5893   18427      1800   Crackers, standard snack-type, regular, low salt    3.60
+6475   20004      2000                Barley, hulled (Hordeum vulgare L.)    3.60
+5652   18127      1800  Cake, snack cakes, creme-filled, chocolate wit...    3.60
+5786   18284      1800                       Muffins, wheat bran, dry mix    3.60
+5788   18289      1800  Pancakes, plain, dry mix, complete (includes b...    3.60
+2026    8589       800  Cereals ready-to-eat, KASHI GOLEAN CRISP Toast...    3.59
+5889   18423      1800  Cookies, ladyfingers, without lemon juice and ...    3.58
+5687   18175      1800    Cookies, ladyfingers, with lemon juice and rind    3.58
+5729   18223      1800                                     Crackers, milk    3.58
+1857    8142       800                             Cereals, WHEATENA, dry    3.57
+8169   28368      1800            SCHAR, Gluten-Free, Classic White Rolls    3.57
+5562   18001      1800  Bagels, plain, enriched, with calcium propiona...    3.57
+3468   11854      1100        Spinach, cooked, boiled, drained, with salt    3.57
+3167   11458      1100     Spinach, cooked, boiled, drained, without salt    3.57
+6378   19437      2500             Snacks, potato chips, fat free, salted    3.57
+8143   28341      1800  Rolls, gluten-free, white, made with rice flou...    3.57
+6447   19897      1900  Candies, MARS SNACKFOOD US, COCOAVIA Chocolate...    3.56
+5997   18949      1800                 Crackers, whole-wheat, reduced fat    3.56
+5876   18406      1800  Bagels, plain, enriched, without calcium propi...    3.56
+5834   18347      1800                               Rolls, dinner, wheat    3.55
+8125   28323      1800  Pancakes, plain, low fat, dry mix, incomplete ...    3.55
+3161   11450      1100                 Soybeans, green, raw (Glycine max)    3.55
+3683   12145      1200            Nuts, pilinuts, dried (Canarium ovatum)    3.53
+6349   19387      1900      Frozen novelties, ice type, pineapple-coconut    3.53
+3614   12013      1200                          Seeds, lotus seeds, dried    3.53
+2361    9289       900        Prunes, dehydrated (low-moisture), uncooked    3.52
+5831   18344      1800                                 Rolls, dinner, egg    3.52
+6539   20076      2000                Wheat, durum (Triticum durum Desf.)    3.52
+8787   90560      1500                               Mollusks, snail, raw    3.50
+5706   18198      1800  Cookies, chocolate chip, commercially prepared...    3.50
+5090   16611      1600  MORNINGSTAR FARMS Parmesan Garlic Wings, froze...    3.50
+3107   11382      1100  Potatoes, mashed, dehydrated, granules with mi...    3.50
+7975   28172      1800  KELLOGG'S, POP-TARTS, Frosted Spring Berry Toa...    3.50
+5924   18486      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+5922   18481      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+2004    8554       800  Cereals ready-to-eat, POST SELECTS Maple Pecan...    3.50
+7964   28160      1800      KELLOGG'S, ALL-BRAN, Garlic and Herb Crackers    3.50
+5928   18490      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+5926   18488      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+5918   18476      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+8194   28393      1800                 PEPPERIDGE FARM, White Hoagie Roll    3.50
+7911   28107      1800          KEEBLER, Gingerbread Men Cookies, Holiday    3.50
+5032   16515      1600  WORTHINGTON Low Fat Veja-Links, canned, unprep...    3.50
+8067   28265      1800  KEEBLER, Cheese & Peanut Butter Sandwich Crackers    3.50
+6036   18988      1800  AUSTIN, Peanut Butter on Cheese Crackers, sand...    3.50
+5925   18487      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+8191   28390      1800           PEPPERIDGE FARM, Light Style Wheat Bread    3.50
+8081   28279      1800  MURRAY, SUGAR FREE, Chocolate Creme Sandwich C...    3.50
+8058   28256      1800  AUSTIN, Peanut Butter on Cheese Crackers, sand...    3.50
+8065   28263      1800                   KEEBLER, Grahams, Cinnamon Crisp    3.50
+5919   18477      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+7882   28076      1800  KEEBLER, FUDGE SHOPPE, Cheesecake Middles, Dar...    3.50
+5923   18482      1800  Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS...    3.50
+5040   16524      1600         WORTHINGTON Veja-Links, canned, unprepared    3.50
+3706   12195      1200     Nuts, almond butter, plain, without salt added    3.49
+5610   18064      1800                                       Bread, wheat    3.49
+3738   12695      1200        Nuts, almond butter, plain, with salt added    3.49
+8127   28325      1800                  Crackers, toast thins, low sodium    3.48
+3294   11649      1100      Tomato products, canned, sauce, spanish style    3.48
+2988   11239      1100  Mushrooms, Chanterelle, raw (Cantharellus cali...    3.47
+6310   19326      1900  Candies, MARS SNACKFOOD US, COCOAVIA Chocolate...    3.47
+1880    8191       800  Cereals ready-to-eat, POST, Shredded Wheat, li...    3.46
+8105   28303      1800                      Crackers, cheese, whole grain    3.46
+6490   20020      2000                      Cornmeal, whole-grain, yellow    3.45
+6598   20320      2000                       Cornmeal, whole-grain, white    3.45
+6312   19328      1900  Candies, MARS SNACKFOOD US, COCOAVIA Crispy Ch...    3.45
+3675   12136      1200  Nuts, mixed nuts, dry roasted, with peanuts, s...    3.43
+5591   18038      1800                           Bread, oat bran, toasted    3.43
+4797   16059      1600                           Chili with beans, canned    3.43
+5837   18350      1800                  Rolls, hamburger or hotdog, plain    3.43
+4873   16138      1600                             Falafel, home-prepared    3.42
+5917   18459      1800                            Breakfast tart, low fat    3.42
+6647   20653      2000  Pasta, whole grain, 51% whole wheat, remaining...    3.41
+4760   16022      1600  Beans, french, mature seeds, raw (Phaseolus vu...    3.40
+7958   28154      1800  KEEBLER, Vienna Fingers with Creme Filling, Re...    3.40
+7839   28031      1800                     GIRL SCOUTS, Do-si-dos Cookies    3.40
+5620   18078      1800  Bread, whole-wheat, prepared from recipe, toasted    3.40
+2977   11226      1100   Jerusalem-artichokes, raw (Helianthus tuberosus)    3.40
+8063   28261      1800      FAMOUS AMOS, Chocolate Sandwich Creme Cookies    3.40
+7931   28127      1800         KEEBLER, SANDIES, Pecan Shortbread Cookies    3.40
+6035   18987      1800  AUSTIN, Cheddar Cheese on Cheese Crackers, san...    3.40
+7905   28101      1800                    KEEBLER, Cinnamon Toast Grahams    3.40
+6357   19407      2500                        Snacks, beef sticks, smoked    3.40
+3659   12114      1200    Nuts, coconut meat, dried (desiccated), toasted    3.39
+1859    8144       800       Cereals, whole wheat hot natural cereal, dry    3.39
+6414   19822      2500  Snacks, trail mix, regular, with chocolate chi...    3.39
+6098   19062      2500  Snacks, trail mix, regular, with chocolate chi...    3.39
+7727   25033      2500  Snacks, granola bar, KASHI TLC Bar, chewy, mix...    3.39
+3701   12175      1200                   Nuts, chestnuts, japanese, dried    3.38
+5940   18528      1800            ARCHWAY Home Style Cookies, Dutch Cocoa    3.36
+6530   20067      2000                       Sorghum grain (Sorghum spp.)    3.36
+5853   18368      1800       Wonton wrappers (includes egg roll wrappers)    3.36
+3703   12177      1200    Nuts, coconut meat, dried (desiccated), creamed    3.36
+6554   20093      2000     Pasta, fresh-refrigerated, plain, as purchased    3.35
+7957   28153      1800         KEEBLER, Vienna Fingers with Creme Filling    3.35
+5741   18235      1800                              Crackers, whole-wheat    3.34
+5584   18028      1800                                Bread, egg, toasted    3.34
+6512   20046      2000  Rice, white, long-grain, parboiled, enriched, dry    3.33
+6584   20135      2000  Pasta, whole grain, 51% whole wheat, remaining...    3.33
+4807   16070      1600  Lentils, mature seeds, cooked, boiled, without...    3.33
+5898   18432      1800  Bread, white, commercially prepared, toasted, ...    3.33
+5614   18070      1800       Bread, white, commercially prepared, toasted    3.33
+1939    8365       800  Cereals ready-to-eat, QUAKER, Shredded Wheat, ...    3.33
+4988   16370      1600   Lentils, mature seeds, cooked, boiled, with salt    3.33
+2281    9194       900        Olives, ripe, canned (jumbo-super colossal)    3.32
+6018   18970      1800  Tortillas, ready-to-bake or -fry, flour, shelf...    3.32
+3656   12108      1200  Nuts, coconut meat, dried (desiccated), not sw...    3.32
+3694   12163      1200  Seeds, pumpkin and squash seeds, whole, roaste...    3.31
+3736   12663      1200  Seeds, pumpkin and squash seeds, whole, roaste...    3.31
+6572   20120      2000                               Pasta, dry, enriched    3.30
+5086   16607      1600  MORNINGSTAR FARMS Buffalo Chik Patties, frozen...    3.30
+6556   20095      2000   Pasta, fresh-refrigerated, spinach, as purchased    3.30
+5051   16536      1600        WORTHINGTON Wham (roll), frozen, unprepared    3.30
+1881    8192       800  Cereals ready-to-eat, POST SELECTS Blueberry M...    3.30
+5047   16532      1600       WORTHINGTON Prosage Roll, frozen, unprepared    3.30
+5043   16527      1600  WORTHINGTON Meatless Corned Beef Roll, frozen,...    3.30
+3666   12121      1200              Nuts, hazelnuts or filberts, blanched    3.30
+8073   28271      1800        MURRAY, COOKIE JAR CLASSICS, Butter Cookies    3.30
+5913   18450      1800  Tortillas, ready-to-bake or -fry, flour, witho...    3.30
+7914   28110      1800   KEEBLER, Toast & Peanut Butter Sandwich Crackers    3.30
+8015   28212      1800  MURRAY, COOKIE JAR CLASSICS, Coconut Bars Cookies    3.30
+8020   28217      1800   MURRAY, SOUTHERN KITCHEN, Chocolate Chip Cookies    3.30
+5568   18009      1800       Biscuits, plain or buttermilk, frozen, baked    3.30
+7853   28046      1800                         KEEBLER, ANIMALS, Crackers    3.30
+7850   28043      1800                          KEEBLER, ANIMALS, Cookies    3.30
+7838   28030      1800                        GIRL SCOUTS, Chalet Cookies    3.30
+1919    8284       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S Low F...    3.30
+6037   18989      1800  AUSTIN, Peanut Butter on Toasty Crackers, sand...    3.30
+2280    9193       900  Olives, ripe, canned (small-extra large) (Olea...    3.30
+7854   28047      1800  KEEBLER, BAKER'S TREASURES, Chocolate Chip Coo...    3.30
+8014   28211      1800              MURRAY, Chocolatey Chip Thins Cookies    3.30
+7921   28117      1800  KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE...    3.30
+8059   28257      1800  AUSTIN, Peanut Butter on Toasty Crackers, sand...    3.30
+3271   11613      1100                   Borage, raw (Borago officinalis)    3.30
+3663   12118      1200  Nuts, coconut milk, canned (liquid expressed f...    3.30
+1963    8452       800   Cereals, QUAKER, Whole Wheat Natural Cereal, dry    3.30
+1283    6126       600                                 Gravy, turkey, dry    3.29
+5764   18261      1800  English muffins, mixed-grain, toasted (include...    3.29
+3635   12062      1200                            Nuts, almonds, blanched    3.28
+5840   18353      1800                      Rolls, hard (includes kaiser)    3.28
+8662   43128      1600                                  Chicken, meatless    3.27
+4168   14063      1400        Beverages, chocolate powder, no sugar added    3.27
+2196    9085       900            Currants, zante, dried (Vitis vinifera)    3.26
+2115    8709       800  Cereals ready-to-eat, MOM'S BEST, Sweetened WH...    3.26
+5625   18084      1800                 Bread stuffing, cornbread, dry mix    3.25
+5859   18374      1800       Leavening agents, yeast, baker's, compressed    3.25
+4482   15001      1500  Fish, anchovy, european, raw (Engraulis encras...    3.25
+8109   28307      1800  Bread, naan, plain, commercially prepared, ref...    3.25
+3089   11362      1100            Potatoes, raw, skin (Solanum tuberosum)    3.24
+1935    8353       800  Cereals ready-to-eat, QUAKER, MOTHER'S Cinnamo...    3.24
+4751   16011      1600   Beans, baked, canned, with pork and tomato sauce    3.24
+3679   12141      1200  Nuts, mixed nuts, dry roasted, with peanuts, s...    3.22
+5672   18158      1800  Cookies, chocolate chip, commercially prepared...    3.22
+6536   20073      2000      Wheat, soft red winter (Triticum aestivum L.)    3.21
+2997   11248      1100            Lentils, sprouted, raw (Lens culinaris)    3.21
+5828   18338      1800                                       Phyllo dough    3.21
+8091   28289      1800  Cookie, vanilla with caramel, coconut, and cho...    3.20
+8060   28258      1800  AUSTIN, Cheddar Cheese on Wafer Crackers, sand...    3.20
+8179   28378      1800              PEPPERIDGE FARM, Cinnamon Swirl Bread    3.20
+1995    8538       800  Cereals ready-to-eat, KASHI, HEART TO HEART, O...    3.20
+5031   16514      1600   WORTHINGTON Low Fat Fri Chik, canned, unprepared    3.20
+5041   16525      1600         WORTHINGTON Chic-Ketts, frozen, unprepared    3.20
+5046   16531      1600      WORTHINGTON Prosage Links, frozen, unprepared    3.20
+8070   28268      1800                               KEEBLER, Sugar Cones    3.20
+8074   28272      1800           MURRAY, Chocolate Creme Sandwich Cookies    3.20
+5060   16555      1600  MORNINGSTAR FARMS Buffalo Wings, frozen, unpre...    3.20
+8077   28275      1800          MURRAY, Old Fashioned Gingersnaps Cookies    3.20
+8079   28277      1800         MURRAY, SUGAR FREE, Chocolate Chip Cookies    3.20
+7917   28113      1800  KEEBLER, 100 Calorie RIGHT BITES, CHIPS DELUXE...    3.20
+7889   28083      1800  KEEBLER, FUDGE SHOPPE, Triple Fudge Filled Coo...    3.20
+3462   11848      1100  Pumpkin leaves, cooked, boiled, drained, with ...    3.20
+6034   18986      1800  AUSTIN, Grilled Cheese on Wafer Crackers, sand...    3.20
+6032   18984      1800  AUSTIN, Cheddar Cheese on Cheese Crackers, san...    3.20
+7840   28032      1800                        GIRL SCOUTS, Samoas Cookies    3.20
+3139   11419      1100  Pumpkin leaves, cooked, boiled, drained, witho...    3.20
+7857   28050      1800          KEEBLER, Club & Cheddar Sandwich Crackers    3.20
+7856   28049      1800        KEEBLER, Cheese & Cheddar Sandwich Crackers    3.20
+2038    8608       800          Cereals ready-to-eat, KASHI Berry Blossom    3.20
+7880   28074      1800       KEEBLER, E.L. FUDGE, Butter Flavored Cookies    3.20
+7864   28057      1800  KEEBLER, CHIPS DELUXE, Oatmeal Chocolate Chip ...    3.20
+8180   28379      1800       PEPPERIDGE FARM, Raisin Cinnamon Swirl Bread    3.20
+6075   19034      2500                        Snacks, popcorn, air-popped    3.19
+4633   15155      1500  Mollusks, abalone, mixed species, raw (Halioti...    3.19
+6535   20072      2000      Wheat, hard red winter (Triticum aestivum L.)    3.19
+5606   18057      1800                      Bread, reduced-calorie, white    3.19
+6265   19255      1900    Candies, MARS SNACKFOOD US, DOVE Dark Chocolate    3.18
+8657   43100      2500  Breakfast bars, oats, sugar, raisins, coconut ...    3.18
+8101   28299      1800  Cookies, chocolate sandwich, with creme fillin...    3.18
+6311   19327      1900  Candies, MARS SNACKFOOD US, COCOAVIA Blueberry...    3.18
+5615   18071      1800  Bread, white, prepared from recipe, made with ...    3.18
+8170   28369      1800  SCHAR, Gluten-Free, Wheat-Free, Classic White ...    3.17
+292     2044       200                    Basil, fresh (Ocimum basilicum)    3.17
+8161   28360      1800  MARY'S GONE CRACKERS, Original Crackers, Organ...    3.17
+6021   18973      1800                 Focaccia, Italian flatbread, plain    3.16
+5723   18217      1800                             Crackers, matzo, plain    3.16
+5600   18048      1800                   Bread, raisin, enriched, toasted    3.15
+5601   18049      1800                   Bread, reduced-calorie, oat bran    3.15
+5598   18045      1800                       Bread, pumpernickel, toasted    3.15
+2838   11031      1100  Lima beans, immature seeds, raw (Phaseolus lun...    3.14
+6642   20648      2000                         Sorghum flour, whole-grain    3.14
+3405   11789      1100  Jute, potherb, cooked, boiled, drained, with salt    3.14
+4992   16379      1600  Mothbeans, mature seeds, cooked, boiled, with ...    3.14
+4816   16079      1600  Mothbeans, mature seeds, cooked, boiled, witho...    3.14
+2981   11232      1100  Jute, potherb, cooked, boiled, drained, withou...    3.14
+6386   19701      1900     Candies, semisweet chocolate, made with butter    3.13
+6113   19080      1900                       Candies, semisweet chocolate    3.13
+3570   11961      1100                             Hearts of palm, canned    3.13
+2098    8691       800  Cereals, QUAKER, oatmeal, REAL MEDLEYS, summer...    3.13
+5680   18167      1800  Cookies, chocolate sandwich, with creme fillin...    3.13
+3688   12154      1200        Nuts, walnuts, black, dried (Juglans nigra)    3.12
+5590   18037      1800                                    Bread, oat bran    3.12
+5768   18265      1800                    English muffins, wheat, toasted    3.12
+8774   44061      1900  Puddings, chocolate flavor, low calorie, insta...    3.11
+5797   18300      1800  Pancakes, whole-wheat, dry mix, incomplete, pr...    3.11
+8031   28229      1800             MURRAY, SUGAR FREE, Shortbread Cookies    3.10
+5604   18053      1800                        Bread, reduced-calorie, rye    3.10
+7930   28126      1800  KEEBLER, SANDIES, Dark Chocolate Almond Shortb...    3.10
+7925   28121      1800  KEEBLER, 100 Calorie RIGHT BITES, Sandies Shor...    3.10
+5609   18061      1800                                Bread, rye, toasted    3.10
+8024   28222      1800           MURRAY, SUGAR FREE, Fudge Dipped Grahams    3.10
+8189   28388      1800                  PEPPERIDGE FARM, Deli Swirl Bread    3.10
+6038   18990      1800             AUSTIN, PB & J Crackers, sandwich-type    3.10
+7852   28045      1800                     KEEBLER, ANIMALS, Iced Cookies    3.10
+5619   18077      1800           Bread, whole-wheat, prepared from recipe    3.10
+2998   11249      1100  Lentils, sprouted, cooked, stir-fried, without...    3.10
+6033   18985      1800  AUSTIN, Chocolatey Peanut Butter Crackers, san...    3.10
+2959   11207      1100       Dandelion greens, raw (Taraxacum officinale)    3.10
+1966    8462       800  Cereals ready-to-eat, KASHI, ORGANIC PROMISE A...    3.10
+3536   11926      1100   Lentils, sprouted, cooked, stir-fried, with salt    3.10
+7907   28103      1800  KEEBLER, GRIPZ, CHIPS DELUXE, Rainbow Chocolat...    3.10
+5572   18013      1800  Biscuits, plain or buttermilk, refrigerated do...    3.09
+2027    8590       800  Cereals ready-to-eat, KASHI HEART TO HEART, Wa...    3.09
+8104   28302      1800   Cookies, graham crackers, plain or honey, lowfat    3.09
+2096    8689       800  Cereals, QUAKER, oatmeal, REAL MEDLEYS, bluebe...    3.08
+5567   18007      1800                                   Bagels, oat bran    3.08
+5895   18429      1800                    Crackers, whole-wheat, low salt    3.08
+8128   28326      1800  Crackers, whole grain, sandwich-type, with pea...    3.07
+5612   18066      1800                                  Bread, wheat bran    3.07
+3685   12149      1200      Nuts, pine nuts, pinyon, dried (Pinus edulis)    3.06
+5595   18042      1800                           Bread, pita, whole-wheat    3.06
+4273   14204      1400  Beverages, coffee and cocoa, instant, decaffei...    3.06
+5948   18540      1800  ARCHWAY Home Style Cookies, Old Fashioned Wind...    3.06
+4985   16361      1600  Cowpeas, catjang, mature seeds, cooked, boiled...    3.05
+5790   18291      1800  Pancakes, plain, dry mix, incomplete (includes...    3.05
+5795   18297      1800                 Pancakes, special dietary, dry mix    3.05
+1830    8090       800  Cereals, corn grits, white, regular and quick,...    3.05
+6096   19059      2500                         Snacks, trail mix, regular    3.05
+4799   16061      1600  Cowpeas, catjang, mature seeds, cooked, boiled...    3.05
+6011   18963      1800                               Garlic bread, frozen    3.05
+6413   19821      2500               Snacks, trail mix, regular, unsalted    3.05
+6062   19017      2500         Snacks, granola bars, hard, chocolate chip    3.05
+5633   18096      1800  Cake, chocolate, commercially prepared with ch...    3.04
+274     2025       200        Spices, nutmeg, ground (Myristica fragrans)    3.04
+5733   18227      1800                    Crackers, rye, wafers, seasoned    3.04
+5583   18027      1800                                         Bread, egg    3.04
+5773   18270      1800                 Hush puppies, prepared from recipe    3.04
+5882   18416      1800  Bread, white, commercially prepared, low sodiu...    3.03
+5763   18260      1800    English muffins, mixed-grain (includes granola)    3.02
+1977    8491       800  Cereals ready-to-eat, MOM'S BEST, Honey Nut TO...    3.02
+5644   18112      1800      Cake, pudding-type, german chocolate, dry mix    3.01
+6499   20031      2000                 Millet, raw (Panicum miliaceum L.)    3.01
+8108   28306      1800  Bread, chapati or roti, plain, commercially pr...    3.01
+2039    8610       800         Cereals ready-to-eat, KASHI Honey Sunshine    3.00
+7867   28060      1800  KEEBLER, CHIPS DELUXE, Rainbow Chocolate Chip ...    3.00
+8682   43218       800                        Cereals ready-to-eat, ALPEN    3.00
+2850   11048      1100   Beans, pinto, immature seeds, frozen, unprepared    3.00
+7960   28156      1800                              KEEBLER, Waffle Cones    3.00
+7942   28138      1800    KEEBLER, TOWN HOUSE, Bistro Multigrain Crackers    3.00
+3279   11622      1100  Kale, scotch, raw (Brassica napus (Pabularia G...    3.00
+7843   28035      1800                    GIRL SCOUTS, Thin Mints Cookies    3.00
+7949   28145      1800  KEEBLER, TOWN HOUSE, TOPPERS, Garlic Herb Crac...    3.00
+6031   18983      1800  AUSTIN, Cheddar Cheese on Wheat Crackers, sand...    3.00
+7844   28036      1800                      GIRL SCOUTS, Trefoils Cookies    3.00
+7959   28155      1800                              KEEBLER, Waffle Bowls    3.00
+8023   28221      1800  MURRAY, SUGAR FREE, Chocolate Chip & Pecan Coo...    3.00
+8096   28294      1800           Cookie, chocolate, with icing or coating    3.00
+1948    8388       800    Cereals ready-to-eat, KASHI 7 Whole Grain Puffs    3.00
+7858   28051      1800         KEEBLER, Cheese on Wheat Sandwich Crackers    3.00
+5084   16603      1600  MORNINGSTAR FARMS Breakfast Biscuit Sausage, E...    3.00
+8116   28314      1800  Crackers, sandwich-type, peanut butter filled,...    3.00
+8032   28230      1800               MURRAY, SUGAR FREE, Shortbread Bites    3.00
+2072    8663       800  Cereals ready-to-eat, KASHI ORGANIC PROMISE, B...    3.00
+2100    8693       800  Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry...    2.99
+5839   18352      1800        Rolls, hamburger or hotdog, reduced-calorie    2.99
+4789   16051      1600                 Beans, white, mature seeds, canned    2.99
+8112   28310      1800                   Cookies, shortbread, reduced fat    2.98
+5703   18192      1800  Cookies, shortbread, commercially prepared, plain    2.98
+4967   16331      1600  Beans, kidney, california red, mature seeds, c...    2.98
+4769   16031      1600  Beans, kidney, california red, mature seeds, c...    2.98
+3228   11546      1100  Tomato products, canned, paste, without salt a...    2.98
+3582   11975      1100                               Grape leaves, canned    2.98
+5616   18073      1800  Bread, white, prepared from recipe, made with ...    2.97
+5829   18339      1800                        Popovers, dry mix, enriched    2.97
+5870   18396      1800  Rolls, dinner, plain, prepared from recipe, ma...    2.96
+5618   18076      1800  Bread, whole-wheat, commercially prepared, toa...    2.96
+6060   19015      2500                  Snacks, granola bars, hard, plain    2.95
+4793   16055      1600                    Carob flour (Ceratonia siliqua)    2.94
+5588   18033      1800                                     Bread, italian    2.94
+4966   16328      1600  Beans, kidney, all types, mature seeds, cooked...    2.94
+5593   18040      1800                            Bread, oatmeal, toasted    2.94
+4771   16033      1600  Beans, kidney, red, mature seeds, cooked, boil...    2.94
+4968   16333      1600  Beans, kidney, red, mature seeds, cooked, boil...    2.94
+5634   18097      1800             Cake, pudding-type, chocolate, dry mix    2.92
+8114   28312      1800   Rolls, hamburger or hot dog, wheat/cracked wheat    2.92
+4569   15088      1500  Fish, sardine, Atlantic, canned in oil, draine...    2.92
+7915   28111      1800          KEEBLER, READY CRUST, Chocolate Pie Crust    2.92
+6169   19139      1900  Baking chocolate, MARS SNACKFOOD US, M&M's Sem...    2.91
+3689   12155      1200             Nuts, walnuts, english (Juglans regia)    2.91
+5605   18055      1800                      Bread, reduced-calorie, wheat    2.91
+7016   22121      1600  MORNINGSTAR FARMS Grillers Vegan, frozen, unpr...    2.90
+1994    8537       800   Cereals ready-to-eat, KASHI 7 Whole Grain Flakes    2.90
+1866    8159       800  Cereals, corn grits, yellow, regular and quick...    2.90
+7962   28158      1800  KEEBLER, WHEATABLES, Nut Crisp Crackers, Roast...    2.90
+6025   18977      1800                KASHI, TLC, Toasted Asiago Crackers    2.90
+5599   18047      1800                            Bread, raisin, enriched    2.90
+7929   28125      1800  KEEBLER, SANDIES, Chocolate Chip & Pecan Short...    2.90
+5575   18016      1800  Biscuits, plain or buttermilk, prepared from r...    2.90
+5682   18170      1800                                  Cookies, fig bars    2.90
+7926   28122      1800  KEEBLER, 100 Calorie RIGHT BITES, Sandies Shor...    2.90
+7961   28157      1800          KEEBLER, WHEATABLES, Honey Wheat Crackers    2.90
+5069   16581      1600  GARDENBURGER Flame Grilled Burger, frozen, unp...    2.90
+7912   28108      1800                   KEEBLER, Holiday Jingles Cookies    2.90
+5826   18336      1800  Pie crust, standard-type, prepared from recipe...    2.89
+4795   16057      1600  Chickpeas (garbanzo beans, bengal gram), matur...    2.89
+4981   16357      1600  Chickpeas (garbanzo beans, bengal gram), matur...    2.89
+4704   15227      1500       Crustaceans, crab, queen, cooked, moist heat    2.88
+5646   18116      1800            Cake, gingerbread, prepared from recipe    2.88
+8745   43495       800  Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH ...    2.88
+1883    8200       800    Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry    2.88
+5597   18044      1800                                Bread, pumpernickel    2.87
+7698   25000      2500           Snacks, popcorn, microwave, 94% fat free    2.87
+5767   18264      1800                             English muffins, wheat    2.87
+6003   18955      1800                Bread, pan dulce, sweet yeast bread    2.87
+1814    8066       800   Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice    2.86
+4961   16317      1600  Beans, black turtle, mature seeds, cooked, boi...    2.85
+3157   11445      1100                Seaweed, kelp, raw (Laminaria spp.)    2.85
+4755   16017      1600  Beans, black turtle, mature seeds, cooked, boi...    2.85
+4879   16149      1600                       Peanut spread, reduced sugar    2.84
+4976   16346      1600  Beans, small white, mature seeds, cooked, boil...    2.84
+4784   16046      1600  Beans, small white, mature seeds, cooked, boil...    2.84
+8185   28384      1800         PEPPERIDGE FARM, Farmhouse Sourdough Bread    2.84
+8147   28345      1800  Crackers, gluten-free, multi-seeded and multig...    2.83
+5608   18060      1800                                         Bread, rye    2.83
+3714   12206      1200           Nuts, almonds, honey roasted, unblanched    2.83
+5868   18388      1800  Muffins, wheat bran, toaster-type with raisins...    2.83
+5748   18243      1800                                 Croutons, seasoned    2.82
+8134   28332      1800  Cookies, gluten-free, chocolate sandwich, with...    2.81
+4637   15159      1500  Mollusks, clam, mixed species, cooked, moist heat    2.81
+8157   28356      1800  GLUTINO, Gluten Free Cookies, Chocolate Vanill...    2.81
+1806    8054       800  Cereals ready-to-eat, QUAKER, 100% Natural Gra...    2.81
+5969   18632      1800      PILLSBURY, Traditional Fudge Brownie Mix, dry    2.81
+5781   18279      1800               Muffins, corn, commercially prepared    2.81
+8744   43483       800                                     Millet, puffed    2.81
+5582   18025      1800                               Bread, cracked-wheat    2.81
+8184   28383      1800  PEPPERIDGE FARM, Whole Grain 100% Whole Wheat ...    2.80
+8192   28391      1800           PEPPERIDGE FARM, Seeded Jewish Rye Bread    2.80
+7862   28055      1800  KEEBLER, CHIPS DELUXE, Dark Chocolate Chunk Co...    2.80
+2005    8560       800  Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, H...    2.80
+7910   28106      1800         KEEBLER, Almond Crescents Cookies, Holiday    2.80
+2028    8591       800  Cereals ready-to-eat, KASHI ORGANIC PROMISE, I...    2.80
+7933   28129      1800  KEEBLER, SANDIES, Pecan Shortbread Cookies, Re...    2.80
+5825   18335      1800  Pie crust, standard-type, frozen, ready-to-bak...    2.80
+8000   28197      1800                  MOTHER'S, Coconut Cocadas Cookies    2.80
+8080   28278      1800                MURRAY, SUGAR FREE, Oatmeal Cookies    2.80
+2390    9322       900                 Tamarinds, raw (Tamarindus indica)    2.80
+3681   12143      1200      Nuts, pecans, dry roasted, without salt added    2.80
+5035   16518      1600          WORTHINGTON Saucettes, canned, unprepared    2.80
+2425    9423       900                                        Prune puree    2.80
+5056   16549      1600  MORNINGSTAR FARMS Grillers Prime, frozen, unpr...    2.80
+2099    8692       800  Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach ...    2.80
+3733   12643      1200         Nuts, pecans, dry roasted, with salt added    2.80
+5045   16529      1600            WORTHINGTON FriPats, frozen, unprepared    2.80
+1996    8539       800  Cereals ready-to-eat, KASHI ORGANIC PROMISE, C...    2.80
+1946    8386       800         Cereals ready-to-eat, KASHI GOLEAN CRUNCH!    2.79
+3304   11666      1100           Seaweed, spirulina, raw (Spirulina spp.)    2.79
+6485   20015      2000                                   Corn bran, crude    2.79
+5719   18213      1800                Cookies, vanilla wafers, higher fat    2.79
+5691   18179      1800  Cookies, oatmeal, commercially prepared, soft-...    2.79
+8183   28382      1800           PEPPERIDGE FARM, Farmhouse Oatmeal Bread    2.79
+8738   43441      1800                                Rolls, pumpernickel    2.78
+5978   18651      1800  NABISCO, NABISCO SNACKWELL'S Fat Free Devil's ...    2.78
+8683   43241       800                      Cereals ready-to-eat, FAMILIA    2.78
+8611   42259      2500  Snacks, popcorn, home-prepared, oil-popped, un...    2.78
+6401   19807      2500  Snacks, popcorn, oil-popped, white popcorn, sa...    2.78
+4774   16036      1600  Beans, kidney, royal red, mature seeds, cooked...    2.77
+5737   18231      1800  Crackers, standard snack-type, sandwich, with ...    2.77
+4970   16336      1600  Beans, kidney, royal red, mature seeds, cooked...    2.77
+5569   18010      1800             Biscuits, plain or buttermilk, dry mix    2.77
+2097    8690       800  Cereals, QUAKER, oatmeal, REAL MEDLEYS, apple ...    2.77
+6114   19081      1900                           Candies, sweet chocolate    2.76
+6016   18968      1800                                      Bagels, wheat    2.76
+8199   28399      1800  Cookies, animal crackers (includes arrowroot, ...    2.75
+5576   18017      1800          Biscuits, mixed grain, refrigerated dough    2.75
+4886   16160      1600                   Tofu, hard, prepared with nigari    2.75
+8150   28348      1800                               Rolls, dinner, sweet    2.74
+5730   18224      1800                               Crackers, rusk toast    2.72
+5949   18541      1800          ARCHWAY Home Style Cookies, Peanut Butter    2.72
+5721   18215      1800  Crackers, cheese, sandwich-type with peanut bu...    2.72
+5655   18133      1800                Cake, sponge, commercially prepared    2.72
+5589   18036      1800  Bread, multi-grain, toasted (includes whole-gr...    2.72
+3166   11457      1100                   Spinach, raw (Spinacia oleracea)    2.71
+8178   28377      1800   PEPPERIDGE FARM, 100% Whole Wheat Hamburger Buns    2.71
+3337   11720      1100  Beans, pinto, immature seeds, frozen, cooked, ...    2.71
+2851   11049      1100  Beans, pinto, immature seeds, frozen, cooked, ...    2.71
+5836   18349      1800                                      Rolls, french    2.71
+6297   19310      1900                       Pectin, unsweetened, dry mix    2.71
+6594   20314      2000                                  Corn grain, white    2.71
+6484   20014      2000              Corn grain, yellow (Zea mays mays L.)    2.71
+7888   28082      1800  KEEBLER, FUDGE SHOPPE, Peanut Creme Filled Coo...    2.70
+2007    8562       800  Cereals, KASHI GO LEAN Hot Cereal, Creamy TRUL...    2.70
+7868   28061      1800  KEEBLER, CHIPS DELUXE, Rainbow Chocolate Chip ...    2.70
+4850   16114      1600                                             Tempeh    2.70
+2088    8681       800  Cereals ready-to-eat, CASCADIAN FARM, Cinnamon...    2.70
+2090    8683       800  Cereals ready-to-eat, CASCADIAN FARM, Multi-Gr...    2.70
+5087   16608      1600  MORNINGSTAR FARMS Chik Patties Original, froze...    2.70
+6567   20114      2000                       Noodles, japanese, soba, dry    2.70
+5592   18039      1800                                     Bread, oatmeal    2.70
+6271   19268      1900        Candies, dark chocolate coated coffee beans    2.70
+7735   25041      2500  Snacks, granola bar, KASHI TLC Bar, crunchy, m...    2.70
+6044   18996      1800  KELLOGG'S, EGGO, Biscuit Scramblers, Egg & Cheese    2.70
+8016   28213      1800              MURRAY, Duplex Creme Sandwich Cookies    2.70
+6043   18995      1800  KELLOGG'S, EGGO, Biscuit Scramblers, Bacon, Eg...    2.70
+7828   28020      1800               KASHI, TLC, Pita Crisps, Zesty Salsa    2.70
+7928   28124      1800        KEEBLER, SANDIES, Cashew Shortbread Cookies    2.70
+5724   18218      1800                               Crackers, matzo, egg    2.70
+5862   18377      1800  Cookies, oatmeal, prepared from recipe, withou...    2.70
+5833   18346      1800                                 Rolls, dinner, rye    2.70
+7998   28195      1800                   MOTHER'S, Chocolate Chip Cookies    2.70
+5587   18032      1800            Bread, irish soda, prepared from recipe    2.69
+1892    8218       800  Cereals ready-to-eat, QUAKER, QUAKER 100% Natu...    2.69
+6089   19050      2500  Snacks, pretzels, hard, whole-wheat including ...    2.69
+6579   20130      2000                               Barley flour or meal    2.68
+4638   15160      1500  Mollusks, clam, mixed species, canned, drained...    2.68
+8156   28355      1800  CRUNCHMASTER, Multi-Grain Crisps, Snack Cracke...    2.68
+3565   11956      1100        Tomatoes, sun-dried, packed in oil, drained    2.68
+5740   18234      1800  Crackers, wheat, sandwich, with peanut butter ...    2.67
+6400   19806      2500             Snacks, popcorn, air-popped (Unsalted)    2.66
+2150    9032       900                Apricots, dried, sulfured, uncooked    2.66
+5770   18267      1800              English muffins, whole-wheat, toasted    2.66
+5012   16426      1600     Tofu, raw, firm, prepared with calcium sulfate    2.66
+3729   12632      1200  Nuts, macadamia nuts, dry roasted, with salt a...    2.65
+6164   19134      1900          Candies, milk chocolate, with rice cereal    2.65
+5845   18358      1800  Sweet rolls, cinnamon, refrigerated dough with...    2.65
+5695   18184      1800  Cookies, oatmeal, prepared from recipe, with r...    2.65
+3673   12132      1200  Nuts, macadamia nuts, dry roasted, without sal...    2.65
+6097   19061      2500                        Snacks, trail mix, tropical    2.64
+5017   16434      1600  Yardlong beans, mature seeds, cooked, boiled, ...    2.64
+4869   16134      1600  Yardlong beans, mature seeds, cooked, boiled, ...    2.64
+5738   18232      1800                           Crackers, wheat, regular    2.64
+8139   28337      1800  Bread, gluten-free, white, made with rice flou...    2.63
+5937   18522      1800  ARCHWAY Home Style Cookies, Chocolate Chip Ice...    2.63
+1862    8147       800  Cereals ready-to-eat, POST, Shredded Wheat, or...    2.63
+6525   20062      2000                      Rye grain (Secale cereale L.)    2.63
+3581   11974      1100                 Grape leaves, raw (Vitis vinifera)    2.63
+8097   28295      1800      Tortillas, ready-to-bake or -fry, whole wheat    2.63
+5594   18041      1800                       Bread, pita, white, enriched    2.62
+5739   18233      1800     Crackers, wheat, sandwich, with cheese filling    2.62
+3676   12137      1200  Nuts, mixed nuts, oil roasted, with peanuts, w...    2.61
+3731   12637      1200  Nuts, mixed nuts, oil roasted, with peanuts, w...    2.61
+5784   18282      1800  Muffins, corn, prepared from recipe, made with...    2.61
+3740   12737      1200  Nuts, mixed nuts, oil roasted, with peanuts, l...    2.61
+3708   12200      1200  Nuts, formulated, wheat-based, all flavors exc...    2.60
+1269    6101       600              Soup, cream of vegetable, dry, powder    2.60
+8068   28266      1800  KEEBLER, READY CRUST, Graham Pie Crust (10"), ...    2.60
+8018   28215      1800                       MURRAY, JACKS Vanilla Wafers    2.60
+5966   18629      1800  PILLSBURY, Buttermilk Biscuits, Artificial Fla...    2.60
+5990   18942      1800  Pie Crust, Cookie-type, Graham Cracker, Ready ...    2.60
+2058    8647       800         Cereals ready-to-eat, KASHI INDIGO MORNING    2.60
+8069   28267      1800        KEEBLER, SANDIES, Simply Shortbread Cookies    2.60
+5717   18211      1800          Puff pastry, frozen, ready-to-bake, baked    2.60
+6039   18991      1800                  BARBARA DEE, Winter Mints Cookies    2.60
+8181   28380      1800        PEPPERIDGE FARM, Whole Grain 15 Grain Bread    2.60
+8196   28395      1800  PEPPERIDGE FARM, Whole Grain Honey Whole Wheat...    2.60
+2059    8648       800           Cereals ready-to-eat, KASHI Simply Maize    2.60
+5701   18190      1800           Cookies, peanut butter sandwich, regular    2.60
+7883   28077      1800  KEEBLER, FUDGE SHOPPE, Cheesecake Middles, Ori...    2.60
+7881   28075      1800        KEEBLER, E.L. FUDGE, Double Stuffed Cookies    2.60
+8197   28396      1800         PEPPERIDGE FARM, Whole Grain Oatmeal Bread    2.60
+5824   18334      1800  Pie crust, standard-type, frozen, ready-to-bak...    2.60
+7855   28048      1800  KEEBLER, BAKER'S TREASURES, Oatmeal Raisin Coo...    2.60
+7846   28038      1800            JACKSON'S, Old Fashioned Vanilla Wafers    2.60
+5039   16523      1600  WORTHINGTON Vegetarian Burger, canned, unprepared    2.60
+7845   28037      1800      JACKSON'S, Old Fashioned Lemon Jumble Cookies    2.60
+8123   28321      1800  Rolls, hamburger, whole grain white, calcium-f...    2.59
+8094   28292      1800                               Crackers, multigrain    2.59
+2371    9299       900                   Raisins, seeded (Vitis vinifera)    2.59
+6533   20070      2000                       Triticale flour, whole-grain    2.59
+8193   28392      1800  PEPPERIDGE FARM, Farmhouse 100% Whole Wheat Bread    2.58
+1893    8220       800  Cereals ready-to-eat, QUAKER, Low Fat 100% Nat...    2.58
+5690   18178      1800   Cookies, oatmeal, commercially prepared, regular    2.58
+3691   12157      1200        Nuts, walnuts, dry roasted, with salt added    2.57
+5574   18015      1800  Biscuits, plain or buttermilk, refrigerated do...    2.57
+2817   11005      1100              Arrowhead, raw (Sagittaria latifolia)    2.57
+5874   18402      1800  Pie crust, standard-type, prepared from recipe...    2.57
+3677   12138      1200  Nuts, mixed nuts, oil roasted, without peanuts...    2.57
+6532   20069      2000                   Triticale (X Triticosecale spp.)    2.57
+3732   12638      1200  Nuts, mixed nuts, oil roasted, without peanuts...    2.57
+6355   19405      2500  Snacks, granola bars, soft, uncoated, chocolat...    2.57
+2866   11086      1100                   Beet greens, raw (Beta vulgaris)    2.57
+5827   18337      1800                 Puff pastry, frozen, ready-to-bake    2.56
+6064   19020      2500        Snacks, granola bars, soft, uncoated, plain    2.56
+2000    8546      2500                          Rice and Wheat cereal bar    2.56
+5709   18201      1800   Cookies, peanut butter sandwich, special dietary    2.55
+6237   19220      1900               Desserts, rennin, chocolate, dry mix    2.55
+4832   16095      1600          Peanuts, virginia, raw (Arachis hypogaea)    2.55
+7748   25060      2500              Snack, Pretzel, hard chocolate coated    2.54
+6527   20064      2000                                  Rye flour, medium    2.54
+5651   18126      1800  Cake, shortcake, biscuit-type, prepared from r...    2.54
+1922    8290       800  Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 F...    2.54
+6053   19005      2500         Snacks, corn-based, extruded, cones, plain    2.54
+8117   28315      1800                                    Bread, cinnamon    2.54
+5753   18248      1800  Doughnuts, cake-type, plain (includes unsugare...    2.53
+8182   28381      1800      PEPPERIDGE FARM, Farmhouse Hearty White Bread    2.53
+3680   12142      1200                 Nuts, pecans (Carya illinoinensis)    2.53
+5688   18176      1800  Cookies, marshmallow, chocolate-coated (includ...    2.53
+6004   18956      1800             Keikitos (muffins), Latino bakery item    2.53
+6055   19008      2500  Snacks, corn-based, extruded, puffs or twists,...    2.53
+8122   28320      1800                 English muffins, whole grain white    2.53
+6006   18958      1800  Pan Dulce, LA RICURA, Salpora de Arroz con Azu...    2.52
+3707   12198      1200  Seeds, sesame butter, tahini, from raw and sto...    2.51
+4986   16363      1600  Cowpeas, common (blackeyes, crowder, southern)...    2.51
+4801   16063      1600  Cowpeas, common (blackeyes, crowder, southern)...    2.51
+5911   18448      1800             Taco shells, baked, without added salt    2.50
+2338    9265       900     Persimmons, native, raw (Diospyros virginiana)    2.50
+6116   19084      1900        Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES    2.50
+7019   22126      1600          LOMA LINDA Big Franks, canned, unprepared    2.50
+5903   18437      1800  English muffins, plain, enriched, without calc...    2.50
+6061   19016      2500                 Snacks, granola bars, hard, almond    2.50
+6476   20005      2000                               Barley, pearled, raw    2.50
+3162   11451      1100  Soybeans, green, cooked, boiled, drained, with...    2.50
+1863    8148       800  Cereals ready-to-eat, POST, Shredded Wheat, or...    2.50
+7836   28028      1800          FAMOUS AMOS, Chocolate Chip Pecan Cookies    2.50
+8028   28226      1800       MURRAY, SUGAR FREE, Pecan Shortbread Cookies    2.50
+5091   16613      1600  MORNINGSTAR FARMS Breakfast Sandwich Veggie Sa...    2.50
+5077   16592      1600  MORNINGSTAR FARMS California Turk'y Burger, fr...    2.50
+5062   16557      1600  MORNINGSTAR FARMS Chik Patties, frozen, unprep...    2.50
+3467   11853      1100  Soybeans, green, cooked, boiled, drained, with...    2.50
+8072   28270      1800                 MOTHER'S, Vanilla Sandwich Cookies    2.50
+8071   28269      1800            MOTHER'S, Old Fashioned Oatmeal Cookies    2.50
+4622   15144      1500  Crustaceans, crab, queen, raw (Chionoectes opi...    2.50
+4499   15018      1500              Fish, cod, Atlantic, dried and salted    2.50
+2895   11118      1100                                    Cabbage, kimchi    2.50
+7860   28053      1800  KEEBLER, CHIPS DELUXE, Chocolate Malt Chunk Co...    2.50
+7861   28054      1800             KEEBLER, CHIPS DELUXE, Coconut Cookies    2.50
+7932   28128      1800  KEEBLER, SANDIES, Pecan Shortbread Cookies, bi...    2.50
+7935   28131      1800                      KEEBLER, Sweet Cremes Cookies    2.50
+7965   28161      1800           KELLOGG'S, ALL-BRAN, Multigrain Crackers    2.50
+7993   28190      1800          KELLOGG'S, SPECIAL K, Multigrain Crackers    2.50
+8002   28199      1800             MOTHER'S, English Tea Sandwich Cookies    2.50
+8009   28206      1800     MOTHER'S, Old Fashioned Chocolate Chip Cookies    2.50
+8019   28216      1800         MURRAY, Old Fashioned Iced Oatmeal Cookies    2.50
+8027   28225      1800          MURRAY, SUGAR FREE, Peanut Butter Cookies    2.50
+1949    8389       800  Cereals ready-to-eat, KASHI 7 Whole Grain Hone...    2.50
+5581   18024      1800  Bread, cornbread, prepared from recipe, made w...    2.50
+5677   18164      1800  Cookies, chocolate chip, refrigerated dough, b...    2.50
+8198   28397      1800          Bread, multi-grain (includes whole-grain)    2.50
+5579   18022      1800  Bread, cornbread, dry mix, enriched (includes ...    2.50
+8131   28329      1800          Cookies, chocolate, made with rice cereal    2.49
+4848   16112      1600                                               Miso    2.49
+6020   18972      1800                                      Bread, cheese    2.49
+1229    6030       600  Soup, clam chowder, new england, canned, conde...    2.48
+5863   18378      1800  Cookies, chocolate chip, prepared from recipe,...    2.48
+4786   16048      1600  Beans, yellow, mature seeds, cooked, boiled, w...    2.48
+2149    9031       900  Apricots, dehydrated (low-moisture), sulfured,...    2.48
+4511   15030      1500        Fish, gefiltefish, commercial, sweet recipe    2.48
+5670   18156      1800  Cookies, fudge, cake-type (includes trolley ca...    2.48
+5573   18014      1800  Biscuits, plain or buttermilk, refrigerated do...    2.48
+4978   16348      1600  Beans, yellow, mature seeds, cooked, boiled, w...    2.48
+8103   28301      1800  Cookies, peanut butter, commercially prepared,...    2.48
+6479   20009      2000                     Buckwheat groats, roasted, dry    2.47
+5617   18075      1800          Bread, whole-wheat, commercially prepared    2.47
+3734   12644      1200         Nuts, pecans, oil roasted, with salt added    2.47
+5958   18610      1800  CONTINENTAL MILLS, KRUSTEAZ Almond Poppyseed M...    2.47
+5995   18947      1800  Pie crust, deep dish, frozen, baked, made with...    2.47
+3682   12144      1200      Nuts, pecans, oil roasted, without salt added    2.47
+2044    8627       800  Cereals ready-to-eat, QUAKER, Natural Granola ...    2.47
+5678   18165      1800  Cookies, chocolate chip, prepared from recipe,...    2.46
+3639   12077      1200                Nuts, beechnuts, dried (Fagus spp.)    2.46
+6482   20012      2000                                        Bulgur, dry    2.46
+2839   11032      1100  Lima beans, immature seeds, cooked, boiled, dr...    2.45
+3331   11714      1100  Lima beans, immature seeds, cooked, boiled, dr...    2.45
+5769   18266      1800                       English muffins, whole-wheat    2.45
+5731   18225      1800   Crackers, rye, sandwich-type with cheese filling    2.45
+5945   18537      1800                ARCHWAY Home Style Cookies, Oatmeal    2.45
+6066   19022      2500       Snacks, granola bars, soft, uncoated, raisin    2.44
+6073   19031      2500                   Snacks, oriental mix, rice-based    2.44
+5844   18357      1800  Sweet rolls, cinnamon, refrigerated dough with...    2.44
+8095   28293      1800  Cookie, butter or sugar, with chocolate icing ...    2.44
+4884   16158      1600                                 Hummus, commercial    2.44
+1285    6128       600                     Soup, chicken noodle, dry, mix    2.44
+3640   12078      1200  Nuts, brazilnuts, dried, unblanched (Bertholle...    2.43
+5704   18193      1800  Cookies, shortbread, commercially prepared, pecan    2.43
+5640   18106      1800                                  Coffeecake, fruit    2.43
+5722   18216      1800                          Crackers, crispbread, rye    2.43
+3655   12104      1200           Nuts, coconut meat, raw (Cocos nucifera)    2.43
+8115   28313      1800           Rolls, hamburger or hot dog, whole wheat    2.42
+5757   18253      1800                 Doughnuts, french crullers, glazed    2.42
+5835   18348      1800                         Rolls, dinner, whole-wheat    2.42
+4878   16147      1600           Veggie burgers or soyburgers, unprepared    2.41
+4841   16104      1600                                    Bacon, meatless    2.41
+2009    8568       800  Cereals, KASHI HEART TO HEART, Instant Oatmeal...    2.40
+2091    8684       800  Cereals ready-to-eat, CASCADIAN FARM, Honey Nu...    2.40
+3592   11985      1100    Fireweed, leaves, raw (Epilobium angustifolium)    2.40
+3050   11303      1100  Peas, edible-podded, frozen, cooked, boiled, d...    2.40
+1947    8387       800  Cereals ready-to-eat, KASHI HEART TO HEART, Ho...    2.40
+5946   18538      1800         ARCHWAY Home Style Cookies, Oatmeal Raisin    2.40
+6022   18974      1800                  KASHI, TLC, Honey Sesame Crackers    2.40
+6029   18981      1800        KASHI, TLC, Fire Roasted Vegetable Crackers    2.40
+6369   19420      2500          Snacks, granola bars, hard, peanut butter    2.40
+6372   19423      2500  Snacks, potato chips, fat-free, made with olestra    2.40
+5067   16570      1600  GARDENBURGER Black Bean Chipotle Burger, froze...    2.40
+3678   12140      1200  Nuts, formulated, wheat-based, unflavored, wit...    2.40
+7954   28150      1800         KEEBLER, TRADITIONS, Iced Lemonade Cookies    2.40
+8005   28202      1800                    MOTHER'S, Iced Lemonade Cookies    2.40
+8008   28205      1800                         MOTHER'S, Macaroon Cookies    2.40
+4812   16075      1600  Lima beans, thin seeded (baby), mature seeds, ...    2.40
+4990   16375      1600  Lima beans, thin seeded (baby), mature seeds, ...    2.40
+8021   28218      1800          MURRAY, SOUTHERN KITCHEN, Coconut Cookies    2.40
+3426   11810      1100  Peas, edible-podded, frozen, cooked, boiled, d...    2.40
+8033   28231      1800                  MURRAY, SUGAR FREE, Vanilla Wafer    2.40
+3274   11616      1100                             Dock, raw (Rumex spp.)    2.40
+3653   12100      1200           Nuts, chestnuts, european, dried, peeled    2.39
+5776   18273      1800  Muffins, plain, prepared from recipe, made wit...    2.39
+5736   18230      1800  Crackers, standard snack-type, sandwich, with ...    2.39
+4809   16072      1600  Lima beans, large, mature seeds, cooked, boile...    2.39
+4989   16372      1600  Lima beans, large, mature seeds, cooked, boile...    2.39
+5694   18183      1800        Cookies, oatmeal, refrigerated dough, baked    2.38
+6486   20016      2000                    Corn flour, whole-grain, yellow    2.38
+3652   12099      1200         Nuts, chestnuts, european, dried, unpeeled    2.38
+6596   20316      2000                     Corn flour, whole-grain, white    2.38
+1592    6969       600                      Potato soup, instant, dry mix    2.38
+5759   18255      1800  Doughnuts, yeast-leavened, glazed, enriched (i...    2.38
+4860   16124      1600                   Soy sauce made from soy (tamari)    2.38
+5718   18212      1800                 Cookies, vanilla wafers, lower fat    2.38
+4972   16338      1600  Beans, navy, mature seeds, cooked, boiled, wit...    2.36
+4776   16038      1600  Beans, navy, mature seeds, cooked, boiled, wit...    2.36
+6152   19120      1900                            Candies, milk chocolate    2.35
+2947   11195      1100  Cowpeas (blackeyes), immature seeds, frozen, u...    2.35
+5970   18633      1800  PILLSBURY GRANDS, Buttermilk Biscuits, refrige...    2.34
+5714   18208      1800  Cookies, sugar, prepared from recipe, made wit...    2.33
+6067   19024      2500  Snacks, granola bars, soft, coated, milk choco...    2.33
+2815   11003      1100             Amaranth leaves, raw (Amaranthus spp.)    2.32
+8713   43364      2500       Snacks, tortilla chips, unsalted, white corn    2.32
+3402   11786      1100  Drumstick leaves, cooked, boiled, drained, wit...    2.32
+5951   18547      1800      ARCHWAY Home Style Cookies, Strawberry Filled    2.32
+5950   18544      1800       ARCHWAY Home Style Cookies, Raspberry Filled    2.32
+2974   11223      1100  Drumstick leaves, cooked, boiled, drained, wit...    2.32
+5852   18367      1800               Waffles, plain, prepared from recipe    2.31
+8010   28207      1800       MOTHER'S, Old Fashioned Iced Oatmeal Cookies    2.30
+3169   11461      1100      Spinach, canned, regular pack, drained solids    2.30
+8011   28208      1800            MOTHER'S, Peanut Butter Gauchos Cookies    2.30
+8064   28262      1800        FAMOUS AMOS, Vanilla Sandwich Creme Cookies    2.30
+5603   18051      1800                    Bread, reduced-calorie, oatmeal    2.30
+8006   28203      1800                     MOTHER'S, Iced Oatmeal Cookies    2.30
+3319   11698      1100  Chrysanthemum leaves, raw (Chrysanthemum coron...    2.30
+7955   28151      1800          KEEBLER, TRADITIONS, Iced Oatmeal Cookies    2.30
+5020   16502      1600  LOMA LINDA Low Fat Big Franks, canned, unprepared    2.30
+4973   16341      1600  Beans, pink, mature seeds, cooked, boiled, wit...    2.30
+4779   16041      1600  Beans, pink, mature seeds, cooked, boiled, wit...    2.30
+4570   15089      1500  Fish, sardine, Pacific, canned in tomato sauce...    2.30
+7837   28029      1800        GIRL SCOUTS, Caramel Dulce De Leche Cookies    2.30
+7842   28034      1800           GIRL SCOUTS, Thank U Berry Munch Cookies    2.30
+7916   28112      1800         KEEBLER, READY CRUST, Shortbread Pie Crust    2.30
+2924   11157      1100  Chrysanthemum, garland, raw (Chrysanthemum cor...    2.29
+5702   18191      1800                         Cookies, raisin, soft-type    2.29
+6278   19279      1900        Candies, milk chocolate coated coffee beans    2.29
+3647   12094      1200                    Nuts, chestnuts, chinese, dried    2.29
+8764   43572      2500             Popcorn, microwave, low fat and sodium    2.28
+7699   25001      2500                Snacks, popcorn, microwave, low fat    2.28
+4829   16092      1600           Peanuts, spanish, oil-roasted, with salt    2.28
+3660   12115      1200  Nuts, coconut cream, raw (liquid expressed fro...    2.28
+4677   15200      1500             Fish, mackerel, king, cooked, dry heat    2.28
+4998   16392      1600        Peanuts, spanish, oil-roasted, without salt    2.28
+4352   14317      1400     Beverages, malted drink mix, chocolate, powder    2.28
+5968   18631      1800  PILLSBURY, Crusty French Loaf, refrigerated dough    2.27
+5780   18278      1800  Muffins, blueberry, prepared from recipe, made...    2.27
+2964   11212      1100                          Edamame, frozen, prepared    2.27
+8195   28394      1800                     PEPPERIDGE FARM, Hamburger Bun    2.27
+5756   18251      1800  Doughnuts, cake-type, chocolate, sugared or gl...    2.27
+8746   43497      1500                           Jellyfish, dried, salted    2.27
+6365   19415      2500                              Snacks, potato sticks    2.27
+2917   11148      1100  Chard, swiss, cooked, boiled, drained, without...    2.26
+2816   11004      1100  Amaranth leaves, cooked, boiled, drained, with...    2.26
+3059   11316      1100                  Peas, mature seeds, sprouted, raw    2.26
+3382   11765      1100   Chard, swiss, cooked, boiled, drained, with salt    2.26
+5993   18945      1800  Pie crust, deep dish, frozen, unbaked, made wi...    2.26
+3320   11700      1100  Amaranth leaves, cooked, boiled, drained, with...    2.26
+2319    9245       900  Peaches, dehydrated (low-moisture), sulfured, ...    2.26
+4362   14353      1400  Beverages, tea, instant, decaffeinated, unswee...    2.26
+5939   18527      1800    ARCHWAY Home Style Cookies, Date Filled Oatmeal    2.26
+4366   14366      1400       Beverages, tea, instant, unsweetened, powder    2.26
+3215   11520      1100             Taro leaves, raw (Colocasia esculenta)    2.25
+8154   28352      1800  Cookies, vanilla sandwich with creme filling, ...    2.25
+5666   18151      1800           Cookies, brownies, commercially prepared    2.25
+6019   18971      1800                                      Bread, potato    2.25
+6080   19040      2500                     Snacks, popcorn, cheese-flavor    2.24
+1309    6178       600                              USDA Commodity, salsa    2.24
+5711   18204      1800  Cookies, sugar, commercially prepared, regular...    2.24
+5700   18189      1800       Cookies, peanut butter, prepared from recipe    2.23
+8124   28322      1800                                 Bagels, multigrain    2.23
+1261    6076       600                       Soup, beef broth, cubed, dry    2.23
+5692   18180      1800                          Cookies, oatmeal, dry mix    2.22
+4766   16028      1600  Beans, kidney, all types, mature seeds, cooked...    2.22
+5976   18641      1800     INTERSTATE BRANDS CORP, WONDER Hamburger Rolls    2.22
+3138   11418      1100               Pumpkin leaves, raw (Cucurbita spp.)    2.22
+3318   11697      1100               Arrowroot, raw (Maranta arundinacea)    2.22
+5822   18332      1800                  Pie crust, standard-type, dry mix    2.22
+5669   18155      1800   Cookies, butter, commercially prepared, enriched    2.22
+1855    8133       800  Cereals, oats, instant, fortified, with raisin...    2.21
+2843   11039      1100  Lima beans, immature seeds, frozen, baby, unpr...    2.21
+5716   18210      1800       Cookies, vanilla sandwich with creme filling    2.21
+8188   28387      1800           PEPPERIDGE FARM, Hamburger Buns w/Sesame    2.21
+7707   25010      2500  Formulated bar, MARS SNACKFOOD US, COCOAVIA, C...    2.21
+5771   18268      1800                French toast, frozen, ready-to-heat    2.21
+7825   28017      1800                  KASHI, TLC, Pita Crisps, Sea Salt    2.20
+8075   28273      1800             MURRAY, Vanilla Creme Sandwich Cookies    2.20
+8087   28285      1800  Bread, chapati or roti, whole wheat, commercia...    2.20
+8030   28228      1800  MURRAY, SUGAR FREE, Vanilla Creme Sandwich Coo...    2.20
+8029   28227      1800   MURRAY, SUGAR FREE, Lemon Creme Sandwich Cookies    2.20
+8017   28214      1800               MURRAY, Lemon Creme Sandwich Cookies    2.20
+6478   20008      2000            Buckwheat (Fagopyrum esculentum Moench)    2.20
+6379   19438      2500  Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREAT...    2.20
+2398    9353       900    Blueberries, wild, canned, heavy syrup, drained    2.20
+7927   28123      1800  KEEBLER, 100 Calorie RIGHT BITES, White Fudge ...    2.20
+7902   28097      1800  KEEBLER, FUDGE SHOPPE, Merry Mint Patties, Hol...    2.20
+7878   28072      1800  KEEBLER, Country Style Oatmeal Cookies with Ra...    2.20
+4464   14632      1400  Beverages, Meal supplement drink, canned, pean...    2.20
+6002   18954      1800    Bread, pound cake type, pan de torta salvadoran    2.20
+2428    9428       900                         Rowal, raw (Pangium edule)    2.20
+7013   22118      1600  MORNINGSTAR FARMS Garden Veggie Patties, froze...    2.20
+5083   16602      1600  MORNINGSTAR FARMS Meal Starters Veggie Meatbal...    2.20
+6354   19404      2500  Snacks, granola bars, soft, uncoated, chocolat...    2.19
+5943   18533      1800           ARCHWAY Home Style Cookies, Iced Oatmeal    2.19
+3306   11669      1100                Seaweed, wakame, raw (Undaria spp.)    2.18
+6156   19124      1900                 Baking chocolate, mexican, squares    2.18
+2944   11190      1100              Cornsalad, raw (Valerianella locusta)    2.18
+6356   19406      2500  Snacks, granola bars, soft, uncoated, nut and ...    2.18
+5860   18375      1800       Leavening agents, yeast, baker's, active dry    2.17
+4819   16082      1600  Noodles, chinese, cellophane or long rice (mun...    2.17
+8665   43132      1600                                Meatballs, meatless    2.16
+4893   16167      1600              USDA Commodity, Peanut Butter, smooth    2.16
+5746   18241      1800                                 Croissants, cheese    2.15
+5823   18333      1800  Pie crust, standard-type, dry mix, prepared, b...    2.15
+5693   18182      1800               Cookies, oatmeal, refrigerated dough    2.14
+6548   20087      2000                                    Wheat, sprouted    2.14
+2823   11011      1100             Asparagus, raw (Asparagus officinalis)    2.14
+2876   11096      1100                 Broccoli raab, raw (Brassica ruvo)    2.14
+7777   27032       600   CAMPBELL'S Red and White, Lentil Soup, condensed    2.14
+5571   18012      1800  Biscuits, plain or buttermilk, refrigerated do...    2.13
+6576   20126      2000                            Spaghetti, spinach, dry    2.13
+4630   15152      1500         Crustaceans, shrimp, mixed species, canned    2.13
+5979   18927      1800  Crackers, cheese, sandwich-type with cheese fi...    2.13
+4763   16025      1600  Beans, great northern, mature seeds, cooked, b...    2.13
+6193   19164      1900                Candies, SPECIAL DARK Chocolate Bar    2.13
+6065   19021      2500  Snacks, granola bars, soft, uncoated, peanut b...    2.13
+4898   16174      1600                                     Tempeh, cooked    2.13
+4964   16325      1600  Beans, great northern, mature seeds, cooked, b...    2.13
+5971   18634      1800  PILLSBURY Golden Layer Buttermilk Biscuits, Ar...    2.12
+3394   11778      1100  Cowpeas (blackeyes), immature seeds, frozen, c...    2.12
+3671   12130      1200              Nuts, hickorynuts, dried (Carya spp.)    2.12
+7708   25012      2500               Snacks, sweet potato chips, unsalted    2.12
+6007   18959      1800       Pastry, Pastelitos de Guava (guava pastries)    2.12
+5871   18399      1800  Pie crust, cookie-type, prepared from recipe, ...    2.12
+2948   11196      1100  Cowpeas (blackeyes), immature seeds, frozen, c...    2.12
+1852    8129       800  Cereals, oats, instant, fortified, with cinnam...    2.11
+5696   18185      1800  Cookies, peanut butter, commercially prepared,...    2.11
+4255   14181      1400                         Beverages, chocolate syrup    2.11
+3336   11719      1100  Beans, navy, mature seeds, sprouted, cooked, b...    2.11
+2963   11211      1100                        Edamame, frozen, unprepared    2.11
+2849   11047      1100  Beans, navy, mature seeds, sprouted, cooked, b...    2.11
+3712   12204      1200                 Nuts, chestnuts, japanese, roasted    2.10
+2995   11246      1100  Leeks, (bulb and lower leaf-portion), raw (All...    2.10
+3163   11452      1100  Soybeans, mature seeds, sprouted, raw (Glycine...    2.10
+8668   43137      1600                     Vegetarian meatloaf or patties    2.10
+5044   16528      1600       WORTHINGTON Dinner Roast, frozen, unprepared    2.10
+6042   18994      1800                    BEAR NAKED, Fruit & Nut Cookies    2.10
+6473   20002      2000           Amaranth grain, cooked (Amaranthus spp.)    2.10
+2332    9259       900                   Pears, dried, sulfured, uncooked    2.10
+5578   18021      1800                        Bread, boston brown, canned    2.10
+5061   16556      1600  MORNINGSTAR FARMS Chik'n Nuggets, frozen, unpr...    2.10
+5096   16618      1600  MORNINGSTAR FARMS Spicy Indian Veggie Burger, ...    2.10
+7934   28130      1800        KEEBLER, SOFT BATCH, Chocolate Chip Cookies    2.10
+8092   28290      1800  Cookie, with peanut butter filling, chocolate-...    2.10
+8078   28276      1800          MURRAY, SOUTHERN KITCHEN, Oatmeal Cookies    2.10
+8066   28264      1800                           KEEBLER, Oatmeal Cookies    2.10
+8012   28209      1800                   MOTHER'S, Taffy Sandwich Cookies    2.10
+7936   28132      1800                   KEEBLER, Toasted Coconut Cookies    2.10
+7920   28116      1800  KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE...    2.10
+4753   16015      1600  Beans, black, mature seeds, cooked, boiled, wi...    2.10
+7893   28087      1800  KEEBLER, FUDGE SHOPPE, Fudge Stripes, Dark Cho...    2.10
+7879   28073      1800                    KEEBLER, Danish Wedding Cookies    2.10
+7841   28033      1800                     GIRL SCOUTS, Tagalongs Cookies    2.10
+4836   16099      1600                             Peanut flour, defatted    2.10
+4959   16315      1600  Beans, black, mature seeds, cooked, boiled, wi...    2.10
+3607   12004      1200  Seeds, breadnut tree seeds, raw (Brosimum alic...    2.09
+6172   19142      1900                          Candies, MOUNDS Candy Bar    2.09
+2104    8697       800  Cereals ready-to-eat, KASHI ORGANIC PROMISE, R...    2.09
+4974   16343      1600  Beans, pinto, mature seeds, cooked, boiled, wi...    2.09
+4962   16320      1600  Beans, cranberry (roman), mature seeds, cooked...    2.09
+4830   16093      1600          Peanuts, valencia, raw (Arachis hypogaea)    2.09
+4781   16043      1600  Beans, pinto, mature seeds, cooked, boiled, wi...    2.09
+4758   16020      1600  Beans, cranberry (roman), mature seeds, cooked...    2.09
+5662   18144      1800                    Cake, yellow, enriched, dry mix    2.08
+3047   11300      1100           Peas, edible-podded, raw (Pisum sativum)    2.08
+3275   11617      1100        Dock, cooked, boiled, drained, without salt    2.08
+3535   11925      1100           Dock, cooked, boiled, drained, with salt    2.08
+5643   18110      1800             Cake, fruitcake, commercially prepared    2.07
+5675   18161      1800                   Cookies, chocolate chip, dry mix    2.07
+7721   25026      2500  Popcorn, microwave, regular (butter) flavor, m...    2.06
+8119   28317      1800                    Bread, wheat, sprouted, toasted    2.06
+5914   18451      1800       Cake, pound, commercially prepared, fat-free    2.06
+6463   19916      1900  Syrups, chocolate, HERSHEY'S Sugar free, Genui...    2.06
+1937    8355       800  Cereals ready-to-eat, QUAKER, MOTHER'S COCOA B...    2.06
+6592   20143      2000   Teff, cooked (Eragrostis tef (Zuccagni) Trotter)    2.05
+5570   18011      1800   Biscuits, plain or buttermilk, dry mix, prepared    2.05
+4885   16159      1600             Tofu, extra firm, prepared with nigari    2.04
+4529   15048      1500  Fish, mackerel, jack, canned, drained solids (...    2.04
+2829   11022      1100  Balsam-pear (bitter gourd), leafy tips, raw (M...    2.04
+2205    9094       900                              Figs, dried, uncooked    2.03
+5744   18239      1800                                 Croissants, butter    2.03
+5659   18140      1800  Cake, yellow, commercially prepared, with choc...    2.03
+5967   18630      1800  PILLSBURY, Chocolate Chip Cookies, refrigerate...    2.03
+7729   25035      2500  Snacks, granola bar, chewy, reduced sugar, all...    2.03
+5743   18237      1800             Cream puff shell, prepared from recipe    2.02
+6099   19063      2500                Snacks, tortilla chips, taco-flavor    2.02
+3111   11386      1100           Potatoes, scalloped, dry mix, unprepared    2.01
+7992   28189      1800  KELLOGG'S, SPECIAL K, Cracker Chips, Southwest...    2.00
+4958   16302      1600  Beans, adzuki, mature seed, cooked, boiled, wi...    2.00
+5075   16590      1600  MORNINGSTAR FARMS BBQ Riblets, frozen, unprepared    2.00
+2127    9009       900  Apples, dehydrated (low moisture), sulfured, u...    2.00
+5029   16512      1600         WORTHINGTON Diced Chik, canned, unprepared    2.00
+5089   16610      1600  MORNINGSTAR FARMS Roasted Garlic & Quinoa Burg...    2.00
+5082   16601      1600  MORNINGSTAR FARMS Grillers Chik'n Veggie Patti...    2.00
+5034   16517      1600       WORTHINGTON Prime Stakes, canned, unprepared    2.00
+8666   43134      1600                                 Vegetarian fillets    2.00
+5030   16513      1600   WORTHINGTON FriChik Original, canned, unprepared    2.00
+5989   18940      1800  Muffin, blueberry, commercially prepared, low-fat    2.00
+5676   18163      1800        Cookies, chocolate chip, refrigerated dough    2.00
+6028   18980      1800                             KASHI, Original Waffle    2.00
+5074   16588      1600  MORNINGSTAR FARMS Chik'n Grill Veggie Patties,...    2.00
+3264   11599      1100  Winged bean tuber, raw (Psophocarpus tetragono...    2.00
+6087   19048      2500  Snacks, pretzels, hard, confectioner's coating...    2.00
+4742   16002      1600  Beans, adzuki, mature seeds, cooked, boiled, w...    2.00
+3049   11302      1100            Peas, edible-podded, frozen, unprepared    2.00
+4173   14068      1400    Beverages, KELLOGG'S SPECIAL K20 protein powder    2.00
+7018   22123      1600  MORNINGSTAR FARMS Spicy Black Bean Burger, fro...    2.00
+5686   18174      1800         Cookies, graham crackers, chocolate-coated    2.00
+4905   16211      1600  Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu    2.00
+1918    8277       800  Cereals ready-to-eat, GENERAL MILLS, NATURE VA...    2.00
+5654   18131      1800  Cake, white, dry mix, special dietary (include...    1.99
+8100   28298      1800  Cookies, brownies, commercially prepared, redu...    1.99
+5667   18152      1800                Cookies, brownies, dry mix, regular    1.99
+4745   16005      1600                        Beans, baked, home prepared    1.99
+5962   18616      1800  MISSION FOODS, MISSION Flour Tortillas, Soft T...    1.99
+3144   11427      1100                 Purslane, raw (Portulaca oleracea)    1.99
+4867   16132      1600                  Tofu, salted and fermented (fuyu)    1.98
+6076   19035      2500  Snacks, popcorn, oil-popped, microwave, regula...    1.98
+6551   20090      2000                                  Rice flour, brown    1.98
+5016   16432      1600  Tofu, salted and fermented (fuyu), prepared wi...    1.98
+3425   11809      1100  Peas, edible-podded, cooked, boiled, drained, ...    1.97
+6133   19101      1900  Candies, fudge, chocolate, with nuts, prepared...    1.97
+3295   11653      1100  Beans, pinto, mature seeds, sprouted, raw (Pha...    1.97
+1933    8351       800  Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT ...    1.97
+3048   11301      1100  Peas, edible-podded, boiled, drained, without ...    1.97
+3171   11464      1100  Spinach, frozen, chopped or leaf, cooked, boil...    1.96
+3470   11856      1100  Spinach, frozen, chopped or leaf, cooked, boil...    1.96
+8661   43125      1600             Beans, liquid from stewed kidney beans    1.96
+5749   18244      1800                  Danish pastry, cinnamon, enriched    1.96
+2844   11040      1100  Lima beans, immature seeds, frozen, baby, cook...    1.96
+5936   18513      1800     ARCHWAY Home Style Cookies, Sugar Free Oatmeal    1.96
+3333   11716      1100  Lima beans, immature seeds, frozen, baby, cook...    1.96
+6364   19414      2500         Snacks, rice cakes, brown rice, multigrain    1.96
+6410   19818      2500  Snacks, rice cakes, brown rice, multigrain, un...    1.96
+6549   20088      2000                      Wild rice, raw (Zizania spp.)    1.96
+4897   16173      1600  Frijoles rojos volteados (Refried beans, red, ...    1.95
+3246   11575      1100  Turnip greens, frozen, cooked, boiled, drained...    1.94
+8177   28376      1800  VAN'S, The Perfect 10, Crispy Six Whole Grain ...    1.94
+3503   11892      1100  Turnip greens, frozen, cooked, boiled, drained...    1.94
+6070   19027      2500  Snacks, granola bars, soft, uncoated, peanut b...    1.94
+5782   18280      1800                   Muffins, corn, dry mix, prepared    1.94
+3408   11792      1100   Kale, scotch, cooked, boiled, drained, with salt    1.93
+2848   11046      1100  Beans, navy, mature seeds, sprouted, raw (Phas...    1.93
+5972   18635      1800  PILLSBURY, Cinnamon Rolls with Icing, refriger...    1.93
+6197   19169      1900                              Egg custards, dry mix    1.93
+3280   11623      1100  Kale, scotch, cooked, boiled, drained, without...    1.93
+1557    6633       600      Sauce, hot chile, sriracha, TUONG OT SRIRACHA    1.92
+3704   12179      1200  Nuts, coconut meat, dried (desiccated), sweete...    1.92
+2953   11201      1100  Cowpeas, leafy tips, raw (Vigna unguiculata su...    1.92
+6470   19923      1900                      Candies, HERSHEYS, PAYDAY Bar    1.92
+4696   15219      1500       Fish, trout, mixed species, cooked, dry heat    1.92
+4664   15187      1500  Fish, bass, freshwater, mixed species, cooked,...    1.91
+7756   25070      2500                             Snacks, shrimp cracker    1.91
+5638   18104      1800  Coffeecake, cinnamon with crumb topping, comme...    1.91
+4756   16018      1600          Beans, black turtle, mature seeds, canned    1.90
+7913   28109      1800                      KEEBLER, Iced Oatmeal Cookies    1.90
+8022   28219      1800     MURRAY, SOUTHERN KITCHEN, Iced Oatmeal Cookies    1.90
+2847   11045      1100  Mung beans, mature seeds, sprouted, cooked, st...    1.90
+5001   16397      1600           Peanut butter, chunk style, without salt    1.90
+5052   16538      1600  MORNINGSTAR FARMS Breakfast Pattie with Organi...    1.90
+6026   18978      1800                            KASHI, Blueberry Waffle    1.90
+4834   16097      1600              Peanut butter, chunk style, with salt    1.90
+5094   16616      1600  MORNINGSTAR FARMS Garden Veggie Nuggets, froze...    1.90
+7900   28095      1800  KEEBLER, FUDGE SHOPPE, Jumbo Fudge Sticks, Pea...    1.90
+6607   20409      2000                      Noodles, egg, dry, unenriched    1.90
+5641   18107      1800   Coffeecake, cinnamon with crumb topping, dry mix    1.90
+6419   19858      1900                      Candies, sugar-coated almonds    1.90
+4167   14062      1400  Beverages, ABBOTT, ENSURE, Nutritional Shake, ...    1.90
+7885   28079      1800      KEEBLER, FUDGE SHOPPE, Coconut Dreams Cookies    1.90
+4242   14163      1400  Beverages, chocolate drink, milk and soy based...    1.90
+5088   16609      1600  MORNINGSTAR FARMS Breakfast Pattie, frozen, un...    1.90
+3353   11736      1100    Beet greens, cooked, boiled, drained, with salt    1.90
+2868   11088      1100       Broadbeans, immature seeds, raw (Vicia faba)    1.90
+8628   42291      1600                      Peanut butter, reduced sodium    1.90
+2867   11087      1100  Beet greens, cooked, boiled, drained, without ...    1.90
+4880   16150      1600                 Peanut butter, smooth, reduced fat    1.90
+4960   16316      1600     Beans, black, mature seeds, canned, low sodium    1.90
+8118   28316      1800                             Bread, wheat, sprouted    1.89
+3170   11463      1100       Spinach, frozen, chopped or leaf, unprepared    1.89
+7749   25062      2500                             Snack, Mixed Berry Bar    1.89
+8102   28300      1800      Cookies, oatmeal sandwich, with creme filling    1.88
+6462   19914      1900       Candies, M&M MARS 3 MUSKETEERS Truffle Crisp    1.88
+3591   11984      1100             Epazote, raw (Chenopodium ambrosiodes)    1.88
+7714   25018      2500  Formulated bar, MARS SNACKFOOD US, COCOAVIA, C...    1.88
+3284   11632      1100      Peppers, jalapeno, canned, solids and liquids    1.88
+2370    9298       900                 Raisins, seedless (Vitis vinifera)    1.88
+1936    8354       800  Cereals ready-to-eat, QUAKER, MOTHER'S GRAHAM ...    1.87
+5699   18188      1800  Cookies, peanut butter, refrigerated dough, baked    1.87
+1263    6081       600                     Soup, chicken broth cubes, dry    1.87
+6077   19036      2500                             Snacks, popcorn, cakes    1.87
+8659   43112      1600        Beans, chili, barbecue, ranch style, cooked    1.86
+3155   11442      1100                 Seaweed, agar, raw (Eucheuma spp.)    1.86
+6162   19130      1900          Candies, HERSHEY'S POT OF GOLD Almond Bar    1.85
+4777   16039      1600                  Beans, navy, mature seeds, canned    1.85
+5712   18205      1800                 Cookies, sugar, refrigerated dough    1.85
+7710   25014      2500  Snacks, popcorn, microwave, regular (butter) f...    1.85
+2277    9190       900                      Mulberries, raw (Morus nigra)    1.85
+5805   18309      1800                  Pie, cherry, prepared from recipe    1.85
+5580   18023      1800  Bread, cornbread, dry mix, prepared with 2% mi...    1.85
+6370   19421      2500                Snacks, potato chips, cheese-flavor    1.84
+5668   18154      1800            Cookies, brownies, prepared from recipe    1.84
+3658   12110      1200  Nuts, coconut meat, dried (desiccated), sweete...    1.84
+5713   18206      1800          Cookies, sugar, refrigerated dough, baked    1.84
+3196   11495      1100                   Succotash, (corn and limas), raw    1.83
+2826   11015      1100                  Asparagus, canned, drained solids    1.83
+5758   18254      1800      Doughnuts, yeast-leavened, with creme filling    1.83
+5881   18414      1800                          Bread, raisin, unenriched    1.83
+2842   11038      1100  Lima beans, immature seeds, frozen, fordhook, ...    1.82
+2865   11084      1100                      Beets, canned, drained solids    1.82
+3334   11717      1100  Lima beans, immature seeds, frozen, fordhook, ...    1.82
+6212   19188      1900              Puddings, chocolate, dry mix, regular    1.82
+4810   16073      1600            Lima beans, large, mature seeds, canned    1.81
+8660   43114      1600                          Vermicelli, made from soy    1.81
+6513   20047      2000  Rice, white, long-grain, parboiled, enriched, ...    1.81
+8664   43131      1600                          Luncheon slices, meatless    1.80
+6366   19416      2500                Snacks, rice cakes, brown rice, rye    1.80
+8034   28232      1800                        MURRAY, Vanilla Sugar Wafer    1.80
+2960   11208      1100  Dandelion greens, cooked, boiled, drained, wit...    1.80
+3158   11446      1100           Seaweed, laver, raw (Porphyra laciniata)    1.80
+5792   18293      1800              Pancakes, plain, prepared from recipe    1.80
+7904   28100      1800  KEEBLER, FUDGE SHOPPE, Fudge Sticks, Peanut Bu...    1.80
+1967    8463       800  Cereals ready-to-eat, KASHI ORGANIC PROMISE, S...    1.80
+3398   11782      1100  Dandelion greens, cooked, boiled, drained, wit...    1.80
+5752   18247      1800  Danish pastry, nut (includes almond, raisin nu...    1.80
+5076   16591      1600            WORTHINGTON Leanies, frozen, unprepared    1.80
+5022   16505      1600  LOMA LINDA Swiss Stake with Gravy, canned, unp...    1.80
+5750   18245      1800                              Danish pastry, cheese    1.80
+7989   28186      1800       KELLOGG'S, SPECIAL K, Cracker Chips, Cheddar    1.80
+7990   28187      1800      KELLOGG'S, SPECIAL K, Cracker Chips, Sea Salt    1.80
+5026   16509      1600            LOMA LINDA Linketts, canned, unprepared    1.80
+6507   20040      2000                     Rice, brown, medium-grain, raw    1.80
+5631   18092      1800                Cake, pudding-type, carrot, dry mix    1.80
+4266   14195      1400  Beverages, Cocoa mix, NESTLE, Hot Cocoa Mix Ri...    1.80
+4268   14197      1400    Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix    1.80
+2916   11147      1100  Chard, swiss, raw (Beta vulgaris subsp. vulaga...    1.80
+6217   19194      1900                            Puddings, rice, dry mix    1.79
+2369    9297       900          Raisins, golden seedless (Vitis vinifera)    1.79
+8751   43528      1400     Beverages, ABBOTT, ENSURE PLUS, ready-to-drink    1.79
+2010    8569       800  Cereals, KASHI HEART TO HEART, Instant Oatmeal...    1.79
+4530   15049      1500  Fish, mackerel, king, raw (Scombermorus cavall...    1.78
+1208    6006       600    Soup, bean with frankfurters, canned, condensed    1.78
+3499   11888      1100    Tomato products, canned, puree, with salt added    1.78
+3229   11547      1100  Tomato products, canned, puree, without salt a...    1.78
+5751   18246      1800  Danish pastry, fruit, enriched (includes apple...    1.77
+2930   11165      1100  Coriander (cilantro) leaves, raw (Coriandrum s...    1.77
+6132   19100      1900    Candies, fudge, chocolate, prepared-from-recipe    1.77
+6515   20049      2000  Rice, white, long-grain, precooked or instant,...    1.77
+6571   20118      2000         Noodles, flat, crunchy, Chinese restaurant    1.76
+6588   20139      2000  Wheat, KAMUT khorasan, cooked (Triticum turgid...    1.76
+5760   18256      1800      Doughnuts, yeast-leavened, with jelly filling    1.76
+6168   19138      1900            Candies, truffles, prepared-from-recipe    1.75
+3504   11893      1100  Turnip greens and turnips, frozen, cooked, boi...    1.75
+4821   16084      1600  Mungo beans, mature seeds, cooked, boiled, wit...    1.75
+3248   11577      1100  Turnip greens and turnips, frozen, cooked, boi...    1.75
+4994   16384      1600  Mungo beans, mature seeds, cooked, boiled, wit...    1.75
+8617   42272      2500  Snacks, granola bar, with coconut, chocolate c...    1.75
+4835   16098      1600             Peanut butter, smooth style, with salt    1.74
+3413   11797      1100  Mushrooms, white, cooked, boiled, drained, wit...    1.74
+5002   16398      1600          Peanut butter, smooth style, without salt    1.74
+6595   20315      2000  Corn flour, whole-grain, blue (harina de maiz ...    1.74
+7709   25013      2500  Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, ...    1.74
+6079   19039      2500   Snacks, popcorn, caramel-coated, without peanuts    1.74
+3009   11261      1100  Mushrooms, white, cooked, boiled, drained, wit...    1.74
+8602   42227      1900  Candies, MARS SNACKFOOD US, M&M's Almond Choco...    1.73
+8089   28287      1800  Bread, naan, whole wheat, commercially prepare...    1.73
+4748   16008      1600                  Beans, baked, canned, with franks    1.73
+4150   14041      1400  Beverages, NESTLE, Boost plus, nutritional dri...    1.73
+3654   12101      1200      Nuts, chestnuts, european, boiled and steamed    1.73
+3015   11268      1100       Mushrooms, shiitake, dried (Lentinus edodes)    1.72
+6575   20125      2000                         Pasta, whole-wheat, cooked    1.72
+5793   18294      1800          Pancakes, blueberry, prepared from recipe    1.72
+1275    6118       600                                  Gravy, brown, dry    1.72
+6159   19127      1900             Candies, milk chocolate coated raisins    1.71
+8107   28305      1800                       Pancakes, plain, reduced fat    1.71
+3077   11350      1100  Pokeberry shoots, (poke), raw (Phytolacca amer...    1.70
+8739   43447      2500      Snacks, corn-based, extruded, chips, unsalted    1.70
+5698   18187      1800         Cookies, peanut butter, refrigerated dough    1.70
+8648   43031      1900      Candies, chocolate covered, caramel with nuts    1.70
+1315    6189       600    Sauce, teriyaki, ready-to-serve, reduced sodium    1.70
+5033   16516      1600  WORTHINGTON Multigrain Cutlets, canned, unprep...    1.70
+7918   28114      1800  KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE...    1.70
+5023   16506      1600         LOMA LINDA Vege-Burger, canned, unprepared    1.70
+4749   16009      1600                    Beans, baked, canned, with pork    1.70
+4895   16171      1600                  Refried beans, canned, vegetarian    1.70
+4953   16276      1600               Vitasoy USA Azumaya, Extra Firm Tofu    1.70
+5869   18390      1800         Pancakes, buttermilk, prepared from recipe    1.70
+6352   19401      2500                  Snacks, cornnuts, barbecue-flavor    1.70
+5085   16606      1600  MORNINGSTAR FARMS Mediterranean Chickpea, froz...    1.70
+2264    9165       900                                     Litchis, dried    1.70
+7991   28188      1800  KELLOGG'S, SPECIAL K, Cracker Chips, Sour Crea...    1.70
+2967   11215      1100                       Garlic, raw (Allium sativum)    1.70
+7898   28093      1800  KEEBLER, FUDGE SHOPPE, Grasshopper Cookies, Fu...    1.70
+5059   16554      1600  MORNINGSTAR FARMS Tomato & Basil Pizza Burger,...    1.70
+1270    6112       600                    Sauce, teriyaki, ready-to-serve    1.70
+5058   16552      1600  MORNINGSTAR FARMS Mushroom Lover's Burger, fro...    1.70
+7884   28078      1800  KEEBLER, FUDGE SHOPPE, Mint Creme Middles, Cho...    1.70
+1245    6051       600       Soup, pea, split with ham, canned, condensed    1.70
+4952   16275      1600  Vitasoy USA Organic Nasoya Sprouted, Tofu Plus...    1.70
+6118   19086      1900     Candies, confectioner's coating, peanut butter    1.70
+6250   19235      1900        Puddings, chocolate, ready-to-eat, fat free    1.69
+4957   16281      1600                      HOUSE FOODS Premium Firm Tofu    1.69
+8726   43392      1100                                Hearts of palm, raw    1.69
+4556   15075      1500                            Fish, sablefish, smoked    1.69
+3552   11943      1100                                    Pimento, canned    1.68
+3202   11503      1100  Swamp cabbage, (skunk cabbage), raw (Ipomoea a...    1.67
+6406   19813      2500  Snacks, pretzels, hard, plain, made with unenr...    1.67
+6405   19812      2500  Snacks, pretzels, hard, plain, made with unenr...    1.67
+6056   19009      2500                     Snacks, KRAFT, CORNNUTS, plain    1.67
+3309   11672      1100                                    Potato pancakes    1.67
+5003   16399      1600                 Peanut butter with omega-3, creamy    1.67
+3060   11317      1100  Peas, mature seeds, sprouted, cooked, boiled, ...    1.67
+5772   18269      1800  French toast, prepared from recipe, made with ...    1.67
+5000   16396      1600       Peanuts, virginia, oil-roasted, without salt    1.67
+3431   11815      1100  Peas, mature seeds, sprouted, cooked, boiled, ...    1.67
+302     2054       200                  Capers, canned (Capparis spinosa)    1.67
+4833   16096      1600          Peanuts, virginia, oil-roasted, with salt    1.67
+4694   15217      1500              Fish, sucker, white, cooked, dry heat    1.67
+6590   20141      2000  Spelt, cooked (Triticum aestivum L. subsp. spe...    1.67
+4681   15204      1500              Fish, pike, walleye, cooked, dry heat    1.67
+3130   11409      1100  Potatoes, frozen, french fried, par fried, ext...    1.66
+4999   16394      1600       Peanuts, valencia, oil-roasted, without salt    1.65
+6585   20136      2000  Pasta, whole grain, 51% whole wheat, remaining...    1.65
+4831   16094      1600          Peanuts, valencia, oil-roasted, with salt    1.65
+8132   28330      1800  Cookies, marshmallow, with rice cereal and cho...    1.64
+5846   18360      1800                                 Taco shells, baked    1.64
+5986   18936      1800  Pancakes, plain, frozen, ready-to-heat, microw...    1.64
+3662   12117      1200  Nuts, coconut milk, raw (liquid expressed from...    1.64
+3017   11270      1100              Mustard greens, raw (Brassica juncea)    1.64
+7724   25030      2500  Snacks, vegetable chips, HAIN CELESTIAL GROUP,...    1.64
+8174   28373      1800       UDI'S, Gluten Free, Whole Grain Dinner Rolls    1.64
+1555    6631       600                         Sauce, hot chile, sriracha    1.64
+5663   18146      1800  Cake, yellow, prepared from recipe without fro...    1.64
+8145   28343      1800  Rolls, gluten-free, whole grain, made with tap...    1.64
+6454   19906      1900  Sweeteners, for baking, brown, contains sugar ...    1.64
+4685   15208      1500                  Fish, sablefish, cooked, dry heat    1.64
+8762   43566      2500  Snacks, tortilla chips, light (baked with less...    1.63
+6404   19811      2500              Snacks, potato chips, plain, unsalted    1.63
+6163   19132      1900              Candies, milk chocolate, with almonds    1.63
+3109   11384      1100           Potatoes, au gratin, dry mix, unprepared    1.63
+6403   19810      2500  Snacks, potato chips, plain, made with partial...    1.63
+5873   18401      1800  Pie crust, cookie-type, prepared from recipe, ...    1.63
+3247   11576      1100      Turnip greens and turnips, frozen, unprepared    1.63
+6402   19809      2500  Snacks, potato chips, plain, made with partial...    1.63
+6373   19424      2500  Snacks, tortilla chips, nacho-flavor, reduced fat    1.63
+4601   15121      1500  Fish, tuna, light, canned in water, drained so...    1.63
+4527   15046      1500  Fish, mackerel, Atlantic, raw (Scomber scombru...    1.63
+5778   18275      1800                        Muffins, blueberry, dry mix    1.62
+5650   18121      1800  Cake, pound, commercially prepared, other than...    1.62
+1225    6026       600                Soup, chili beef, canned, condensed    1.62
+5941   18529      1800           ARCHWAY Home Style Cookies, Frosty Lemon    1.62
+7726   25032      2500  Snacks, granola bar, KASHI GOLEAN, chewy, mixe...    1.62
+4635   15157      1500  Mollusks, clam, mixed species, raw (Lamellibra...    1.62
+4896   16172      1600                    Refried beans, canned, fat-free    1.62
+5647   18117      1800                Cake, pudding-type, marble, dry mix    1.62
+4862   16126      1600  Tofu, firm, prepared with calcium sulfate and ...    1.61
+3332   11715      1100  Lima beans, immature seeds, canned, no salt ad...    1.61
+294     2046       200                          Mustard, prepared, yellow    1.61
+5635   18101      1800  Cake, chocolate, prepared from recipe without ...    1.61
+8088   28286      1800  Bread, paratha, whole wheat, commercially prep...    1.61
+2427    9427       900                   Abiyuch, raw (Crateva religiosa)    1.61
+6321   19340      1900                                      Sugars, maple    1.61
+2840   11033      1100  Lima beans, immature seeds, canned, regular pa...    1.61
+3638   12071      1200                                 Nuts, almond paste    1.60
+6374   19433      2500         Tortilla chips, low fat, baked without fat    1.60
+4950   16273      1600   Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm    1.60
+4747   16007      1600                    Beans, baked, canned, with beef    1.60
+5027   16510      1600              WORTHINGTON Chili, canned, unprepared    1.60
+4697   15220      1500      Fish, tuna, skipjack, fresh, cooked, dry heat    1.60
+6049   19001      1900  Candies, TOBLERONE, milk chocolate with honey ...    1.60
+7807   27068       600                Dip, FRITO'S, bean, original flavor    1.60
+4906   16212      1600        Vitasoy USA, Organic Nasoya Extra Firm Tofu    1.60
+4904   16210      1600                 Vitasoy USA, Nasoya Lite Firm Tofu    1.60
+2307    9231       900  Passion-fruit, (granadilla), purple, raw (Pass...    1.60
+2923   11156      1100                 Chives, raw (Allium schoenoprasum)    1.60
+6416   19833      2500          Snacks, tortilla chips, low fat, unsalted    1.60
+3074   11344      1100    Pigeonpeas, immature seeds, raw (Cajanus cajan)    1.60
+6083   19043      2500  Snacks, potato chips, sour-cream-and-onion-flavor    1.60
+3669   12128      1200                           Nuts, ginkgo nuts, dried    1.60
+6520   20054      2000       Rice, white, glutinous, unenriched, uncooked    1.60
+2199    9088       900                  Elderberries, raw (Sambucus spp.)    1.60
+7804   27065       600                         Dip, bean, original flavor    1.60
+6362   19412      2500  Snacks, potato chips, made from dried potatoes...    1.60
+5025   16508      1600         LOMA LINDA Tender Bits, canned, unprepared    1.60
+5843   18356      1800  Sweet rolls, cinnamon, commercially prepared w...    1.60
+1569    6738       600  Soup, split pea with ham and bacon, canned, co...    1.59
+4490   15009      1500                       Fish, carp, cooked, dry heat    1.59
+4827   16090      1600         Peanuts, all types, dry-roasted, with salt    1.58
+6411   19819      2500  Snacks, rice cakes, brown rice, sesame seed, u...    1.58
+5656   18134      1800                 Cake, sponge, prepared from recipe    1.58
+6646   20652      2000  Pasta, whole grain, 51% whole wheat, remaining...    1.58
+3469   11855      1100  Spinach, canned, no salt added, solids and liq...    1.58
+6425   19871      1900   Frozen novelties, No Sugar Added, FUDGSICLE pops    1.58
+4997   16390      1600      Peanuts, all types, dry-roasted, without salt    1.58
+3168   11459      1100  Spinach, canned, regular pack, solids and liquids    1.58
+6092   19053      2500        Snacks, rice cakes, brown rice, sesame seed    1.58
+6531   20068      2000                                Tapioca, pearl, dry    1.58
+8093   28291      1800            Cookies, animal, with frosting or icing    1.57
+4764   16026      1600        Beans, great northern, mature seeds, canned    1.57
+5661   18142      1800                Cake, pudding-type, yellow, dry mix    1.57
+3442   11826      1100  Pigeonpeas, immature seeds, cooked, boiled, dr...    1.57
+4965   16326      1600  Beans, great northern, mature seeds, canned, l...    1.57
+4528   15047      1500         Fish, mackerel, Atlantic, cooked, dry heat    1.57
+3075   11345      1100  Pigeonpeas, immature seeds, cooked, boiled, dr...    1.57
+3220   11526      1100               Taro, tahitian, cooked, without salt    1.56
+7730   25036      2500               Snacks, granola bites, mixed flavors    1.56
+4872   16137      1600                              Hummus, home prepared    1.56
+6115   19083      1900            Candies, sweet chocolate coated fondant    1.56
+5789   18290      1800       Pancakes, plain, dry mix, complete, prepared    1.56
+3495   11881      1100                  Taro, tahitian, cooked, with salt    1.56
+4759   16021      1600     Beans, cranberry (roman), mature seeds, canned    1.55
+3580   11973      1100              Beans, fava, in pod, raw (Vicia faba)    1.55
+7734   25040      2500  Snacks, vegetable chips, made from garden vege...    1.55
+3031   11284      1100                          Onions, dehydrated flakes    1.55
+7717   25022      2500  Snacks, FRITOLAY, SUNCHIPS, multigrain, French...    1.55
+2194    9083       900       Currants, european black, raw (Ribes nigrum)    1.54
+6052   19004      2500  Snacks, corn-based, extruded, chips, barbecue-...    1.54
+4695   15218      1500      Fish, sunfish, pumpkin seed, cooked, dry heat    1.54
+3065   11326      1100                Peas and onions, frozen, unprepared    1.54
+3427   11811      1100    Peas, green, cooked, boiled, drained, with salt    1.54
+3052   11305      1100  Peas, green, cooked, boiled, drained, without ...    1.54
+1207    6004       600            Soup, bean with pork, canned, condensed    1.53
+4956   16279      1600                      HOUSE FOODS Premium Soft Tofu    1.53
+6000   18952      1800                               Tostada shells, corn    1.53
+3057   11312      1100                    Peas, green, frozen, unprepared    1.53
+4661   15184      1500  Fish, tuna, light, canned in water, without sa...    1.53
+5658   18139      1800  Cake, white, prepared from recipe without fros...    1.52
+3430   11814      1100  Peas, green, frozen, cooked, boiled, drained, ...    1.52
+3058   11313      1100  Peas, green, frozen, cooked, boiled, drained, ...    1.52
+4826   16089      1600         Peanuts, all types, oil-roasted, with salt    1.52
+2152    9034       900  Apricots, dried, sulfured, stewed, with added ...    1.52
+4996   16389      1600      Peanuts, all types, oil-roasted, without salt    1.52
+6093   19056      2500  Snacks, tortilla chips, plain, white corn, salted    1.52
+3197   11496      1100  Succotash, (corn and limas), cooked, boiled, d...    1.52
+5705   18196      1800             Cookies, brownies, dry mix, sugar free    1.52
+3485   11871      1100  Succotash, (corn and limas), cooked, boiled, d...    1.52
+6005   18957      1800  Cake, pound, BIMBO Bakeries USA, Panque Casero...    1.51
+2841   11037      1100  Lima beans, immature seeds, frozen, fordhook, ...    1.51
+3245   11574      1100                  Turnip greens, frozen, unprepared    1.51
+3657   12109      1200  Nuts, coconut meat, dried (desiccated), sweete...    1.51
+4523   15042      1500                  Fish, herring, Atlantic, kippered    1.51
+3244   11570      1100          Turnip greens, canned, solids and liquids    1.51
+8723   43387      1100               Turnip greens, canned, no salt added    1.51
+5019   16500      1600        LOMA LINDA Little Links, canned, unprepared    1.50
+5021   16504      1600  LOMA LINDA Tender Rounds with Gravy, canned, u...    1.50
+8007   28204      1800                    MOTHER'S, Jungle Animal Cookies    1.50
+8013   28210      1800            MURRAY, SUGAR FREE, Vanilla Sugar Wafer    1.50
+3261   11595      1100  Winged beans, immature seeds, raw (Psophocarpu...    1.50
+7899   28094      1800  KEEBLER, FUDGE SHOPPE, Jumbo Fudge Sticks, Van...    1.50
+3649   12096      1200                  Nuts, chestnuts, chinese, roasted    1.50
+5028   16511      1600           WORTHINGTON Choplets, canned, unprepared    1.50
+8004   28201      1800            MOTHER'S, Holiday Circus Animal Cookies    1.50
+8003   28200      1800         MOTHER'S, Halloween Circus Animals Cookies    1.50
+7999   28196      1800                    MOTHER'S, Circus Animal Cookies    1.50
+6251   19236      1900  Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND ...    1.50
+7997   28194      1800        MOTHER'S, 4th of July Circus Animal Cookies    1.50
+1205    6002       600                Soup, black bean, canned, condensed    1.50
+5049   16534      1600          WORTHINGTON Stakelets, frozen, unprepared    1.50
+5057   16551      1600  MORNINGSTAR FARMS Asian Veggie Patties, frozen...    1.50
+3021   11274      1100  Mustard spinach, (tendergreen), raw (Brassica ...    1.50
+8667   43135      1600                          Sandwich spread, meatless    1.50
+1873    8172       800                   Cereals, farina, unenriched, dry    1.50
+4969   16335      1600  Beans, kidney, red, mature seeds, canned, drai...    1.50
+4595   15114      1500       Fish, trout, mixed species, raw (Salmonidae)    1.50
+7887   28081      1800      KEEBLER, FUDGE SHOPPE, Caramel Filled Cookies    1.50
+4876   16145      1600  Beans, kidney, red, mature seeds, canned, drai...    1.50
+4980   16353      1600  Broadbeans (fava beans), mature seeds, cooked,...    1.50
+4791   16053      1600  Broadbeans (fava beans), mature seeds, cooked,...    1.50
+1818    8071       800  Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY...    1.50
+8783   80200      1500                                     Frog legs, raw    1.50
+7742   25052      2500  Snacks, granola bar, QUAKER, chewy, 90 Calorie...    1.50
+2869   11089      1100  Broadbeans, immature seeds, cooked, boiled, dr...    1.50
+3355   11738      1100  Broadbeans, immature seeds, cooked, boiled, dr...    1.50
+6586   20137      2000         Quinoa, cooked (Chenopodium quinoa Willd.)    1.49
+4678   15201      1500  Fish, mackerel, Pacific and jack, mixed specie...    1.49
+4484   15003      1500  Fish, bass, fresh water, mixed species, raw (P...    1.49
+5806   18310      1800        Pie, chocolate creme, commercially prepared    1.49
+6090   19051      2500             Snacks, rice cracker brown rice, plain    1.49
+5815   18322      1800                   Pie, mince, prepared from recipe    1.49
+3128   11407      1100  Potatoes, french fried, cottage-cut, salt not ...    1.49
+6408   19816      2500    Snacks, rice cakes, brown rice, plain, unsalted    1.49
+7732   25038      2500  Snacks, granola bars, soft, almond, confection...    1.49
+6517   20051      2000        Rice, white, medium-grain, enriched, cooked    1.49
+7747   25059      2500                           Snacks, brown rice chips    1.49
+8600   42204      2500  Rice cake, cracker (include hain mini rice cakes)    1.49
+3454   11840      1100  Potatoes, frozen, french fried, par fried, cot...    1.49
+5818   18325      1800                   Pie, pecan, prepared from recipe    1.48
+5649   18120      1800  Cake, pound, commercially prepared, butter (in...    1.48
+5648   18119      1800  Cake, pineapple upside-down, prepared from recipe    1.48
+3038   11291      1100  Onions, spring or scallions (includes tops and...    1.48
+2379    9311       900                 Roselle, raw (Hibiscus sabdariffa)    1.48
+1243    6049       600                Soup, pea, green, canned, condensed    1.48
+3593   11986      1100                            Malabar spinach, cooked    1.48
+2982   11233      1100     Kale, raw (Brassica oleracea (Acephala Group))    1.47
+6593   20310      2000    Noodles, egg, cooked, enriched, with added salt    1.47
+4977   16347      1600  Beans, pinto, mature seeds, canned, solids and...    1.47
+3051   11304      1100                   Peas, green, raw (Pisum sativum)    1.47
+6489   20019      2000                Corn flour, masa, unenriched, white    1.47
+6563   20110      2000                     Noodles, egg, enriched, cooked    1.47
+4782   16044      1600  Beans, pinto, mature seeds, canned, solids and...    1.47
+3154   11439      1100             Sauerkraut, canned, solids and liquids    1.47
+5783   18281      1800                        Muffins, corn, toaster-type    1.47
+6519   20053      2000         Rice, white, short-grain, enriched, cooked    1.46
+1556    6632       600     Sauce, hot chile, sriracha, CHA! BY TEXAS PETE    1.46
+4727   15252      1500  USDA Commodity, salmon nuggets, cooked as purc...    1.46
+3568   11959      1100                        Arugula, raw (Eruca sativa)    1.46
+4671   15194      1500                   Fish, mahimahi, cooked, dry heat    1.45
+4859   16123      1600          Soy sauce made from soy and wheat (shoyu)    1.45
+6069   19026      2500  Snacks, granola bars, soft, coated, milk choco...    1.45
+8575   42139      2500  Granola bar, soft, milk chocolate coated, pean...    1.45
+8151   28349      1800                      Cookies, oatmeal, reduced fat    1.45
+8652   43059      1900  Candies, chocolate covered, low sugar or low c...    1.45
+3710   12202      1200  Nuts, chestnuts, japanese, raw (Castanea crenata)    1.45
+5683   18171      1800                                   Cookies, fortune    1.44
+5005   16403      1600  Refried beans, canned, traditional, reduced so...    1.44
+7743   25053      2500  Snacks, granola bar, GENERAL MILLS NATURE VALL...    1.44
+4840   16103      1600  Refried beans, canned, traditional style (incl...    1.44
+4674   15197      1500           Fish, herring, Pacific, cooked, dry heat    1.44
+4492   15011      1500  Fish, catfish, channel, cooked, breaded and fried    1.43
+7751   25064      2500               Snacks, potato chips, lightly salted    1.43
+1293    6151       600                        Sauce, plum, ready-to-serve    1.43
+3596   11989      1100           Mushrooms, straw, canned, drained solids    1.43
+5642   18108      1800  Coffeecake, cinnamon with crumb topping, dry m...    1.43
+6242   19226      1900         Frostings, chocolate, creamy, ready-to-eat    1.42
+4351   14316      1400  Beverages, Malted drink mix, chocolate, with a...    1.42
+4803   16065      1600  Cowpeas, common (blackeyes, crowder, southern)...    1.42
+4537   15056      1500            Fish, mullet, striped, cooked, dry heat    1.41
+3646   12093      1200  Nuts, chestnuts, chinese, raw (Castanea mollis...    1.41
+4521   15040      1500          Fish, herring, Atlantic, cooked, dry heat    1.41
+8663   43130      1600                              Frankfurter, meatless    1.41
+4705   15228      1500  Crustaceans, spiny lobster, mixed species, coo...    1.41
+1274    6117       600  CAMPBELL'S Red and White, Bean with Bacon Soup...    1.41
+4725   15250      1500                  Mollusks, conch, baked or broiled    1.41
+7718   25023      2500  Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, ...    1.41
+2129    9011       900                  Apples, dried, sulfured, uncooked    1.40
+8784   83110      1500                             Fish, mackerel, salted    1.40
+5577   18019      1800  Bread, banana, prepared from recipe, made with...    1.40
+8026   28224      1800            MURRAY, SUGAR FREE, Fudge Dipped Wafers    1.40
+3590   11983      1100  Pickles, chowchow, with cauliflower onion must...    1.40

@@ -1,0 +1,33 @@
+252     2003       200            Spices, basil, dried (Ocimum basilicum)  2240.0   89.80
+272     2023       200        Spices, marjoram, dried (Origanum majorana)  1990.0   82.71
+256     2007       200             Spices, celery seed (Apium graveolens)  1767.0   44.90
+276     2027       200          Spices, oregano, dried (Origanum vulgare)  1597.0   36.80
+285     2036       200   Spices, rosemary, dried (Rosmarinus officinalis)  1280.0   29.25
+278     2029       200      Spices, parsley, dried (Petroselinum crispum)  1140.0   22.04
+259     2010       200   Spices, cinnamon, ground (Cinnamomum aromaticum)  1002.0    8.32
+3620   12024      1200    Seeds, sesame seeds, whole, roasted and toasted   989.0   14.76
+3619   12023      1200  Seeds, sesame seeds, whole, dried (Sesamum ind...   975.0   14.55
+263     2014       200               Spices, cumin seed (Cuminum cyminum)   931.0   66.36
+262     2013       200        Spices, coriander seed (Coriandrum sativum)   709.0   16.32
+3609   12006      1200        Seeds, chia seeds, dried (Salvia hispanica)   631.0    7.72
+3149   11432      1100                          Radishes, oriental, dried   629.0    6.73
+264     2015       200                               Spices, curry powder   525.0   19.10
+279     2030       200               Spices, pepper, black (Piper nigrum)   443.0    9.71
+8443   35233      3500  Hazelnuts, beaked (Northern Plains Indians) (C...   441.0    3.12
+3695   12166      1200  Seeds, sesame butter, tahini, from roasted and...   426.0    8.95
+275     2026       200                 Spices, onion powder (Allium cepa)   384.0    3.90
+4569   15088      1500  Fish, sardine, Atlantic, canned in oil, draine...   382.0    2.92
+3281   11624      1100  Leeks, (bulb and lower-leaf portion), freeze-d...   360.0    7.60
+4793   16055      1600                    Carob flour (Ceratonia siliqua)   348.0    2.94
+304     2063       200           Rosemary, fresh (Rosmarinus officinalis)   317.0    6.65
+3109   11384      1100           Potatoes, au gratin, dry mix, unprepared   311.0    1.63
+3724   12565      1200        Nuts, almonds, oil roasted, with salt added   291.0    3.68
+4729   15260      1500         Fish, salmon, pink, canned, drained solids   283.0    0.77
+3634   12061      1200                      Nuts, almonds (Prunus dulcis)   269.0    3.71
+3715   12220      1200              Seeds, flaxseed (Linum usitatissimum)   255.0    5.73
+4570   15089      1500  Fish, sardine, Pacific, canned in tomato sauce...   240.0    2.30
+2379    9311       900                 Roselle, raw (Hibiscus sabdariffa)   215.0    1.48
+3314   11683      1100                                 Carrot, dehydrated   212.0    3.93
+3279   11622      1100  Kale, scotch, raw (Brassica napus (Pabularia G...   205.0    3.00
+4768   16030      1600  Beans, kidney, california red, mature seeds, r...   195.0    9.35
+6019   18971      1800                                      Bread, potato   188.0    2.25
