@@ -17,12 +17,13 @@ import getpass
 username = getpass.getuser()
 
 if username == 'josifoski':
-    dir_in = '/home/josifoski/Dropbox/pytodos/pytodos/'
+    dir_in = '/home/josifoski/Dropbox/pytodos/'
 elif username == 'mfp':
     dir_in = '/home/' + username + '/Dropbox/pytodos/'
 else:
     dir_in = ''
 dir_backup = dir_in + 'pytodos_backup/'
+
 
 
 def dump_json():
@@ -910,7 +911,7 @@ def main():
                 d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].lstrip('+-').strip()
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -957,7 +958,7 @@ def main():
                 d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].lstrip('+%').strip()
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1015,7 +1016,7 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = new_value
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1048,7 +1049,7 @@ def main():
             for item in l:
                 f.write(item + os.linesep)
         os.system('clear')
-        os.system(f'python3 f{dir_in} pytodos.py r t')
+        os.system(f'python3 {dir_in} pytodos.py r t')
         sys.exit()
     # --------------------------------------------------------------------------
     if sys.argv[1].lower() in ('sh', 'shift'):
@@ -1148,7 +1149,7 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day].append(text)
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} + pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1218,7 +1219,7 @@ def main():
             del d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])]
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1279,7 +1280,7 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = text
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1346,7 +1347,7 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] += pre(text)
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1454,7 +1455,7 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].replace(replacewith, replaceto, 1)
             os.system('clear')
             dump_json()
-            os.system(f'python3 f{dir_in} pytodos.py r t')
+            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1493,8 +1494,6 @@ def main():
                 replacewith, replaceto = smallril(text)
                 d['recurrent']['dayinmonth'][sys.argv[4]][int(sys.argv[5])] = d['recurrent']['dayinmonth'][sys.argv[4]][int(sys.argv[5])].replace(replacewith, replaceto, 1)
         dump_json()
-
-
 
 if __name__ == '__main__':
     initialise()
