@@ -25,6 +25,8 @@ t + t 12
 t - y 0  
   
 t del rec ed 0  
+t fa 1 lentil 100  
+t s Beko  
   
 For more examples (fetching all sys.argv lines)  
 cat pytodos.py | grep sys.argv > zexamples.txt  

@@ -911,7 +911,6 @@ def main():
                 d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].lstrip('+-').strip()
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -958,7 +957,6 @@ def main():
                 d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].lstrip('+%').strip()
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1016,7 +1014,6 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = new_value
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1049,7 +1046,6 @@ def main():
             for item in l:
                 f.write(item + os.linesep)
         os.system('clear')
-        os.system(f'python3 {dir_in} pytodos.py r t')
         sys.exit()
     # --------------------------------------------------------------------------
     if sys.argv[1].lower() in ('sh', 'shift'):
@@ -1086,7 +1082,6 @@ def main():
             shift_list([y, dmonths[int(m.lstrip('0'))], day], int(sys.argv[3]), int(sys.argv[4]))
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} + pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1149,7 +1144,6 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day].append(text)
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1219,7 +1213,6 @@ def main():
             del d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])]
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1280,7 +1273,6 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = text
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1347,7 +1339,6 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] += pre(text)
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
@@ -1388,6 +1379,13 @@ def main():
         search('', d, sys.argv[2:])
         lsearchout.sort()
         for item in lsearchout:
+            nyear = item.split('/')[1]
+            nmonth = item.split('/')[2][:2]
+            nday = item.split('/')[3]
+            nweekday = datetime.datetime(int(nyear), int(nmonth), int(nday)).strftime('%A')[:2].lower()
+            litem = item.split('/')
+            litem[4] = nweekday + litem[4]
+            item = '/'.join(litem)
             print(item)
     # --------------------------------------------------------------------------
     if sys.argv[1].lower() in ('fa', 'foodsanalysis'):
@@ -1455,7 +1453,6 @@ def main():
             d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])] = d[y][dmonths[int(m.lstrip('0'))]][day][int(sys.argv[3])].replace(replacewith, replaceto, 1)
             os.system('clear')
             dump_json()
-            os.system(f'python3 {dir_in} pytodos.py r t')
             sys.exit()
 
         if sys.argv[2].lower() in ('tom', 'tomorrow'):
